@@ -1,0 +1,387 @@
+http://purl.org/bncf/tid/51214,Abachi,http://it.wikipedia.org/wiki/Abaco,0.7791
+http://purl.org/bncf/tid/1017,Abiti,http://it.wikipedia.org/wiki/Abbigliamento,0.8166
+http://purl.org/bncf/tid/1014,Abiti nuziali,http://it.wikipedia.org/wiki/Abito_nuziale,0.6304
+http://purl.org/bncf/tid/18018,Acceleratore Van der Graaf,http://it.wikipedia.org/wiki/Acceleratore_di_particelle,0.681
+http://purl.org/bncf/tid/22570,Acceleratori di ioni,http://it.wikipedia.org/wiki/Acceleratore_di_particelle,0.6396
+http://purl.org/bncf/tid/1595,Acceleratori di particelle,http://it.wikipedia.org/wiki/Acceleratore_di_particelle,0.9008
+http://purl.org/bncf/tid/1594,Acceleratori elettrostatici,http://it.wikipedia.org/wiki/Acceleratore_di_particelle,0.7363
+http://purl.org/bncf/tid/39592,Accumulatori al piombo,http://it.wikipedia.org/wiki/Pila_%28elettrotecnica%29,0.8085
+http://purl.org/bncf/tid/39688,Accumulatori Planté,http://it.wikipedia.org/wiki/Accumulatore_di_carica_elettrica,0.799
+http://purl.org/bncf/tid/2428,Acquisti,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.7587
+http://purl.org/bncf/tid/49727,Aeroplani d'assalto,http://it.wikipedia.org/wiki/Aeroplano,0.7027
+http://purl.org/bncf/tid/4282,Aeroplani militari sovietici,http://it.wikipedia.org/wiki/Aeroplano,0.7185
+http://purl.org/bncf/tid/35274,Aerostati,http://it.wikipedia.org/wiki/Aerostato,0.8334
+http://purl.org/bncf/tid/50390,Aghi,http://it.wikipedia.org/wiki/Ago_%28cucito%29,0.6595
+http://purl.org/bncf/tid/28047,Alberi elettrici,http://it.wikipedia.org/wiki/Albero_%28meccanica%29,0.8156
+http://purl.org/bncf/tid/41323,Alberi portaeliche navali,http://it.wikipedia.org/wiki/Albero_%28meccanica%29,0.7907
+http://purl.org/bncf/tid/40753,Alesatori,http://it.wikipedia.org/wiki/Alesatore,0.8193
+http://purl.org/bncf/tid/22806,Alternatori,http://it.wikipedia.org/wiki/Alternatore,0.8682
+http://purl.org/bncf/tid/21793,Amplificatori elettrici,http://it.wikipedia.org/wiki/Amplificatore,0.7315
+http://purl.org/bncf/tid/21797,Amplificatori elettronici,http://it.wikipedia.org/wiki/Amplificatore_%28elettronica%29,0.8455
+http://purl.org/bncf/tid/22195,Amplificatori rotanti,http://it.wikipedia.org/wiki/Amplificatore,0.7418
+http://purl.org/bncf/tid/22376,Amplificatori selettivi,http://it.wikipedia.org/wiki/Amplificatore,0.8193
+http://purl.org/bncf/tid/50858,Androidi,http://it.wikipedia.org/wiki/Androide,0.8196
+http://purl.org/bncf/tid/25632,Anelli,http://it.wikipedia.org/wiki/Anello_%28gioiello%29,0.6369
+http://purl.org/bncf/tid/21674,Anemometri a filo caldo,http://it.wikipedia.org/wiki/Anemometro,0.7418
+http://purl.org/bncf/tid/15583,Anemometri a laser Doppler,http://it.wikipedia.org/wiki/Anemometro,0.7697
+http://purl.org/bncf/tid/1671,Antenne,http://it.wikipedia.org/wiki/Antenna,0.8164
+http://purl.org/bncf/tid/24928,Antenne a cortina,http://it.wikipedia.org/wiki/Antenna,0.8624
+http://purl.org/bncf/tid/10802,Antichità egizie,http://it.wikipedia.org/wiki/Antico_Egitto,0.7245
+http://purl.org/bncf/tid/17469,Antichità mesopotamiche,http://it.wikipedia.org/wiki/Storia_antica,0.8363
+http://purl.org/bncf/tid/22809,Apparecchiature pneumatiche,http://it.wikipedia.org/wiki/Apparecchiature_chimiche,0.7878
+http://purl.org/bncf/tid/18357,Apparecchiature scientifiche,http://it.wikipedia.org/wiki/Apparecchiature_chimiche,0.8515
+http://purl.org/bncf/tid/16297,Aquiloni,http://it.wikipedia.org/wiki/Aquilone,0.6741
+http://purl.org/bncf/tid/21788,Archi continui,http://it.wikipedia.org/wiki/Arco_%28geometria%29,0.7667
+http://purl.org/bncf/tid/9315,Armamenti,http://it.wikipedia.org/wiki/Arma,0.6841
+http://purl.org/bncf/tid/49299,Armamenti navali,http://it.wikipedia.org/wiki/Arma,0.7245
+http://purl.org/bncf/tid/2456,Armi da fuoco,http://it.wikipedia.org/wiki/Arma_da_fuoco,0.8124
+http://purl.org/bncf/tid/2475,Armi non letali,http://it.wikipedia.org/wiki/Arma_non_letale,0.6883
+http://purl.org/bncf/tid/11595,Armi subacquee,http://it.wikipedia.org/wiki/Arma,0.6998
+http://purl.org/bncf/tid/2212,Arpe,http://it.wikipedia.org/wiki/Arpa,0.784
+http://purl.org/bncf/tid/3161,Arredi,http://it.wikipedia.org/wiki/Arredamento,0.6878
+http://purl.org/bncf/tid/26666,Artiglierie,http://it.wikipedia.org/wiki/Artiglieria,0.763
+http://purl.org/bncf/tid/49852,Artiglierie costiere,http://it.wikipedia.org/wiki/Artiglieria,0.681
+http://purl.org/bncf/tid/49847,Artiglierie da campagna,http://it.wikipedia.org/wiki/Artiglieria,0.851
+http://purl.org/bncf/tid/26665,Artiglierie navali,http://it.wikipedia.org/wiki/Artiglieria,0.7123
+http://purl.org/bncf/tid/48160,Asce,http://it.wikipedia.org/wiki/Ascia,0.7223
+http://purl.org/bncf/tid/23414,Attrezzature,http://it.wikipedia.org/wiki/Attrezzo,0.7385
+http://purl.org/bncf/tid/39695,Attrezzature meccaniche,http://it.wikipedia.org/wiki/Attrezzo,0.871
+http://purl.org/bncf/tid/39536,Attrezzi agricoli,http://it.wikipedia.org/wiki/Attrezzo,0.8624
+http://purl.org/bncf/tid/39540,Autoclavi,http://it.wikipedia.org/wiki/Autoclave,0.8409
+http://purl.org/bncf/tid/22631,Automotrici,http://it.wikipedia.org/wiki/Automotrice,0.8608
+http://purl.org/bncf/tid/16871,Autorespiratori ad aria,http://it.wikipedia.org/wiki/Autorespiratore_ad_aria,0.7186
+http://purl.org/bncf/tid/39572,Autotreni,http://it.wikipedia.org/wiki/Autotreno,0.8291
+http://purl.org/bncf/tid/22406,Autoveicoli a trazione anteriore,http://it.wikipedia.org/wiki/Autoveicolo,0.643
+http://purl.org/bncf/tid/20829,Autoveicoli fuoristrada,http://it.wikipedia.org/wiki/Autovettura,0.8348
+http://purl.org/bncf/tid/45705,Autoveicoli industriali,http://it.wikipedia.org/wiki/Automobile,0.8064
+http://purl.org/bncf/tid/48784,Azionamenti elettrici,http://it.wikipedia.org/wiki/Azionamento_elettrico,0.8105
+http://purl.org/bncf/tid/15228,Bandiere ombra,http://it.wikipedia.org/wiki/Bandiera,0.6289
+http://purl.org/bncf/tid/41781,Barche inaffondabili,http://it.wikipedia.org/wiki/Imbarcazione,0.653
+http://purl.org/bncf/tid/40371,Battelli,http://it.wikipedia.org/wiki/Imbarcazione,0.8074
+http://purl.org/bncf/tid/27744,Bersagli mobili,http://it.wikipedia.org/wiki/Bersaglio,0.7514
+http://purl.org/bncf/tid/46774,Biciclette sportive,http://it.wikipedia.org/wiki/Bicicletta,0.6402
+http://purl.org/bncf/tid/39412,Bilance,http://it.wikipedia.org/wiki/Bilancia_%28strumento%29,0.6696
+http://purl.org/bncf/tid/31322,Bilancia di Eötvös,http://it.wikipedia.org/wiki/Bilancia_%28strumento%29,0.6943
+http://purl.org/bncf/tid/19832,Bilancieri <Attrezzi sportivi>,http://it.wikipedia.org/wiki/Bilanciere,0.7201
+http://purl.org/bncf/tid/677,Bombe,http://it.wikipedia.org/wiki/Bomba,0.7096
+http://purl.org/bncf/tid/49699,Bombe a gas,http://it.wikipedia.org/wiki/Bomba,0.7503
+http://purl.org/bncf/tid/41037,Bombole,http://it.wikipedia.org/wiki/Bombola_%28subacquea%29,0.7078
+http://purl.org/bncf/tid/47174,Bongos,http://it.wikipedia.org/wiki/Bongo,0.8263
+http://purl.org/bncf/tid/48774,Bossoli,http://it.wikipedia.org/wiki/Bossolo,0.7663
+http://purl.org/bncf/tid/48544,Bratteati,http://it.wikipedia.org/wiki/Bratteato,0.8531
+http://purl.org/bncf/tid/8693,Bronzetti,http://it.wikipedia.org/wiki/Bronzo,0.8217
+http://purl.org/bncf/tid/1266,Bronzi,http://it.wikipedia.org/wiki/Bronzo,0.741
+http://purl.org/bncf/tid/29497,Bruciatori,http://it.wikipedia.org/wiki/Bruciatore,0.7028
+http://purl.org/bncf/tid/27841,Bulini,http://it.wikipedia.org/wiki/Bulino,0.7601
+http://purl.org/bncf/tid/23046,Bulloni ad alta resistenza,http://it.wikipedia.org/wiki/Vite_%28meccanica%29,0.7064
+http://purl.org/bncf/tid/9838,Burattini,http://it.wikipedia.org/wiki/Burattino,0.6615
+http://purl.org/bncf/tid/18765,Bussole topografiche,http://it.wikipedia.org/wiki/Bussola,0.7086
+http://purl.org/bncf/tid/19673,Busti <Biancheria femminile>,http://it.wikipedia.org/wiki/Corsetto,0.7635
+http://purl.org/bncf/tid/19016,Calcolatrici,http://it.wikipedia.org/wiki/Calcolatrice,0.8114
+http://purl.org/bncf/tid/19017,Calcolatrici automatiche,http://it.wikipedia.org/wiki/Calcolatrice,0.7201
+http://purl.org/bncf/tid/19244,Calcolatrici elettroniche,http://it.wikipedia.org/wiki/Calcolatrice,0.7536
+http://purl.org/bncf/tid/29800,Calici,http://it.wikipedia.org/wiki/Calice_%28liturgia%29,0.7086
+http://purl.org/bncf/tid/29819,Calvari,http://it.wikipedia.org/wiki/Calvario_%28scultura%29,0.744
+http://purl.org/bncf/tid/29830,Calvari brettoni,http://it.wikipedia.org/wiki/Calvario_%28scultura%29,0.8515
+http://purl.org/bncf/tid/4506,Calzature sportive,http://it.wikipedia.org/wiki/Calzatura,0.8018
+http://purl.org/bncf/tid/32978,Calzetteria,http://it.wikipedia.org/wiki/Calze,0.6395
+http://purl.org/bncf/tid/15860,Camere oscure,http://it.wikipedia.org/wiki/Camera_oscura,0.8164
+http://purl.org/bncf/tid/40833,Candelabri,http://it.wikipedia.org/wiki/Candelabro,0.6621
+http://purl.org/bncf/tid/5772,Canne da lancio,http://it.wikipedia.org/wiki/Canna_da_pesca,0.9154
+http://purl.org/bncf/tid/17806,Cannoni,http://it.wikipedia.org/wiki/Cannone,0.79
+http://purl.org/bncf/tid/48779,Cannoniere,http://it.wikipedia.org/wiki/Cannoniera,0.7993
+http://purl.org/bncf/tid/26668,Cannoni navali,http://it.wikipedia.org/wiki/Cannone,0.6396
+http://purl.org/bncf/tid/23380,Canotti pneumatici,http://it.wikipedia.org/wiki/Gommone,0.7993
+http://purl.org/bncf/tid/8613,Caratteri tipografici arabi,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.7418
+http://purl.org/bncf/tid/8642,Caratteri tipografici corsivi,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.7245
+http://purl.org/bncf/tid/8619,Caratteri tipografici ebraici,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.7353
+http://purl.org/bncf/tid/8624,Caratteri tipografici gotici,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.8777
+http://purl.org/bncf/tid/8489,Caratteri tipografici greci,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.8193
+http://purl.org/bncf/tid/40879,Carene,http://it.wikipedia.org/wiki/Carena,0.7762
+http://purl.org/bncf/tid/26857,Carri allegorici,http://it.wikipedia.org/wiki/Carro_allegorico,0.7366
+http://purl.org/bncf/tid/16504,Carri armati,http://it.wikipedia.org/wiki/Carro_armato,0.8324
+http://purl.org/bncf/tid/18890,Carri armati statunitensi,http://it.wikipedia.org/wiki/Carro_armato,0.7697
+http://purl.org/bncf/tid/21922,Carri armati Tiger,http://it.wikipedia.org/wiki/Carro_armato,0.741
+http://purl.org/bncf/tid/10530,Carrozzerie,http://it.wikipedia.org/wiki/Carrozzeria,0.7397
+http://purl.org/bncf/tid/23039,Carrucole,http://it.wikipedia.org/wiki/Carrucola,0.7418
+http://purl.org/bncf/tid/22907,Casseforme,http://it.wikipedia.org/wiki/Cassaforma,0.7728
+http://purl.org/bncf/tid/21446,Casseforti,http://it.wikipedia.org/wiki/Cassaforte,0.6955
+http://purl.org/bncf/tid/41873,Catene di trasmissione,http://it.wikipedia.org/wiki/Catena_%28meccanica%29,0.8204
+http://purl.org/bncf/tid/17363,Cenacoli,http://it.wikipedia.org/wiki/Cenacolo,0.7576
+http://purl.org/bncf/tid/34622,Ceramiche africane,http://it.wikipedia.org/wiki/Ceramica_sigillata,0.653
+http://purl.org/bncf/tid/38475,Ceramiche cipriote,http://it.wikipedia.org/wiki/Ceramica_greca,0.8066
+http://purl.org/bncf/tid/47246,Ceramiche corinzie,http://it.wikipedia.org/wiki/Ceramica_corinzia,0.7823
+http://purl.org/bncf/tid/758,Ceramiche islamiche,http://it.wikipedia.org/wiki/Ceramica,0.8797
+http://purl.org/bncf/tid/28576,Ceramiche messapiche,http://it.wikipedia.org/wiki/Ceramica,0.6744
+http://purl.org/bncf/tid/29931,Ceri pasquali,http://it.wikipedia.org/wiki/Candela_%28illuminazione%29,0.9
+http://purl.org/bncf/tid/22903,Cinescopi,http://it.wikipedia.org/wiki/Schermo_a_tubo_catodico,0.8525
+http://purl.org/bncf/tid/41317,Cinture,http://it.wikipedia.org/wiki/Cintura,0.6289
+http://purl.org/bncf/tid/20807,Circuiti a microonde,http://it.wikipedia.org/wiki/Circuito_integrato,0.7733
+http://purl.org/bncf/tid/28592,Circuiti di controllo,http://it.wikipedia.org/wiki/Circuito_elettronico,0.794
+http://purl.org/bncf/tid/22621,Circuiti digitali,http://it.wikipedia.org/wiki/Circuito_digitale,0.7779
+http://purl.org/bncf/tid/1770,Circuiti elettrici lineari,http://it.wikipedia.org/wiki/Circuito_elettrico,0.7278
+http://purl.org/bncf/tid/23846,Circuiti elettrici non lineari,http://it.wikipedia.org/wiki/Circuito_elettrico,0.8334
+http://purl.org/bncf/tid/24871,Circuiti integrati MOS,http://it.wikipedia.org/wiki/Circuito_integrato,0.7208
+http://purl.org/bncf/tid/13844,Circuiti logici,http://it.wikipedia.org/wiki/Circuito_digitale,0.7297
+http://purl.org/bncf/tid/13210,Circuiti stampati,http://it.wikipedia.org/wiki/Circuito_stampato,0.8216
+http://purl.org/bncf/tid/18813,Collezioni archeologiche,http://it.wikipedia.org/wiki/Collezionismo,0.8018
+http://purl.org/bncf/tid/40955,Comparatori,http://it.wikipedia.org/wiki/Comparatore,0.8066
+http://purl.org/bncf/tid/23840,Compressori alternativi,http://it.wikipedia.org/wiki/Compressore_alternativo,0.8122
+http://purl.org/bncf/tid/23838,Compressori assiali,http://it.wikipedia.org/wiki/Compressore_assiale,0.7186
+http://purl.org/bncf/tid/42058,Compressori stradali,http://it.wikipedia.org/wiki/Compressore,0.6402
+http://purl.org/bncf/tid/41436,Condensatori di vapore,http://it.wikipedia.org/wiki/Condensatore_%28tecnologie_chimiche%29,0.8109
+http://purl.org/bncf/tid/15659,Conocchie,http://it.wikipedia.org/wiki/Conocchia,0.7732
+http://purl.org/bncf/tid/18095,Container,http://it.wikipedia.org/wiki/Container,0.7743
+http://purl.org/bncf/tid/10377,Copertine illustrate,http://it.wikipedia.org/wiki/Copertina,0.7499
+http://purl.org/bncf/tid/11939,Corazze,http://it.wikipedia.org/wiki/Corazza,0.7442
+http://purl.org/bncf/tid/27014,Cornette,http://it.wikipedia.org/wiki/Cornetta,0.799
+http://purl.org/bncf/tid/27020,Cornici barocche,http://it.wikipedia.org/wiki/Cornice_%28architettura%29,0.7028
+http://purl.org/bncf/tid/7859,Costruzioni navali,http://it.wikipedia.org/wiki/Cantiere_navale,0.6964
+http://purl.org/bncf/tid/1505,Croci,http://it.wikipedia.org/wiki/Croce,0.6402
+http://purl.org/bncf/tid/28791,Cronografi <Strumenti per misure>,http://it.wikipedia.org/wiki/Cronografo,0.7993
+http://purl.org/bncf/tid/28790,Cronometri,http://it.wikipedia.org/wiki/Cronometro,0.6838
+http://purl.org/bncf/tid/42182,Cruscotti,http://it.wikipedia.org/wiki/Cruscotto,0.8224
+http://purl.org/bncf/tid/49134,Cucchiai,http://it.wikipedia.org/wiki/Cucchiaio,0.6738
+http://purl.org/bncf/tid/25099,Diodi tunnel,http://it.wikipedia.org/wiki/Diodo,0.8066
+http://purl.org/bncf/tid/27975,Dipinti su vetro,http://it.wikipedia.org/wiki/Pittura,0.7533
+http://purl.org/bncf/tid/1933,Dischi fonografici,http://it.wikipedia.org/wiki/Disco_in_vinile,0.7226
+http://purl.org/bncf/tid/40657,Distillatori,http://it.wikipedia.org/wiki/Distillazione,0.7751
+http://purl.org/bncf/tid/26747,Dittafoni,http://it.wikipedia.org/wiki/Dittafono,0.7697
+http://purl.org/bncf/tid/38587,Divani,http://it.wikipedia.org/wiki/Divano,0.6972
+http://purl.org/bncf/tid/6025,DVD <Digital versatile disk>,http://it.wikipedia.org/wiki/DVD,0.7608
+http://purl.org/bncf/tid/42610,Elettroscopi,http://it.wikipedia.org/wiki/Elettroscopio,0.8034
+http://purl.org/bncf/tid/2564,Elmetti,http://it.wikipedia.org/wiki/Elmetto,0.7044
+http://purl.org/bncf/tid/23205,Equalizzatori,http://it.wikipedia.org/wiki/Equalizzazione,0.8603
+http://purl.org/bncf/tid/23187,Esche artificiali,http://it.wikipedia.org/wiki/Esca,0.7907
+http://purl.org/bncf/tid/16330,Esposimetri,http://it.wikipedia.org/wiki/Esposimetro,0.7591
+http://purl.org/bncf/tid/20470,Estensimetri,http://it.wikipedia.org/wiki/Estensimetro,0.8435
+http://purl.org/bncf/tid/23543,Evaporatori rotanti,http://it.wikipedia.org/wiki/Evaporatore,0.8336
+http://purl.org/bncf/tid/27362,Fari marittimi,http://it.wikipedia.org/wiki/Faro,0.7245
+http://purl.org/bncf/tid/23191,Fibre ottiche,http://it.wikipedia.org/wiki/Fibra_ottica,0.871
+http://purl.org/bncf/tid/50397,Filet,http://it.wikipedia.org/wiki/Merletto_a_filet,0.7387
+http://purl.org/bncf/tid/25031,Filtri,http://it.wikipedia.org/wiki/Filtrazione,0.7582
+http://purl.org/bncf/tid/23588,Filtri a microonde,http://it.wikipedia.org/wiki/Filtro_%28elettronica%29,0.761
+http://purl.org/bncf/tid/23589,Filtri digitali,http://it.wikipedia.org/wiki/Filtro_%28elettronica%29,0.7733
+http://purl.org/bncf/tid/16574,Filtri ottici,http://it.wikipedia.org/wiki/Filtro_%28ottica%29,0.7499
+http://purl.org/bncf/tid/42420,Flange,http://it.wikipedia.org/wiki/Flangia,0.7099
+http://purl.org/bncf/tid/35537,Foulard,http://it.wikipedia.org/wiki/Foulard,0.7133
+http://purl.org/bncf/tid/42452,Freni,http://it.wikipedia.org/wiki/Freno,0.7801
+http://purl.org/bncf/tid/18512,Funi,http://it.wikipedia.org/wiki/Fune,0.6776
+http://purl.org/bncf/tid/3857,Galee,http://it.wikipedia.org/wiki/Galea,0.8072
+http://purl.org/bncf/tid/17045,Galee veneziane,http://it.wikipedia.org/wiki/Galea,0.8774
+http://purl.org/bncf/tid/43394,Galleggianti,http://it.wikipedia.org/wiki/Idrovolante,0.6693
+http://purl.org/bncf/tid/41177,Gasogeni,http://it.wikipedia.org/wiki/Gassogeno,0.9
+http://purl.org/bncf/tid/28976,Generatori di corrente,http://it.wikipedia.org/wiki/Generatore_di_corrente,0.7555
+http://purl.org/bncf/tid/25813,Generatori elettrici,http://it.wikipedia.org/wiki/Generatore_elettrico,0.7513
+http://purl.org/bncf/tid/25672,Generatori magnetoidrodinamici,http://it.wikipedia.org/wiki/Generatore_elettrico,0.799
+http://purl.org/bncf/tid/41855,Giroscopi,http://it.wikipedia.org/wiki/Giroscopio,0.848
+http://purl.org/bncf/tid/22897,Giunti cardanici,http://it.wikipedia.org/wiki/Giunto_cardanico,0.8156
+http://purl.org/bncf/tid/3371,Go-ban,http://it.wikipedia.org/wiki/Goban,0.9108
+http://purl.org/bncf/tid/4658,Graffiti,http://it.wikipedia.org/wiki/Graffitismo,0.7231
+http://purl.org/bncf/tid/48930,Granate,http://it.wikipedia.org/wiki/Granata_%28arma%29,0.6524
+http://purl.org/bncf/tid/19315,Gravimetri,http://it.wikipedia.org/wiki/Gravimetro,0.7428
+http://purl.org/bncf/tid/5195,Gruppi di continuità,http://it.wikipedia.org/wiki/Gruppo_di_continuit%C3%A0,0.8906
+http://purl.org/bncf/tid/22293,Gru scorrevoli,http://it.wikipedia.org/wiki/Gru_%28trasporto%29,0.7027
+http://purl.org/bncf/tid/13081,Icone russe,http://it.wikipedia.org/wiki/Icona_%28arte%29,0.7449
+http://purl.org/bncf/tid/43827,Idrovore,http://it.wikipedia.org/wiki/Idrovora,0.6744
+http://purl.org/bncf/tid/11366,Imbarcazioni da diporto,http://it.wikipedia.org/wiki/Imbarcazione,0.6904
+http://purl.org/bncf/tid/21304,Impermeabili,http://it.wikipedia.org/wiki/Impermeabile_%28abbigliamento%29,0.7064
+http://purl.org/bncf/tid/21716,Incrociatori,http://it.wikipedia.org/wiki/Incrociatore,0.7997
+http://purl.org/bncf/tid/10891,Indumenti,http://it.wikipedia.org/wiki/Abbigliamento,0.75
+http://purl.org/bncf/tid/24537,Induttori,http://it.wikipedia.org/wiki/Induttore,0.8435
+http://purl.org/bncf/tid/50121,Inneschi,http://it.wikipedia.org/wiki/Innesco,0.6785
+http://purl.org/bncf/tid/20037,Interferometri,http://it.wikipedia.org/wiki/Interferometro,0.8999
+http://purl.org/bncf/tid/44701,Klystron,http://it.wikipedia.org/wiki/Klystron,0.8869
+http://purl.org/bncf/tid/43633,Kokeshi,http://it.wikipedia.org/wiki/Kokeshi,0.8774
+http://purl.org/bncf/tid/16492,Lacche,http://it.wikipedia.org/wiki/Lacca,0.7541
+http://purl.org/bncf/tid/44758,Laminati,http://it.wikipedia.org/wiki/Laminazione,0.7882
+http://purl.org/bncf/tid/44759,Laminatoi,http://it.wikipedia.org/wiki/Laminatoio,0.6909
+http://purl.org/bncf/tid/49567,Lanciarazzi,http://it.wikipedia.org/wiki/Lanciarazzi,0.7922
+http://purl.org/bncf/tid/48318,Lanterne,http://it.wikipedia.org/wiki/Lanterna,0.6784
+http://purl.org/bncf/tid/3287,Lanterne magiche,http://it.wikipedia.org/wiki/Lanterna_magica,0.7786
+http://purl.org/bncf/tid/12523,Laser,http://it.wikipedia.org/wiki/Laser,0.8117
+http://purl.org/bncf/tid/4764,Legature,http://it.wikipedia.org/wiki/Legatura_%28tipografia%29,0.6693
+http://purl.org/bncf/tid/6691,Legature bizantine,http://it.wikipedia.org/wiki/Legatura_%28tipografia%29,0.7697
+http://purl.org/bncf/tid/23941,Lenze,http://it.wikipedia.org/wiki/Pesca_sportiva,0.6384
+http://purl.org/bncf/tid/44972,Libratori,http://it.wikipedia.org/wiki/Aliante,0.7912
+http://purl.org/bncf/tid/304,Libri d'artista,http://it.wikipedia.org/wiki/Libro_d%27arte,0.6473
+http://purl.org/bncf/tid/22291,Linee di trasmissione a strisce,http://it.wikipedia.org/wiki/Linea_di_trasmissione,0.7582
+http://purl.org/bncf/tid/45101,Lingotti,http://it.wikipedia.org/wiki/Lingotto_%28metallo%29,0.7579
+http://purl.org/bncf/tid/45247,Livelle sferiche,http://it.wikipedia.org/wiki/Livella,0.7882
+http://purl.org/bncf/tid/22181,Macchine da scrivere per ciechi,http://it.wikipedia.org/wiki/Macchina_per_scrivere,0.7133
+http://purl.org/bncf/tid/16398,Macchine fotografiche reflex,http://it.wikipedia.org/wiki/Single-lens_reflex,0.751
+http://purl.org/bncf/tid/50809,Macchine per insegnare,http://it.wikipedia.org/wiki/Macchina,0.7086
+http://purl.org/bncf/tid/45201,Macchine pneumatiche,http://it.wikipedia.org/wiki/Macchina,0.7569
+http://purl.org/bncf/tid/45270,Macchine termiche,http://it.wikipedia.org/wiki/Macchina_termica,0.7749
+http://purl.org/bncf/tid/32155,Maglieria,http://it.wikipedia.org/wiki/Lavorazione_a_maglia,0.7806
+http://purl.org/bncf/tid/26409,Magliette,http://it.wikipedia.org/wiki/Maglietta,0.7006
+http://purl.org/bncf/tid/9837,Marionette,http://it.wikipedia.org/wiki/Marionetta,0.7234
+http://purl.org/bncf/tid/23033,Mas,http://it.wikipedia.org/wiki/Motoscafo_Armato_Silurante,0.8007
+http://purl.org/bncf/tid/26540,Medaglioni romani,http://it.wikipedia.org/wiki/Medaglia,0.7743
+http://purl.org/bncf/tid/7592,Memorie non volatili,http://it.wikipedia.org/wiki/Memoria_non_volatile,0.7872
+http://purl.org/bncf/tid/20925,Meridiane,http://it.wikipedia.org/wiki/Meridiana,0.8067
+http://purl.org/bncf/tid/18468,Merletti a fuselli,http://it.wikipedia.org/wiki/Merletto,0.799
+http://purl.org/bncf/tid/49379,Micce,http://it.wikipedia.org/wiki/Miccia,0.7358
+http://purl.org/bncf/tid/50320,Micce a lenta combustione,http://it.wikipedia.org/wiki/Miccia,0.7697
+http://purl.org/bncf/tid/50323,Micce detonanti,http://it.wikipedia.org/wiki/Miccia,0.6915
+http://purl.org/bncf/tid/22688,Micrometri di posizione,http://it.wikipedia.org/wiki/Micrometro_%28unit%C3%A0_di_misura%29,0.7663
+http://purl.org/bncf/tid/22690,Micrometri filari,http://it.wikipedia.org/wiki/Micrometro,0.842
+http://purl.org/bncf/tid/23125,Microscopi a fluorescenza,http://it.wikipedia.org/wiki/Microscopio,0.7605
+http://purl.org/bncf/tid/11009,Microscopi operatori,http://it.wikipedia.org/wiki/Microscopio,0.681
+http://purl.org/bncf/tid/24517,Missili intercontinentali,http://it.wikipedia.org/wiki/Missile_balistico_intercontinentale,0.7759
+http://purl.org/bncf/tid/17807,Mitragliatrici,http://it.wikipedia.org/wiki/Mitragliatrice,0.7855
+http://purl.org/bncf/tid/6322,Mobili d'antiquariato,http://it.wikipedia.org/wiki/Arredamento,0.643
+http://purl.org/bncf/tid/6336,Mobili emiliani,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.8515
+http://purl.org/bncf/tid/16709,Mobili fiamminghi,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.8066
+http://purl.org/bncf/tid/16708,Mobili francesi,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.6976
+http://purl.org/bncf/tid/6341,Mobili friulani,http://it.wikipedia.org/wiki/Arredamento,0.7064
+http://purl.org/bncf/tid/16707,Mobili genovesi,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.7363
+http://purl.org/bncf/tid/33390,Mobili italiani,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.7424
+http://purl.org/bncf/tid/6333,Mobili lombardi,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.6776
+http://purl.org/bncf/tid/6323,Mobili piemontesi,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.8066
+http://purl.org/bncf/tid/6338,Mobili romani,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.7524
+http://purl.org/bncf/tid/6349,Mobili siciliani,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.681
+http://purl.org/bncf/tid/6354,Mobili toscani,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.7424
+http://purl.org/bncf/tid/6356,Mobili umbri,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.8797
+http://purl.org/bncf/tid/6358,Mobili veneti,http://it.wikipedia.org/wiki/Mobile_%28arredamento%29,0.9001
+http://purl.org/bncf/tid/3883,Modellini,http://it.wikipedia.org/wiki/Modellismo,0.8324
+http://purl.org/bncf/tid/3110,Modem,http://it.wikipedia.org/wiki/Modem,0.8837
+http://purl.org/bncf/tid/6502,Monete arabe,http://it.wikipedia.org/wiki/Moneta,0.7424
+http://purl.org/bncf/tid/6531,Monete bizantine,http://it.wikipedia.org/wiki/Monetazione_bizantina,0.7772
+http://purl.org/bncf/tid/6575,Monete celtiche,http://it.wikipedia.org/wiki/Moneta,0.7158
+http://purl.org/bncf/tid/6498,Monete francesi,http://it.wikipedia.org/wiki/Moneta,0.7697
+http://purl.org/bncf/tid/6508,Monete giapponesi,http://it.wikipedia.org/wiki/Moneta,0.8774
+http://purl.org/bncf/tid/6511,Monete indiane,http://it.wikipedia.org/wiki/Moneta,0.7855
+http://purl.org/bncf/tid/41398,Monete islamiche,http://it.wikipedia.org/wiki/Moneta,0.681
+http://purl.org/bncf/tid/6496,Monete italiane,http://it.wikipedia.org/wiki/Moneta,0.681
+http://purl.org/bncf/tid/6518,Monete longobarde,http://it.wikipedia.org/wiki/Moneta,0.7052
+http://purl.org/bncf/tid/6513,Monete messicane,http://it.wikipedia.org/wiki/Moneta,0.8254
+http://purl.org/bncf/tid/26607,Monete ossidionali,http://it.wikipedia.org/wiki/Moneta_ossidionale,0.7852
+http://purl.org/bncf/tid/6567,Monete ostrogote,http://it.wikipedia.org/wiki/Moneta,0.767
+http://purl.org/bncf/tid/26686,Monete pontificie,http://it.wikipedia.org/wiki/Moneta,0.7064
+http://purl.org/bncf/tid/47356,Monete romene,http://it.wikipedia.org/wiki/Moneta,0.7993
+http://purl.org/bncf/tid/6566,Monete sabaude,http://it.wikipedia.org/wiki/Moneta,0.7772
+http://purl.org/bncf/tid/6514,Monete tedesche,http://it.wikipedia.org/wiki/Moneta,0.7762
+http://purl.org/bncf/tid/6571,Monete vandale,http://it.wikipedia.org/wiki/Monetazione_romana,0.8515
+http://purl.org/bncf/tid/16498,Mortai da farmacia,http://it.wikipedia.org/wiki/Mortaio_%28utensile%29,0.8291
+http://purl.org/bncf/tid/30822,Motori asincroni,http://it.wikipedia.org/wiki/Motore_asincrono,0.7896
+http://purl.org/bncf/tid/25096,Motori volumetrici,http://it.wikipedia.org/wiki/Motore_a_vapore,0.7428
+http://purl.org/bncf/tid/25577,Multivibratori monostabili,http://it.wikipedia.org/wiki/Multivibratore,0.7855
+http://purl.org/bncf/tid/50108,Munizionamento,http://it.wikipedia.org/wiki/Munizione,0.7524
+http://purl.org/bncf/tid/46196,Navi miste,http://it.wikipedia.org/wiki/Nave,0.8018
+http://purl.org/bncf/tid/19003,Navi portaerei statunitensi,http://it.wikipedia.org/wiki/Nave,0.681
+http://purl.org/bncf/tid/30160,Nielli,http://it.wikipedia.org/wiki/Niello,0.851
+http://purl.org/bncf/tid/49454,Obici,http://it.wikipedia.org/wiki/Obice,0.8381
+http://purl.org/bncf/tid/24709,Obiettivi,http://it.wikipedia.org/wiki/Obiettivo_fotografico,0.761
+http://purl.org/bncf/tid/18150,Ombrelli,http://it.wikipedia.org/wiki/Ombrello,0.6852
+http://purl.org/bncf/tid/1270,Oreficerie,http://it.wikipedia.org/wiki/Oreficeria,0.6913
+http://purl.org/bncf/tid/20784,Orologi astronomici,http://it.wikipedia.org/wiki/Orologio_astronomico,0.7028
+http://purl.org/bncf/tid/18380,Oselle,http://it.wikipedia.org/wiki/Osella,0.7729
+http://purl.org/bncf/tid/18604,Parrucche,http://it.wikipedia.org/wiki/Parrucca,0.6362
+http://purl.org/bncf/tid/30555,Pastorali,http://it.wikipedia.org/wiki/Pastorale_%28liturgia%29,0.6396
+http://purl.org/bncf/tid/30556,Patere,http://it.wikipedia.org/wiki/Patera_%28archeologia%29,0.7689
+http://purl.org/bncf/tid/3878,Pendoli,http://it.wikipedia.org/wiki/Pendolo,0.7766
+http://purl.org/bncf/tid/22150,Pendoli astronomici,http://it.wikipedia.org/wiki/Pendolo,0.7582
+http://purl.org/bncf/tid/25293,Periscopi,http://it.wikipedia.org/wiki/Periscopio,0.7612
+http://purl.org/bncf/tid/18140,Pesi monetari,http://it.wikipedia.org/wiki/Peso_monetario,0.8003
+http://purl.org/bncf/tid/16783,Piroscafi,http://it.wikipedia.org/wiki/Piroscafo,0.8556
+http://purl.org/bncf/tid/30337,Pissidi,http://it.wikipedia.org/wiki/Pisside,0.7625
+http://purl.org/bncf/tid/49492,Pistole,http://it.wikipedia.org/wiki/Pistola,0.676
+http://purl.org/bncf/tid/30335,Piviali,http://it.wikipedia.org/wiki/Piviale,0.7514
+http://purl.org/bncf/tid/38411,Planetari,http://it.wikipedia.org/wiki/Pianeta,0.7197
+http://purl.org/bncf/tid/7830,Plastici,http://it.wikipedia.org/wiki/Materie_plastiche,0.6485
+http://purl.org/bncf/tid/18373,Polene,http://it.wikipedia.org/wiki/Polena,0.8301
+http://purl.org/bncf/tid/20423,Pompe,http://it.wikipedia.org/wiki/Pompa,0.6645
+http://purl.org/bncf/tid/28172,Presse a umido,http://it.wikipedia.org/wiki/Pressa,0.8885
+http://purl.org/bncf/tid/28432,Protesi acustiche,http://it.wikipedia.org/wiki/Protesi,0.8869
+http://purl.org/bncf/tid/50710,Pupi,http://it.wikipedia.org/wiki/Opera_dei_Pupi,0.7911
+http://purl.org/bncf/tid/25802,Quadripoli,http://it.wikipedia.org/wiki/Quadripolo,0.7486
+http://purl.org/bncf/tid/9807,Radiatori,http://it.wikipedia.org/wiki/Raffreddamento_a_liquido,0.6132
+http://purl.org/bncf/tid/43131,Radiotrasmettitori,http://it.wikipedia.org/wiki/Trasmettitore,0.8018
+http://purl.org/bncf/tid/3313,Reattori,http://it.wikipedia.org/wiki/Reattore_nucleare_a_fissione,0.663
+http://purl.org/bncf/tid/28156,Reattori cilindrici,http://it.wikipedia.org/wiki/Reattore_chimico,0.681
+http://purl.org/bncf/tid/24539,Reattori saturabili,http://it.wikipedia.org/wiki/Reattore_nucleare_a_fissione,0.8069
+http://purl.org/bncf/tid/21869,Reattori veloci,http://it.wikipedia.org/wiki/Reattore_a_neutroni_veloci,0.7907
+http://purl.org/bncf/tid/25016,Recipienti a pressione,http://it.wikipedia.org/wiki/Recipiente_in_pressione,0.7622
+http://purl.org/bncf/tid/21689,Regoli calcolatori,http://it.wikipedia.org/wiki/Regolo_calcolatore,0.824
+http://purl.org/bncf/tid/24635,Relè statici,http://it.wikipedia.org/wiki/Rel%C3%A8,0.7882
+http://purl.org/bncf/tid/28731,Resistori lineari,http://it.wikipedia.org/wiki/Resistore,0.8109
+http://purl.org/bncf/tid/48548,Reticolati,http://it.wikipedia.org/wiki/Filo_spinato,0.664
+http://purl.org/bncf/tid/16090,Ricami,http://it.wikipedia.org/wiki/Ricamo,0.7603
+http://purl.org/bncf/tid/49129,Ricognitori,http://it.wikipedia.org/wiki/Aereo_da_ricognizione,0.7161
+http://purl.org/bncf/tid/17488,Rimorchi,http://it.wikipedia.org/wiki/Rimorchio,0.7732
+http://purl.org/bncf/tid/24387,Rimorchiatori,http://it.wikipedia.org/wiki/Rimorchiatore,0.8732
+http://purl.org/bncf/tid/18597,Risciò,http://it.wikipedia.org/wiki/Risci%C3%B2,0.7687
+http://purl.org/bncf/tid/24665,Rotori,http://it.wikipedia.org/wiki/Rotore_%28meccanica%29,0.6809
+http://purl.org/bncf/tid/28649,Ruote elastiche,http://it.wikipedia.org/wiki/Ruota,0.851
+http://purl.org/bncf/tid/3731,Scafi,http://it.wikipedia.org/wiki/Scafo,0.6881
+http://purl.org/bncf/tid/4504,Scalmi,http://it.wikipedia.org/wiki/Scalmo,0.8454
+http://purl.org/bncf/tid/38292,Scandagli,http://it.wikipedia.org/wiki/Scandaglio,0.7054
+http://purl.org/bncf/tid/22766,Schede perforate,http://it.wikipedia.org/wiki/Scheda_perforata,0.8067
+http://purl.org/bncf/tid/19736,Sculture classiche,http://it.wikipedia.org/wiki/Scultura,0.6855
+http://purl.org/bncf/tid/7191,Sigilli,http://it.wikipedia.org/wiki/Sigillo_%28oggetto%29,0.6469
+http://purl.org/bncf/tid/34699,Silenziatori,http://it.wikipedia.org/wiki/Silenziatore_%28armi%29,0.653
+http://purl.org/bncf/tid/11594,Siluri,http://it.wikipedia.org/wiki/Siluro,0.8567
+http://purl.org/bncf/tid/19738,Sincrotroni,http://it.wikipedia.org/wiki/Sincrotrone,0.9297
+http://purl.org/bncf/tid/27390,Sincrotroni a focheggiamento forte,http://it.wikipedia.org/wiki/Sincrotrone,0.7081
+http://purl.org/bncf/tid/10365,Sistemi di identificazione a radiofrequenza,http://it.wikipedia.org/wiki/Sistema,0.8217
+http://purl.org/bncf/tid/7588,Sistemi elettronici,http://it.wikipedia.org/wiki/Sistema,0.7762
+http://purl.org/bncf/tid/9593,Sommergibili,http://it.wikipedia.org/wiki/Sommergibile,0.762
+http://purl.org/bncf/tid/27016,Specchi,http://it.wikipedia.org/wiki/Specchio,0.6845
+http://purl.org/bncf/tid/27381,Spettrometri,http://it.wikipedia.org/wiki/Spettrometro,0.8125
+http://purl.org/bncf/tid/27379,Spettrometri a raggi gamma,http://it.wikipedia.org/wiki/Spettrometro,0.6402
+http://purl.org/bncf/tid/5157,Stampe,http://it.wikipedia.org/wiki/Stampa,0.7513
+http://purl.org/bncf/tid/11314,Stampe americane,http://it.wikipedia.org/wiki/Stampa,0.8324
+http://purl.org/bncf/tid/11315,Stampe belghe,http://it.wikipedia.org/wiki/Stampa,0.8254
+http://purl.org/bncf/tid/11316,Stampe francesi,http://it.wikipedia.org/wiki/Stampa,0.7668
+http://purl.org/bncf/tid/9524,Stampe giapponesi,http://it.wikipedia.org/wiki/Ukiyo-e,0.6973
+http://purl.org/bncf/tid/11318,Stampe inglesi,http://it.wikipedia.org/wiki/Stampa,0.8066
+http://purl.org/bncf/tid/9518,Stampe italiane,http://it.wikipedia.org/wiki/Stampa,0.7772
+http://purl.org/bncf/tid/11321,Stampe olandesi,http://it.wikipedia.org/wiki/Stampa,0.7348
+http://purl.org/bncf/tid/9495,Stampe popolari,http://it.wikipedia.org/wiki/Stampa,0.7524
+http://purl.org/bncf/tid/11323,Stampe scandinave,http://it.wikipedia.org/wiki/Stampa,0.7027
+http://purl.org/bncf/tid/11324,Stampe spagnole,http://it.wikipedia.org/wiki/Stampa,0.7582
+http://purl.org/bncf/tid/11325,Stampe tedesche,http://it.wikipedia.org/wiki/Stampa,0.8658
+http://purl.org/bncf/tid/6922,Stoffe,http://it.wikipedia.org/wiki/Tessuto,0.77
+http://purl.org/bncf/tid/23999,Stralli,http://it.wikipedia.org/wiki/Strallo_%28ingegneria%29,0.7331
+http://purl.org/bncf/tid/22883,Strumentazione tecnica,http://it.wikipedia.org/wiki/Strumento_di_misura,0.8797
+http://purl.org/bncf/tid/27452,Strumenti dei passaggi,http://it.wikipedia.org/wiki/Telescopio,0.6855
+http://purl.org/bncf/tid/31905,Strumenti meteorologici,http://it.wikipedia.org/wiki/Strumento_di_misura,0.7968
+http://purl.org/bncf/tid/11041,Strumenti per la visione,http://it.wikipedia.org/wiki/Telescopio,0.7697
+http://purl.org/bncf/tid/5348,Strumenti per misure,http://it.wikipedia.org/wiki/Strumento_di_misura,0.751
+http://purl.org/bncf/tid/1425,Strumenti scientifici,http://it.wikipedia.org/wiki/Strumento_di_misura,0.7772
+http://purl.org/bncf/tid/28290,Tappeti ricamati,http://it.wikipedia.org/wiki/Tappeto,0.7591
+http://purl.org/bncf/tid/39952,Telai <Macchine>,http://it.wikipedia.org/wiki/Telaio_%28tessitura%29,0.8072
+http://purl.org/bncf/tid/33911,Teodoliti,http://it.wikipedia.org/wiki/Teodolite,0.8795
+http://purl.org/bncf/tid/4973,Terminali,http://it.wikipedia.org/wiki/Terminale_%28informatica%29,0.6534
+http://purl.org/bncf/tid/24980,Termostati,http://it.wikipedia.org/wiki/Termostato,0.8125
+http://purl.org/bncf/tid/13087,Tessere,http://it.wikipedia.org/wiki/Tessitura,0.6506
+http://purl.org/bncf/tid/24978,Timoni,http://it.wikipedia.org/wiki/Timone,0.729
+http://purl.org/bncf/tid/16835,Tiorbe,http://it.wikipedia.org/wiki/Tiorba,0.9192
+http://purl.org/bncf/tid/24227,Tiristori,http://it.wikipedia.org/wiki/Tiristore,0.8543
+http://purl.org/bncf/tid/5256,Trabaccoli,http://it.wikipedia.org/wiki/Trabaccolo,0.7627
+http://purl.org/bncf/tid/18534,Tram a cavalli,http://it.wikipedia.org/wiki/Tranvia,0.7309
+http://purl.org/bncf/tid/22961,Transistori,http://it.wikipedia.org/wiki/Transistor,0.7954
+http://purl.org/bncf/tid/24910,Trasmissioni meccaniche,http://it.wikipedia.org/wiki/Trasmissione_%28meccanica%29,0.8659
+http://purl.org/bncf/tid/7505,Treni,http://it.wikipedia.org/wiki/Treno,0.7822
+http://purl.org/bncf/tid/49272,Triangoli <Strumenti a percussione>,http://it.wikipedia.org/wiki/Triangolo_%28strumento_musicale%29,0.7907
+http://purl.org/bncf/tid/23920,Trimarani,http://it.wikipedia.org/wiki/Trimarano,0.8429
+http://purl.org/bncf/tid/25679,Tubi d'urto,http://it.wikipedia.org/wiki/Tubo,0.7105
+http://purl.org/bncf/tid/18030,Turbine,http://it.wikipedia.org/wiki/Turbina,0.7874
+http://purl.org/bncf/tid/22613,Turbine a gas,http://it.wikipedia.org/wiki/Turbina_a_gas,0.8462
+http://purl.org/bncf/tid/23929,Turboreattori,http://it.wikipedia.org/wiki/Turbogetto,0.8259
+http://purl.org/bncf/tid/2941,Utensili,http://it.wikipedia.org/wiki/Attrezzo,0.7413
+http://purl.org/bncf/tid/26015,Valvole automatiche,http://it.wikipedia.org/wiki/Valvola_a_fungo,0.8597
+http://purl.org/bncf/tid/26014,Valvole di sicurezza,http://it.wikipedia.org/wiki/Valvola_di_sicurezza,0.7292
+http://purl.org/bncf/tid/47254,Vasi corinzi,http://it.wikipedia.org/wiki/Vaso,0.8455
+http://purl.org/bncf/tid/23614,Veicoli ferroviari,http://it.wikipedia.org/wiki/Veicolo_ferroviario,0.8216
+http://purl.org/bncf/tid/51756,Vele,http://it.wikipedia.org/wiki/Vela_%28sistema_di_propulsione%29,0.8081
+http://purl.org/bncf/tid/45558,Veleggiatori,http://it.wikipedia.org/wiki/Aliante,0.7781
+http://purl.org/bncf/tid/12279,Velivoli,http://it.wikipedia.org/wiki/Velivolo,0.7628
+http://purl.org/bncf/tid/12328,Velivoli ultraleggeri,http://it.wikipedia.org/wiki/Ultraleggero,0.7704
+http://purl.org/bncf/tid/6136,Vestiario,http://it.wikipedia.org/wiki/Abbigliamento,0.767
+http://purl.org/bncf/tid/29565,Vetri dipinti,http://it.wikipedia.org/wiki/Vetro,0.7315
+http://purl.org/bncf/tid/48164,Vetri romani,http://it.wikipedia.org/wiki/Vetro,0.8085
+http://purl.org/bncf/tid/26340,Volani,http://it.wikipedia.org/wiki/Volano_%28meccanica%29,0.7463
+http://purl.org/bncf/tid/25995,Voltmetri elettronici,http://it.wikipedia.org/wiki/Voltmetro,0.8797
+http://purl.org/bncf/tid/37029,Zangole,http://it.wikipedia.org/wiki/Zangola,0.7183
