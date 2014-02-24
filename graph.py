@@ -27,6 +27,10 @@ def graph():
 
     line, = ax.plot(values, 'ro', picker=5)
 
+    plt.title('Punteggi di confidenza dei match Thesauro-Wikipedia')
+    plt.xlabel('no.')
+    plt.ylabel('Punteggio di confidenza')
+
     def onpick(event):
         thisline = event.artist
         xdata = thisline.get_xdata()
