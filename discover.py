@@ -140,8 +140,6 @@ if __name__ == '__main__':
             print name, 'già nella lista: continuo'
             continue
 
-        narrower = g.query_skos('narrower', subject_url)
-
         definition = g.query_skos('definition', subject_url)
         definition = definition and definition[0][0].value or u''
 
