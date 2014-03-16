@@ -17,8 +17,31 @@
 # along with this program (see COPYING).
 # If not, see <http://www.gnu.org/licenses/>.
 #########################################################################
+"""Usage:
+  discover.py <input_xml> [ -c CONFIG | --config CONFIG ]
+                          [ -s STOPWORDS | --stopwords STOPWORDS ]
+                          [ -n NEW | --new-annotations NEW ]
+                          [ -d DIFF | --different-annotations DIFF ]
+                          [ -p PROC | --processed-items PROC ]
+
+  discover.py -h | --help | --version
+
+
+Options:
+  -h --help                                     Show this screen.
+  --version                                     Show version.
+  -c CONFIG, --config CONFIG                    Config file path [default: ./config/settings.cfg].
+  -s STOPWORDS, --stopwords STOPWORDS           Stopwords file path [default: ./utils/stop.txt].
+  -n NEW, --new-annotations NEW                 File to store the new annotations [default: ./new_annotations.map].
+  -d STOPWORDS, --different-annotations DIFF    File to store the annotations which are different from the ones in the BNCF Thesaurus
+                                                [default: ./different_annotations.map].
+  -p PROC, --processed-items PROC               File to store the processed items
+                                                [default: ./processed-items.dat].
+
+"""
 
 import os
+from docopt import docopt
 from rdflib import Namespace
 from rdflib import Graph
 from Stemmer import Stemmer
@@ -36,18 +59,6 @@ NS = {'rdf': "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
       'dc': "http://purl.org/dc/elements/1.1/",
       'nsogi': "http://prefix.cc/nsogi"
       }
-
-INFILE_DIR = '/home/cristian/Wikimedia/bot/soggettario/thes'
-
-CONFIG_DIR = os.path.join(INFILE_DIR, 'config')
-
-CACHE_DIR = os.path.join(INFILE_DIR, '.cache_dir')
-
-STOPWORDS_FILE = os.path.join('stop.txt')
-
-NEW_ANNOTATIONS = 'new_annotations.map'
-
-DIFFERENT_ANNOTATIONS = 'different_annotations.map'
 
 
 class SKOSGraph(Graph):
@@ -84,28 +95,54 @@ def read_stopword(stopwords_file):
 
     return stopwords
 
+
+def touchopen(filename, *args, **kwargs):
+    ''' Open the file in R/W and create if it doesn't exist.
+        From:
+            http://stackoverflow.com/questions/10349781/
+            how-to-open-read-write-or-create-a-file-with-truncation-possible
+    '''
+
+    fd = os.open(filename, os.O_RDWR | os.O_CREAT)
+
+    # Encapsulate the low-level file descriptor in a python file object
+    return os.fdopen(fd, *args, **kwargs)
+
+
+def wikipedia_match(annotation):
+    wiki_match = ann['uri']
+    confidence = ann['confidence']
+    return wiki_match, confidence
+
+
 # ----- main -----
 if __name__ == '__main__':
+    arguments = docopt(__doc__, version='0.2.0')
+    print(arguments)
 
-    infile_name = 'NS-SKOS-Cose-Oggetti.xml'
-    infile = os.path.join(INFILE_DIR, infile_name)
+    infile = arguments['<input_xml>']
 
-    config_name = 'settings.cfg'
-    config_file = os.path.join(CONFIG_DIR, config_name)
-
+    config_file = arguments['--config']
     config = configparser.ConfigParser()
     config.read(config_file)
 
-    stopwords = read_stopword(STOPWORDS_FILE)
+    stopwords_file = arguments['--stopwords']
+    stopwords = read_stopword(stopwords_file)
+
+    new_annotations = arguments['--new-annotations']
+    different_annotations = arguments['--different-annotations']
+
+    processed_items = arguments['--processed-items']
 
     stemmer = Stemmer('italian')
 
     app_id = config.get('keys', 'app_id')
     app_key = config.get('keys', 'app_key')
+    cache_dir = config.get('cache', 'cache_dir')
 
     datatxt = DataTXT(app_id=app_id,
                       app_key=app_key,
-                      cache=FileCache(CACHE_DIR)
+                      cache=FileCache(cache_dir)
                       )
 
     g = SKOSGraph()
@@ -127,11 +164,11 @@ if __name__ == '__main__':
             tot=tot)
 
         readlist = []
-        with open(NEW_ANNOTATIONS, 'r') as infile:
+        with touchopen(new_annotations, 'r') as infile:
             reader = UnicodeReader(infile)
             readlist += [int(re[0].split('/')[-1]) for re in reader]
 
-        with open(DIFFERENT_ANNOTATIONS, 'r') as infile:
+        with touchopen(different_annotations, 'r') as infile:
             reader = UnicodeReader(infile)
             readlist += [int(re[0].split('/')[-1]) for re in reader]
 
@@ -139,6 +176,17 @@ if __name__ == '__main__':
         if subject_id in readlist:
             print name, 'già nella lista: continuo'
             continue
+
+        proclist = []
+        with touchopen(processed_items, 'r') as infile:
+            proclist += [int(tid) for tid in infile.readlines()]
+
+        if subject_id in proclist:
+            print name, 'già processato: continuo'
+            continue
+
+        with open(processed_items, 'a+') as outfile:
+            outfile.write(str(subject_id)+'\n')
 
         definition = g.query_skos('definition', subject_url)
         definition = definition and definition[0][0].value or u''
@@ -165,8 +213,12 @@ if __name__ == '__main__':
             try:
                 annotations = datatxt.nex(text, lang='it')
             except dandelion.base.DandelionException as e:
-                import pdb
-                pdb.set_trace()
+                if e.message == u'usage limits are exceeded':
+                    print 'DataTXT daily usage limits met, exiting.'
+                    exit(0)
+                else:
+                    import pdb
+                    pdb.set_trace()
 
             try:
                 annlist = annotations['annotations']
@@ -175,8 +227,7 @@ if __name__ == '__main__':
                     end = ann['end']
                     if start == 0:
                         if end == len(name):
-                            wiki_match = ann['uri']
-                            confidence = ann['confidence']
+                            wiki_match, confidence = wikipedia_match(ann)
                         else:
                             title = ann['title']
                             name_words = set([stemmer.stemWord(word.lower())
@@ -188,20 +239,20 @@ if __name__ == '__main__':
                                                if word not in stopwords
                                                ])
                             if name_words == title_words:
-                                wiki_match = ann['uri']
+                                wiki_match, confidence = wikipedia_match(ann)
 
             except Exception as e:
                 import pdb
                 pdb.set_trace()
 
             if wiki_match:
-                outfile_name = NEW_ANNOTATIONS
+                outfile_name = new_annotations
                 if close_match:
                     close_match_obj = close_match.split('/')[-1]
                     wiki_match_obj = wiki_match.split('/')[-1]
 
                     if close_match_obj != wiki_match_obj:
-                        outfile_name = DIFFERENT_ANNOTATIONS
+                        outfile_name = different_annotations
                     else:
                         print name, 'già matchato con: ', close_match
                         continue
