@@ -1,80 +1,1036 @@
-http://purl.org/bncf/tid/39093,Accendisigari,http://it.wikipedia.org/wiki/Accendino,0.7907
-http://purl.org/bncf/tid/622,Aeromobili,http://it.wikipedia.org/wiki/Aeroplano,0.7186
-http://purl.org/bncf/tid/40520,Alettoni,http://it.wikipedia.org/wiki/Alettone_%28aeronautica%29,0.8337
-http://purl.org/bncf/tid/15754,Ancone,http://it.wikipedia.org/wiki/Pala_d%27altare,0.7927
-http://purl.org/bncf/tid/11940,Armature,http://it.wikipedia.org/wiki/Armatura,0.7281
-http://purl.org/bncf/tid/49318,Armi a ripetizione,http://it.wikipedia.org/wiki/Arma,0.8797
-http://purl.org/bncf/tid/25941,Assi <Monete>,http://it.wikipedia.org/wiki/Asse_%28moneta%29,0.8797
-http://purl.org/bncf/tid/15982,Automi,http://it.wikipedia.org/wiki/Automa_meccanico,0.6895
-http://purl.org/bncf/tid/17727,Balestre,http://it.wikipedia.org/wiki/Balestra_%28arma%29,0.7576
-http://purl.org/bncf/tid/42951,Barili,http://it.wikipedia.org/wiki/Barile_%28contenitore%29,0.6536
-http://purl.org/bncf/tid/40628,Battipali,http://it.wikipedia.org/wiki/Briccola,0.8624
-http://purl.org/bncf/tid/41474,Benne,http://it.wikipedia.org/wiki/Benna_%28meccanica%29,0.6909
-http://purl.org/bncf/tid/23119,Buzi,http://it.wikipedia.org/wiki/Giovanni_Buzi,0.6976
-http://purl.org/bncf/tid/5019,Caldaie,http://it.wikipedia.org/wiki/Generatore_di_vapore,0.6633
-http://purl.org/bncf/tid/40564,Calibri,http://it.wikipedia.org/wiki/Calibro,0.7788
-http://purl.org/bncf/tid/2062,Calzature,http://it.wikipedia.org/wiki/Scarpa,0.7543
-http://purl.org/bncf/tid/1577,Cartoni,http://it.wikipedia.org/wiki/Cartone_%28arte%29,0.6268
-http://purl.org/bncf/tid/26887,Cartucce,http://it.wikipedia.org/wiki/Cartuccia_%28munizione%29,0.8194
-http://purl.org/bncf/tid/22748,Cavi,http://it.wikipedia.org/wiki/Fune,0.7701
-http://purl.org/bncf/tid/16581,Chiavi,http://it.wikipedia.org/wiki/Chiave_%28serratura%29,0.7694
-http://purl.org/bncf/tid/40804,Chitoni,http://it.wikipedia.org/wiki/Chitone,0.8385
-http://purl.org/bncf/tid/41362,Cilindri,http://it.wikipedia.org/wiki/Cilindro_%28meccanica%29,0.8205
-http://purl.org/bncf/tid/17808,Cingoli,http://it.wikipedia.org/wiki/Cingolo_%28trasporti%29,0.7334
-http://purl.org/bncf/tid/12574,Circuiti elettronici,http://it.wikipedia.org/wiki/Circuito_elettrico,0.8084
-http://purl.org/bncf/tid/18133,Ciste,http://it.wikipedia.org/wiki/Cista,0.6744
-http://purl.org/bncf/tid/25599,Condizionatori,http://it.wikipedia.org/wiki/Condizionatore_d%27aria,0.7315
-http://purl.org/bncf/tid/42437,Console,http://it.wikipedia.org/wiki/Console_%28storia_romana%29,0.7424
-http://purl.org/bncf/tid/1622,Corni,http://it.wikipedia.org/wiki/Corno_%28strumento_musicale%29,0.8085
-http://purl.org/bncf/tid/1502,Corone,http://it.wikipedia.org/wiki/Corona_%28copricapo%29,0.6968
-http://purl.org/bncf/tid/1510,Crocifissi,http://it.wikipedia.org/wiki/Crocifissione_di_Ges%C3%B9,0.7348
-http://purl.org/bncf/tid/32837,Cuscinetti,http://it.wikipedia.org/wiki/Cuscinetto_%28meccanica%29,0.7375
-http://purl.org/bncf/tid/27052,Dadi,http://it.wikipedia.org/wiki/Dado_%28gioco%29,0.7171
-http://purl.org/bncf/tid/16006,Fanali,http://it.wikipedia.org/wiki/Fanale_%28veicoli_stradali%29,0.7569
-http://purl.org/bncf/tid/18303,Fibule,http://it.wikipedia.org/wiki/Fibula_%28spilla%29,0.8198
+http://purl.org/bncf/tid/18639,Abati,http://it.wikipedia.org/wiki/Abate,0.7841
+http://purl.org/bncf/tid/12445,Abbandono,http://it.wikipedia.org/wiki/Abbandono_%28religione%29,0.6967
+http://purl.org/bncf/tid/26759,Abeti,http://it.wikipedia.org/wiki/Picea,0.8091
+http://purl.org/bncf/tid/15369,Abuso d'ufficio,http://it.wikipedia.org/wiki/Abuso_d%27ufficio,0.8234
+http://purl.org/bncf/tid/39093,Accendisigari,http://it.wikipedia.org/wiki/Accendino,0.736
+http://purl.org/bncf/tid/39470,Accenti,http://it.wikipedia.org/wiki/Accento_%28linguistica%29,0.7909
+http://purl.org/bncf/tid/3103,Accoppiamento,http://it.wikipedia.org/wiki/Accoppiamento_%28zoologia%29,0.76
+http://purl.org/bncf/tid/1677,Accordi musicali,http://it.wikipedia.org/wiki/Accordo_%28musica%29,0.8177
+http://purl.org/bncf/tid/31003,Acetati,http://it.wikipedia.org/wiki/Acetati_%28azienda%29,0.7012
+http://purl.org/bncf/tid/18567,Aceto balsamico,http://it.wikipedia.org/wiki/Aceto_Balsamico_di_Modena,0.7854
+http://purl.org/bncf/tid/20896,Acidi biliari,http://it.wikipedia.org/wiki/Bile,0.8686
+http://purl.org/bncf/tid/31006,Acidità,http://it.wikipedia.org/wiki/Acido,0.7957
+http://purl.org/bncf/tid/21410,Acqua pesante,http://it.wikipedia.org/wiki/Deuterio,0.9071
+http://purl.org/bncf/tid/19881,Acque meteoriche,http://it.wikipedia.org/wiki/Precipitazione_%28meteorologia%29,0.7577
+http://purl.org/bncf/tid/20940,Additivi,http://it.wikipedia.org/wiki/Additivi_alimentari,0.647
+http://purl.org/bncf/tid/29757,Ade,http://it.wikipedia.org/wiki/Ade,0.8739
+http://purl.org/bncf/tid/6121,Adempimento,http://it.wikipedia.org/wiki/Adempimento_%28ordinamento_giuridico_italiano%29,0.7954
+http://purl.org/bncf/tid/622,Aeromobili,http://it.wikipedia.org/wiki/Aeroplano,0.6515
+http://purl.org/bncf/tid/20640,Affidamento condiviso,http://it.wikipedia.org/wiki/Affidamento_condiviso_%28ordinamento_civile_italiano%29,0.9159
+http://purl.org/bncf/tid/38613,Affinità,http://it.wikipedia.org/wiki/Affinit%C3%A0_%28diritto%29,0.6984
+http://purl.org/bncf/tid/29257,Affittacamere,http://it.wikipedia.org/wiki/L%27affittacamere_%28film_1976%29,0.7245
+http://purl.org/bncf/tid/40626,Agglutinazione,http://it.wikipedia.org/wiki/Agglutinazione_del_sangue,0.7418
+http://purl.org/bncf/tid/36943,Agnelli,http://it.wikipedia.org/wiki/Ovis_aries,0.7558
+http://purl.org/bncf/tid/21963,Agopressione,http://it.wikipedia.org/wiki/Agopuntura,0.9096
+http://purl.org/bncf/tid/13306,Albi,http://it.wikipedia.org/wiki/Albi_%28Francia%29,0.7014
+http://purl.org/bncf/tid/40520,Alettoni,http://it.wikipedia.org/wiki/Alettone_%28aeronautica%29,0.8408
+http://purl.org/bncf/tid/7313,Alibi,http://it.wikipedia.org/wiki/Alibi_%28diritto%29,0.6292
+http://purl.org/bncf/tid/20480,Alienazione <Atti giuridici>,http://it.wikipedia.org/wiki/Alienazione_%28diritto%29,0.786
+http://purl.org/bncf/tid/39838,Ali,http://it.wikipedia.org/wiki/Ala_%28zoologia%29,0.6934
+http://purl.org/bncf/tid/37236,Alleati,http://it.wikipedia.org/wiki/Alleati_della_prima_guerra_mondiale,0.7017
+http://purl.org/bncf/tid/21723,Alte frequenze,http://it.wikipedia.org/wiki/Onde_corte,0.6437
+http://purl.org/bncf/tid/17754,Alterità,http://it.wikipedia.org/wiki/Alterit%C3%A0,0.769
+http://purl.org/bncf/tid/40343,Alveolite,http://it.wikipedia.org/wiki/Alveolite_%28odontoiatria%29,0.8609
+http://purl.org/bncf/tid/47715,Ambasciatori genovesi,http://it.wikipedia.org/wiki/Ambasciatore,0.7396
+http://purl.org/bncf/tid/48857,Amministrazione di sostegno,http://it.wikipedia.org/wiki/Amministratore_di_sostegno_%28ordinamento_giuridico_italiano%29,0.882
+http://purl.org/bncf/tid/13999,Amministrazione,http://it.wikipedia.org/wiki/Gestione%2C_amministrazione%2C_esercizio,0.7213
+http://purl.org/bncf/tid/21771,Anafore <Preghiere liturgiche>,http://it.wikipedia.org/wiki/Preghiera_eucaristica,0.9236
+http://purl.org/bncf/tid/14137,Analgesici,http://it.wikipedia.org/wiki/Farmaco_antalgico,0.8537
+http://purl.org/bncf/tid/8418,Analisi,http://it.wikipedia.org/wiki/Psicoanalisi,0.665
+http://purl.org/bncf/tid/20910,Anamnesi,http://it.wikipedia.org/wiki/Anamnesi_%28medicina%29,0.8626
+http://purl.org/bncf/tid/15754,Ancone,http://it.wikipedia.org/wiki/Pala_d%27altare,0.8051
+http://purl.org/bncf/tid/40033,Angina,http://it.wikipedia.org/wiki/Mononucleosi_infettiva,0.7421
+http://purl.org/bncf/tid/31363,Anguille,http://it.wikipedia.org/wiki/Anguilliformes,0.9053
+http://purl.org/bncf/tid/45577,Anniversario della liberazione,http://it.wikipedia.org/wiki/Anniversario_della_liberazione_d%27Italia,0.8056
+http://purl.org/bncf/tid/28188,Annona,http://it.wikipedia.org/wiki/Annona_%28economia%29,0.8347
+http://purl.org/bncf/tid/14114,Annullabilità,http://it.wikipedia.org/wiki/Annullabilit%C3%A0_%28amministrativa%29,0.8912
+http://purl.org/bncf/tid/14116,Annullamento,http://it.wikipedia.org/wiki/Efficacia_%28diritto%29,0.7321
+http://purl.org/bncf/tid/39207,Antenati,http://it.wikipedia.org/wiki/Culto_degli_antenati,0.68
+http://purl.org/bncf/tid/28469,Antinomia normativa,http://it.wikipedia.org/wiki/Antinomia_%28diritto%29,0.8925
+http://purl.org/bncf/tid/24808,Antrachinoni,http://it.wikipedia.org/wiki/Antrachinone,0.8884
+http://purl.org/bncf/tid/1186,Anziani,http://it.wikipedia.org/wiki/Senilit%C3%A0,0.7394
+http://purl.org/bncf/tid/6089,Apatia,http://it.wikipedia.org/wiki/Apatia_%28psicologia%29,0.7842
+http://purl.org/bncf/tid/19428,Apostolato,http://it.wikipedia.org/wiki/Evangelizzazione,0.6643
+http://purl.org/bncf/tid/6945,Appunti,http://it.wikipedia.org/wiki/Appunti_e_note_%28singolo%29,0.6695
+http://purl.org/bncf/tid/21730,Arachidi,http://it.wikipedia.org/wiki/Arachide_%28seme%29,0.8087
+http://purl.org/bncf/tid/40298,Arance,http://it.wikipedia.org/wiki/Citrus_%C3%97_sinensis,0.7941
+http://purl.org/bncf/tid/40297,Aranci,http://it.wikipedia.org/wiki/Citrus_%C3%97_sinensis,0.7546
+http://purl.org/bncf/tid/46942,Arbitri <Arbitrato>,http://it.wikipedia.org/wiki/Arbitrato,0.6996
+http://purl.org/bncf/tid/25607,Arbitri,http://it.wikipedia.org/wiki/Arbitro_%28calcio%29,0.7635
+http://purl.org/bncf/tid/3661,Arca dell'alleanza,http://it.wikipedia.org/wiki/Arca_dell%27Alleanza,0.9045
+http://purl.org/bncf/tid/3677,Arca di Noè,http://it.wikipedia.org/wiki/Arca_di_No%C3%A8,0.8358
+http://purl.org/bncf/tid/16288,Arcate,http://it.wikipedia.org/wiki/Arco_%28architettura%29,0.7219
+http://purl.org/bncf/tid/2327,Architettura eclettica,http://it.wikipedia.org/wiki/Eclettismo_%28arte%29,0.7982
+http://purl.org/bncf/tid/23031,Archivi di Stato,http://it.wikipedia.org/wiki/Archivio_di_Stato_%28Italia%29,0.6497
+http://purl.org/bncf/tid/39330,Area,http://it.wikipedia.org/wiki/Superficie,0.7338
+http://purl.org/bncf/tid/43746,Are <Pappagalli>,http://it.wikipedia.org/wiki/Arinae,0.6336
+http://purl.org/bncf/tid/11940,Armature,http://it.wikipedia.org/wiki/Armatura,0.7304
+http://purl.org/bncf/tid/49318,Armi a ripetizione,http://it.wikipedia.org/wiki/Arma,0.6727
+http://purl.org/bncf/tid/48401,Arrampicata libera,http://it.wikipedia.org/wiki/Arrampicata,0.8078
+http://purl.org/bncf/tid/51773,Arresti domiciliari,http://it.wikipedia.org/wiki/Detenzione_domiciliare,0.7357
+http://purl.org/bncf/tid/2073,Art déco,http://it.wikipedia.org/wiki/Art_d%C3%A9co,0.8927
+http://purl.org/bncf/tid/3794,Arte classica,http://it.wikipedia.org/wiki/Arte_romana,0.7059
+http://purl.org/bncf/tid/2308,Arte naïve,http://it.wikipedia.org/wiki/Arte_na%C3%AFf,0.7024
+http://purl.org/bncf/tid/4233,Arte precolombiana,http://it.wikipedia.org/wiki/Civilt%C3%A0_precolombiane,0.8354
+http://purl.org/bncf/tid/46854,Artiglieria contraerea,http://it.wikipedia.org/wiki/Arma_contraerea,0.7991
+http://purl.org/bncf/tid/69,Artisti,http://it.wikipedia.org/wiki/Arte,0.7831
+http://purl.org/bncf/tid/3029,Asili infantili,http://it.wikipedia.org/wiki/Scuola_dell%27infanzia,0.7805
+http://purl.org/bncf/tid/9240,Assicurazioni sociali,http://it.wikipedia.org/wiki/Assicurazioni_sociali,0.8455
+http://purl.org/bncf/tid/25941,Assi <Monete>,http://it.wikipedia.org/wiki/Asse_%28moneta%29,0.6262
+http://purl.org/bncf/tid/17846,Assiomatica,http://it.wikipedia.org/wiki/Assioma,0.7778
+http://purl.org/bncf/tid/46891,Assoluzione,http://it.wikipedia.org/wiki/Assoluzione_%28diritto%29,0.7377
+http://purl.org/bncf/tid/30876,Astigmatismo,http://it.wikipedia.org/wiki/Astigmatismo_%28occhio%29,0.9122
+http://purl.org/bncf/tid/30181,Astinenza,http://it.wikipedia.org/wiki/Astinenza_sessuale,0.6511
+http://purl.org/bncf/tid/43343,Astragali,http://it.wikipedia.org/wiki/Astragalo_%28anatomia%29,0.8174
+http://purl.org/bncf/tid/16869,Astrazione,http://it.wikipedia.org/wiki/Astrazione_%28filosofia%29,0.6562
+http://purl.org/bncf/tid/39508,Atlante,http://it.wikipedia.org/wiki/Atlante_%28anatomia%29,0.7445
+http://purl.org/bncf/tid/3649,Atlanti,http://it.wikipedia.org/wiki/Atlante_%28libro%29,0.6875
+http://purl.org/bncf/tid/28324,Atri,http://it.wikipedia.org/wiki/Atrio_%28architettura%29,0.886
+http://purl.org/bncf/tid/28557,Atrio destro,http://it.wikipedia.org/wiki/Atrio_%28anatomia%29,0.957
+http://purl.org/bncf/tid/28367,Atrio sinistro,http://it.wikipedia.org/wiki/Atrio_%28anatomia%29,0.9529
+http://purl.org/bncf/tid/20803,Attici,http://it.wikipedia.org/wiki/Attico_%28architettura%29,0.7413
+http://purl.org/bncf/tid/41962,Attore,http://it.wikipedia.org/wiki/Attore_%28diritto%29,0.7848
+http://purl.org/bncf/tid/29372,Attualismo,http://it.wikipedia.org/wiki/Uniformitarismo,0.9124
+http://purl.org/bncf/tid/29687,Aurora,http://it.wikipedia.org/wiki/Aurora_%28giorno%29,0.7434
+http://purl.org/bncf/tid/15982,Automi,http://it.wikipedia.org/wiki/Automa_meccanico,0.7059
+http://purl.org/bncf/tid/25564,Autonomia,http://it.wikipedia.org/wiki/Autonomia_privata_%28diritto_civile%29,0.7141
+http://purl.org/bncf/tid/24118,Autonomia privata,http://it.wikipedia.org/wiki/Autonomia_privata_%28diritto_civile%29,0.9241
+http://purl.org/bncf/tid/13886,Autorità,http://it.wikipedia.org/wiki/Autorit%C3%A0,0.7197
+http://purl.org/bncf/tid/29422,Avatara,http://it.wikipedia.org/wiki/Avat%C4%81ra,0.8763
+http://purl.org/bncf/tid/39554,Avena,http://it.wikipedia.org/wiki/Avena_sativa,0.8646
+http://purl.org/bncf/tid/23130,Avventisti del settimo giorno,http://it.wikipedia.org/wiki/Avventismo,0.8503
+http://purl.org/bncf/tid/2718,Aziende sanitarie locali,http://it.wikipedia.org/wiki/Azienda,0.6705
+http://purl.org/bncf/tid/44125,Azione <Diritto>,http://it.wikipedia.org/wiki/Azione_legale,0.7013
+http://purl.org/bncf/tid/41721,Azione negatoria,http://it.wikipedia.org/wiki/Azione_negatoria,0.8838
+http://purl.org/bncf/tid/41770,Baccalà,http://it.wikipedia.org/wiki/Baccal%C3%A0,0.8141
+http://purl.org/bncf/tid/12978,Baccarà,http://it.wikipedia.org/wiki/Baccar%C3%A0,0.928
+http://purl.org/bncf/tid/27272,Bacino,http://it.wikipedia.org/wiki/Bacino_%28anatomia%29,0.7357
+http://purl.org/bncf/tid/8704,Bahaismo,http://it.wikipedia.org/wiki/Bah%C3%A1%27%C3%AD,0.8819
+http://purl.org/bncf/tid/31349,Balene,http://it.wikipedia.org/wiki/Cetacea,0.8233
+http://purl.org/bncf/tid/17727,Balestre,http://it.wikipedia.org/wiki/Balestra_%28arma%29,0.7707
+http://purl.org/bncf/tid/17726,Balestrieri,http://it.wikipedia.org/wiki/Balestra_%28arma%29,0.8394
+http://purl.org/bncf/tid/2077,Bande,http://it.wikipedia.org/wiki/Banda_musicale,0.6657
+http://purl.org/bncf/tid/42951,Barili,http://it.wikipedia.org/wiki/Barile_%28contenitore%29,0.6275
+http://purl.org/bncf/tid/45204,Basilischi,http://it.wikipedia.org/wiki/Basilisco_%28mitologia%29,0.8811
+http://purl.org/bncf/tid/49839,Batterie,http://it.wikipedia.org/wiki/Artiglieria,0.7724
+http://purl.org/bncf/tid/40628,Battipali,http://it.wikipedia.org/wiki/Briccola,0.8246
+http://purl.org/bncf/tid/9323,Bene,http://it.wikipedia.org/wiki/Bene_%28etica%29,0.773
+http://purl.org/bncf/tid/41278,Beni comuni,http://it.wikipedia.org/wiki/Bene_comune,0.7347
+http://purl.org/bncf/tid/37134,Beni di consumo,http://it.wikipedia.org/wiki/Bene_%28economia%29,0.7176
+http://purl.org/bncf/tid/6288,Beni,http://it.wikipedia.org/wiki/Bene_%28economia%29,0.6579
+http://purl.org/bncf/tid/36726,Bergamotti <Frutta>,http://it.wikipedia.org/wiki/Citrus_%C3%97_bergamia,0.8713
+http://purl.org/bncf/tid/36723,Bergamotti,http://it.wikipedia.org/wiki/Citrus_%C3%97_bergamia,0.8553
+http://purl.org/bncf/tid/36900,Binari,http://it.wikipedia.org/wiki/Binario_ferroviario,0.7361
+http://purl.org/bncf/tid/15802,Bioenergetica,http://it.wikipedia.org/wiki/Bioenergetica_%28biologia%29,0.7791
+http://purl.org/bncf/tid/42479,Bis de eadem re ne sit actio,http://it.wikipedia.org/wiki/ISO_639-2,0.6907
+http://purl.org/bncf/tid/40877,Bisessualità,http://it.wikipedia.org/wiki/Bisessualit%C3%A0,0.8609
+http://purl.org/bncf/tid/14140,Bosoni,http://it.wikipedia.org/wiki/Bosone_%28fisica%29,0.9211
+http://purl.org/bncf/tid/8695,Bovini,http://it.wikipedia.org/wiki/Bovidae,0.8392
+http://purl.org/bncf/tid/16838,Braccio di ferro,http://it.wikipedia.org/wiki/Clan_de%27_Paperoni,0.7432
+http://purl.org/bncf/tid/48544,Bratteati,http://it.wikipedia.org/wiki/Bratteato,0.8373
+http://purl.org/bncf/tid/4230,Briofite,http://it.wikipedia.org/wiki/Bryophyta,0.9273
+http://purl.org/bncf/tid/30559,Buon Pastore,http://it.wikipedia.org/wiki/Ges%C3%B9,0.7839
+http://purl.org/bncf/tid/23119,Buzi,http://it.wikipedia.org/wiki/Giovanni_Buzi,0.6899
+http://purl.org/bncf/tid/19840,Cabala,http://it.wikipedia.org/wiki/Cabala_ebraica,0.9297
+http://purl.org/bncf/tid/16562,Cabaret,http://it.wikipedia.org/wiki/Cabaret_%28spettacolo%29,0.7933
+http://purl.org/bncf/tid/12740,Cacciatori,http://it.wikipedia.org/wiki/Caccia,0.6883
+http://purl.org/bncf/tid/27510,Café chantant,http://it.wikipedia.org/wiki/Caf%C3%A9-concert,0.8605
+http://purl.org/bncf/tid/6385,Calamità,http://it.wikipedia.org/wiki/Magnete,0.6449
+http://purl.org/bncf/tid/8953,Calcio,http://it.wikipedia.org/wiki/Calcio_%28elemento_chimico%29,0.8357
+http://purl.org/bncf/tid/1144,Calcolo,http://it.wikipedia.org/wiki/Calcolo_%28matematica%29,0.7182
+http://purl.org/bncf/tid/18798,Calcolo meccanico,http://it.wikipedia.org/wiki/Calcolo_%28matematica%29,0.9038
+http://purl.org/bncf/tid/5019,Caldaie,http://it.wikipedia.org/wiki/Generatore_di_vapore,0.6709
+http://purl.org/bncf/tid/40564,Calibri,http://it.wikipedia.org/wiki/Calibro,0.7804
+http://purl.org/bncf/tid/2062,Calzature,http://it.wikipedia.org/wiki/Scarpa,0.7539
+http://purl.org/bncf/tid/14319,Cambio,http://it.wikipedia.org/wiki/Tasso_di_cambio,0.7738
+http://purl.org/bncf/tid/679,Camini,http://it.wikipedia.org/wiki/Camino_%28edilizia%29,0.7111
+http://purl.org/bncf/tid/41385,Campagne pubblicitarie,http://it.wikipedia.org/wiki/Pubblicit%C3%A0,0.7179
+http://purl.org/bncf/tid/18360,Campionamento,http://it.wikipedia.org/wiki/Statistica,0.7949
+http://purl.org/bncf/tid/42096,Canali semicircolari,http://it.wikipedia.org/wiki/Canali_semicircolari,0.7707
+http://purl.org/bncf/tid/20357,Candomblé,http://it.wikipedia.org/wiki/Candombl%C3%A9,0.9019
+http://purl.org/bncf/tid/483,Cani da cerca,http://it.wikipedia.org/wiki/Cani_da_cerca%2C_da_riporto_e_da_acqua,0.7904
+http://purl.org/bncf/tid/623,Canoa,http://it.wikipedia.org/wiki/Canoa%2Fkayak,0.7546
+http://purl.org/bncf/tid/34501,Canone,http://it.wikipedia.org/wiki/Canone_della_Bibbia,0.7072
+http://purl.org/bncf/tid/30000,Canonici,http://it.wikipedia.org/wiki/Capitolo_%28cristianesimo%29,0.8247
+http://purl.org/bncf/tid/15061,Cantamaggio,http://it.wikipedia.org/wiki/Calendimaggio,0.707
+http://purl.org/bncf/tid/23877,Cantari,http://it.wikipedia.org/wiki/Cantare,0.7032
+http://purl.org/bncf/tid/1870,Canti,http://it.wikipedia.org/wiki/Canto_%28musica%29,0.6786
+http://purl.org/bncf/tid/22585,Canzoni <Poesia>,http://it.wikipedia.org/wiki/Canzone_%28metrica%29,0.6326
+http://purl.org/bncf/tid/14887,Capacità contributiva,http://it.wikipedia.org/wiki/Capacit%C3%A0_contributiva,0.782
+http://purl.org/bncf/tid/12410,Capitale sociale,http://it.wikipedia.org/wiki/Capitale_sociale_%28economia%29,0.7847
+http://purl.org/bncf/tid/42413,Capitolazioni,http://it.wikipedia.org/wiki/Capitolazioni_dell%27Impero_ottomano,0.6583
+http://purl.org/bncf/tid/16204,Caposala,http://it.wikipedia.org/wiki/Infermiere,0.8194
+http://purl.org/bncf/tid/26707,Capriate,http://it.wikipedia.org/wiki/Capriata,0.7543
+http://purl.org/bncf/tid/38277,Caprioli,http://it.wikipedia.org/wiki/Capreolus_capreolus,0.7594
+http://purl.org/bncf/tid/29086,Carbonari,http://it.wikipedia.org/wiki/Carboneria,0.7982
+http://purl.org/bncf/tid/26861,Cardo,http://it.wikipedia.org/wiki/Cardine_%28storia_romana%29,0.7896
+http://purl.org/bncf/tid/14018,Carità,http://it.wikipedia.org/wiki/Carit%C3%A0,0.7489
+http://purl.org/bncf/tid/41282,Carote <Rocce>,http://it.wikipedia.org/wiki/Carotaggio,0.7914
+http://purl.org/bncf/tid/9188,Cartoline,http://it.wikipedia.org/wiki/Cartolina_postale,0.6973
+http://purl.org/bncf/tid/1577,Cartoni,http://it.wikipedia.org/wiki/Cartone_%28arte%29,0.6504
+http://purl.org/bncf/tid/26887,Cartucce,http://it.wikipedia.org/wiki/Cartuccia_%28munizione%29,0.8189
+http://purl.org/bncf/tid/26723,Cascine,http://it.wikipedia.org/wiki/Cascina_a_corte,0.7376
+http://purl.org/bncf/tid/22783,Castagneti,http://it.wikipedia.org/wiki/Castanea,0.8413
+http://purl.org/bncf/tid/17448,Castelli,http://it.wikipedia.org/wiki/Castello,0.7776
+http://purl.org/bncf/tid/11767,Catalisi,http://it.wikipedia.org/wiki/Catalizzatore,0.8441
+http://purl.org/bncf/tid/20840,Causalità,http://it.wikipedia.org/wiki/Causa_%28filosofia%29,0.7884
+http://purl.org/bncf/tid/29131,Cavalleria,http://it.wikipedia.org/wiki/Cavalleria_medievale,0.765
+http://purl.org/bncf/tid/15550,Cave,http://it.wikipedia.org/wiki/Cava_%28miniera%29,0.7332
+http://purl.org/bncf/tid/45487,Cavie,http://it.wikipedia.org/wiki/Cavia_porcellus,0.7547
+http://purl.org/bncf/tid/22748,Cavi,http://it.wikipedia.org/wiki/Fune,0.7703
+http://purl.org/bncf/tid/44142,Ceneri,http://it.wikipedia.org/wiki/Cremazione,0.7601
+http://purl.org/bncf/tid/17974,Censo,http://it.wikipedia.org/wiki/Patrimonio,0.7726
+http://purl.org/bncf/tid/37607,Cessione,http://it.wikipedia.org/wiki/Alienazione_%28diritto%29,0.715
+http://purl.org/bncf/tid/16581,Chiavi,http://it.wikipedia.org/wiki/Chiave_%28serratura%29,0.7688
+http://purl.org/bncf/tid/771,Chiese,http://it.wikipedia.org/wiki/Chiesa,0.6993
+http://purl.org/bncf/tid/25705,China,http://it.wikipedia.org/wiki/Cinchona,0.639
+http://purl.org/bncf/tid/40804,Chitoni,http://it.wikipedia.org/wiki/Chitone,0.8512
+http://purl.org/bncf/tid/34340,Ciclopi,http://it.wikipedia.org/wiki/Ciclopi,0.825
+http://purl.org/bncf/tid/41360,Ciglia,http://it.wikipedia.org/wiki/Ciglia_%28occhi%29,0.7012
+http://purl.org/bncf/tid/41362,Cilindri,http://it.wikipedia.org/wiki/Cilindro_%28meccanica%29,0.8199
+http://purl.org/bncf/tid/17808,Cingoli,http://it.wikipedia.org/wiki/Cingolo_%28trasporti%29,0.7421
+http://purl.org/bncf/tid/41313,Cipressi,http://it.wikipedia.org/wiki/Cupressaceae,0.8352
+http://purl.org/bncf/tid/12574,Circuiti elettronici,http://it.wikipedia.org/wiki/Circuito_elettrico,0.8015
+http://purl.org/bncf/tid/32564,Cirri,http://it.wikipedia.org/wiki/Cirrus,0.7844
+http://purl.org/bncf/tid/18133,Ciste,http://it.wikipedia.org/wiki/Cista,0.6776
+http://purl.org/bncf/tid/24492,Cisti,http://it.wikipedia.org/wiki/Cisti_%28medicina%29,0.7501
+http://purl.org/bncf/tid/26570,Città-giardino,http://it.wikipedia.org/wiki/Citt%C3%A0_giardino,0.7853
+http://purl.org/bncf/tid/18812,Città ideale,http://it.wikipedia.org/wiki/Citt%C3%A0_ideale,0.8905
+http://purl.org/bncf/tid/26569,Città romane,http://it.wikipedia.org/wiki/L%27Aquila,0.6443
+http://purl.org/bncf/tid/1768,Civiltà,http://it.wikipedia.org/wiki/Civilt%C3%A0,0.7009
+http://purl.org/bncf/tid/4046,Civiltà micenea,http://it.wikipedia.org/wiki/Civilt%C3%A0_micenea,0.9043
+http://purl.org/bncf/tid/10228,Civiltà precolombiane,http://it.wikipedia.org/wiki/Civilt%C3%A0_precolombiane,0.8862
+http://purl.org/bncf/tid/3221,Civiltà villanoviana,http://it.wikipedia.org/wiki/Civilt%C3%A0_villanoviana,0.9186
+http://purl.org/bncf/tid/26572,Classicismo,http://it.wikipedia.org/wiki/Neoclassicismo,0.7257
+http://purl.org/bncf/tid/36843,Clausola della nazione più favorita,http://it.wikipedia.org/wiki/Clausola_della_nazione_pi%C3%B9_favorita,0.8299
+http://purl.org/bncf/tid/17019,Clientela,http://it.wikipedia.org/wiki/Clientela_%28economia%29,0.7218
+http://purl.org/bncf/tid/10799,Cloni,http://it.wikipedia.org/wiki/Clonazione,0.6613
+http://purl.org/bncf/tid/32673,Cocchi,http://it.wikipedia.org/wiki/Bacteria,0.783
+http://purl.org/bncf/tid/32670,Coccinelle,http://it.wikipedia.org/wiki/Coccinellidae,0.897
+http://purl.org/bncf/tid/27681,Codifica,http://it.wikipedia.org/wiki/Codice_%28teoria_dell%27informazione%29,0.806
+http://purl.org/bncf/tid/23888,Colata,http://it.wikipedia.org/wiki/Fusione_%28industria%29,0.6858
+http://purl.org/bncf/tid/44227,Collasso,http://it.wikipedia.org/wiki/Shock,0.7162
+http://purl.org/bncf/tid/18627,Collera,http://it.wikipedia.org/wiki/Ira_%28psicologia%29,0.6651
+http://purl.org/bncf/tid/51203,Colonie megaresi,http://it.wikipedia.org/wiki/Colonia_%28insediamento%29,0.7668
+http://purl.org/bncf/tid/7885,Colonizzazione,http://it.wikipedia.org/wiki/Colonia_%28insediamento%29,0.7171
+http://purl.org/bncf/tid/13518,Colpa,http://it.wikipedia.org/wiki/Colpa_%28diritto%29,0.7225
+http://purl.org/bncf/tid/2046,Combattimento,http://it.wikipedia.org/wiki/Battaglia,0.6253
+http://purl.org/bncf/tid/18318,Comodato,http://it.wikipedia.org/wiki/Comodato_%28ordinamento_italiano%29,0.7286
+http://purl.org/bncf/tid/45520,Compassione,http://it.wikipedia.org/wiki/Compassione_%28filosofia%29,0.7518
+http://purl.org/bncf/tid/2244,Complessità computazionale,http://it.wikipedia.org/wiki/Teoria_della_complessit%C3%A0_computazionale,0.7904
+http://purl.org/bncf/tid/13453,Comproprietà,http://it.wikipedia.org/wiki/Comunione_%28diritto%29,0.8359
+http://purl.org/bncf/tid/2461,Comunione,http://it.wikipedia.org/wiki/Comunione_%28diritto%29,0.7706
+http://purl.org/bncf/tid/12170,Comunità,http://it.wikipedia.org/wiki/Comunit%C3%A0,0.7055
+http://purl.org/bncf/tid/34860,Comunità virtuali,http://it.wikipedia.org/wiki/Comunit%C3%A0_virtuale,0.8063
+http://purl.org/bncf/tid/8728,Concerti <Forme musicali>,http://it.wikipedia.org/wiki/Concerto_%28composizione_musicale%29,0.6938
+http://purl.org/bncf/tid/13677,Concerti,http://it.wikipedia.org/wiki/Concerto_%28evento_musicale%29,0.6927
+http://purl.org/bncf/tid/14425,Concorrenza,http://it.wikipedia.org/wiki/Concorrenza_%28diritto_commerciale%29,0.6986
+http://purl.org/bncf/tid/25599,Condizionatori,http://it.wikipedia.org/wiki/Condizionatore_d%27aria,0.7296
+http://purl.org/bncf/tid/36449,Condottieri,http://it.wikipedia.org/wiki/Condottiero,0.7688
+http://purl.org/bncf/tid/28478,Conducibilità,http://it.wikipedia.org/wiki/Conduttivit%C3%A0_elettrica,0.7174
+http://purl.org/bncf/tid/2500,Conferenze episcopali,http://it.wikipedia.org/wiki/Conferenza_episcopale,0.7236
+http://purl.org/bncf/tid/2623,Confraternite,http://it.wikipedia.org/wiki/Confraternita_%28Chiesa_cattolica%29,0.7391
+http://purl.org/bncf/tid/49557,Congettura di Poincaré,http://it.wikipedia.org/wiki/Congettura_di_Poincar%C3%A9,0.936
+http://purl.org/bncf/tid/50749,Congiunzioni,http://it.wikipedia.org/wiki/Congiunzione_%28grammatica%29,0.8121
+http://purl.org/bncf/tid/31384,Congregazioni di carità,http://it.wikipedia.org/wiki/Congregazione_di_carit%C3%A0,0.7558
+http://purl.org/bncf/tid/32721,Congruenza,http://it.wikipedia.org/wiki/Aritmetica_modulare,0.8229
+http://purl.org/bncf/tid/22021,Consenso dell'avente diritto,http://it.wikipedia.org/wiki/Consenso_dell%27avente_diritto,0.8806
+http://purl.org/bncf/tid/32705,Conservazione dell'energia,http://it.wikipedia.org/wiki/Legge_di_conservazione_dell%27energia,0.8008
+http://purl.org/bncf/tid/14108,Consigliere,http://it.wikipedia.org/wiki/Consiglio_di_amministrazione,0.6413
+http://purl.org/bncf/tid/14106,Consiglieri comunali,http://it.wikipedia.org/wiki/Consiglio_comunale,0.8302
+http://purl.org/bncf/tid/42437,Console,http://it.wikipedia.org/wiki/Console_%28storia_romana%29,0.7367
+http://purl.org/bncf/tid/18780,Consoli <Magistrati romani>,http://it.wikipedia.org/wiki/Console_%28storia_romana%29,0.7295
+http://purl.org/bncf/tid/51806,Consorzi obbligatori,http://it.wikipedia.org/wiki/Consorzio,0.6374
+http://purl.org/bncf/tid/6939,Contabilità,http://it.wikipedia.org/wiki/Contabilit%C3%A0,0.7748
+http://purl.org/bncf/tid/15261,Contabilità nazionale,http://it.wikipedia.org/wiki/Contabilit%C3%A0_nazionale,0.8873
+http://purl.org/bncf/tid/15472,Contabilità pubblica,http://it.wikipedia.org/wiki/Contabilit%C3%A0_pubblica,0.8464
+http://purl.org/bncf/tid/11886,Contingenza,http://it.wikipedia.org/wiki/Contingenza_%28filosofia%29,0.7729
+http://purl.org/bncf/tid/35824,Contrattualismo,http://it.wikipedia.org/wiki/Contratto_sociale,0.8453
+http://purl.org/bncf/tid/2612,Controllo numerico,http://it.wikipedia.org/wiki/Computer_numerical_control,0.7788
+http://purl.org/bncf/tid/19404,Convenzioni,http://it.wikipedia.org/wiki/Convenzione_%28diritto%29,0.6309
+http://purl.org/bncf/tid/17071,Cooperazione,http://it.wikipedia.org/wiki/Societ%C3%A0_cooperativa,0.6414
+http://purl.org/bncf/tid/12510,Coordinate,http://it.wikipedia.org/wiki/Sistema_di_riferimento,0.7783
+http://purl.org/bncf/tid/31618,Coordinazione,http://it.wikipedia.org/wiki/Complesso_%28chimica%29,0.6584
+http://purl.org/bncf/tid/30136,Corali,http://it.wikipedia.org/wiki/Coro_%28musica%29,0.7242
+http://purl.org/bncf/tid/16305,Cori <Complessi musicali>,http://it.wikipedia.org/wiki/Coro_%28musica%29,0.835
+http://purl.org/bncf/tid/34519,Cori,http://it.wikipedia.org/wiki/Coro_%28musica%29,0.8182
+http://purl.org/bncf/tid/1622,Corni,http://it.wikipedia.org/wiki/Corno_%28strumento_musicale%29,0.8055
+http://purl.org/bncf/tid/30872,Corona,http://it.wikipedia.org/wiki/Monarchia,0.8055
+http://purl.org/bncf/tid/1502,Corone,http://it.wikipedia.org/wiki/Corona_%28copricapo%29,0.6966
+http://purl.org/bncf/tid/29165,Corporazioni,http://it.wikipedia.org/wiki/Corporazione,0.7594
+http://purl.org/bncf/tid/13309,Corrente elettrica,http://it.wikipedia.org/wiki/Elettricit%C3%A0,0.8335
+http://purl.org/bncf/tid/6119,Corrispondenza,http://it.wikipedia.org/wiki/Posta,0.7527
+http://purl.org/bncf/tid/50865,Corteccia,http://it.wikipedia.org/wiki/Corteccia_%28botanica%29,0.8312
+http://purl.org/bncf/tid/51969,Cosa <Diritto>,http://it.wikipedia.org/wiki/Bene_%28diritto%29,0.8119
+http://purl.org/bncf/tid/11402,Coscienza,http://it.wikipedia.org/wiki/Coscienza_%28filosofia%29,0.7517
+http://purl.org/bncf/tid/20547,Cosmologia,http://it.wikipedia.org/wiki/Cosmologia_%28astronomia%29,0.8583
+http://purl.org/bncf/tid/6150,Coste,http://it.wikipedia.org/wiki/Costa,0.7367
+http://purl.org/bncf/tid/38604,Costruttivismo <Filosofia>,http://it.wikipedia.org/wiki/Costruttivismo_%28filosofia%29,0.8538
+http://purl.org/bncf/tid/15679,Costruttivismo,http://it.wikipedia.org/wiki/Costruttivismo_%28arte%29,0.8349
+http://purl.org/bncf/tid/630,Costruzioni,http://it.wikipedia.org/wiki/Costruzione_edilizia,0.7074
+http://purl.org/bncf/tid/47720,Covarianza,http://it.wikipedia.org/wiki/Covarianza_%28probabilit%C3%A0%29,0.7873
+http://purl.org/bncf/tid/1543,Cracking catalitico,http://it.wikipedia.org/wiki/Cracking_%28chimica%29,0.8121
+http://purl.org/bncf/tid/1544,Cracking,http://it.wikipedia.org/wiki/Cracking_%28chimica%29,0.8546
+http://purl.org/bncf/tid/18588,Creazione,http://it.wikipedia.org/wiki/Creazione_%28teologia%29,0.7589
+http://purl.org/bncf/tid/1514,Criminalità organizzata,http://it.wikipedia.org/wiki/Mafia,0.7204
+http://purl.org/bncf/tid/8311,Critica letteraria,http://it.wikipedia.org/wiki/Letteratura_latina,0.7413
+http://purl.org/bncf/tid/19625,Crittogame,http://it.wikipedia.org/wiki/Fungi,0.8733
+http://purl.org/bncf/tid/1523,Crittografia <Enigmistica>,http://it.wikipedia.org/wiki/Crittografia_%28enigmistica%29,0.8314
+http://purl.org/bncf/tid/29142,Crociati,http://it.wikipedia.org/wiki/Crociata,0.8266
+http://purl.org/bncf/tid/29549,Crociere,http://it.wikipedia.org/wiki/Crociera,0.785
+http://purl.org/bncf/tid/1510,Crocifissi,http://it.wikipedia.org/wiki/Crocifissione_di_Ges%C3%B9,0.7339
+http://purl.org/bncf/tid/6654,Cronache,http://it.wikipedia.org/wiki/Cronaca_%28genere_letterario%29,0.6313
+http://purl.org/bncf/tid/36157,Cuccioli,http://it.wikipedia.org/wiki/Cucciolo,0.739
+http://purl.org/bncf/tid/1517,Culinaria,http://it.wikipedia.org/wiki/Gastronomia,0.7508
+http://purl.org/bncf/tid/1274,Culto,http://it.wikipedia.org/wiki/Religione,0.7452
+http://purl.org/bncf/tid/29555,Curtis,http://it.wikipedia.org/wiki/Corte_%28storia%29,0.7167
+http://purl.org/bncf/tid/32262,Curve di livello,http://it.wikipedia.org/wiki/Insieme_di_livello,0.7702
+http://purl.org/bncf/tid/10133,Curve,http://it.wikipedia.org/wiki/Curva_%28matematica%29,0.7513
+http://purl.org/bncf/tid/32837,Cuscinetti,http://it.wikipedia.org/wiki/Cuscinetto_%28meccanica%29,0.7297
+http://purl.org/bncf/tid/27052,Dadi,http://it.wikipedia.org/wiki/Dado_%28gioco%29,0.691
+http://purl.org/bncf/tid/27053,Damasco <Tessuti di seta>,http://it.wikipedia.org/wiki/Damasco_%28tessuto%29,0.8916
+http://purl.org/bncf/tid/10623,Danno ingiusto,http://it.wikipedia.org/wiki/Danno_ingiusto_%28diritto_italiano%29,0.7828
+http://purl.org/bncf/tid/27232,Danza macabra,http://it.wikipedia.org/wiki/Danza_macabra_%28iconografia%29,0.8523
+http://purl.org/bncf/tid/7572,Date,http://it.wikipedia.org/wiki/Calendario,0.7404
+http://purl.org/bncf/tid/35662,Dazi doganali,http://it.wikipedia.org/wiki/Dogana,0.755
+http://purl.org/bncf/tid/13339,Dazi,http://it.wikipedia.org/wiki/Dazio_%28economia%29,0.7204
+http://purl.org/bncf/tid/37455,Decalogo,http://it.wikipedia.org/wiki/Dieci_comandamenti,0.8213
+http://purl.org/bncf/tid/6050,Découpage,http://it.wikipedia.org/wiki/D%C3%A9coupage_%28arte%29,0.7717
+http://purl.org/bncf/tid/32790,Deflazione,http://it.wikipedia.org/wiki/Deflazione_%28economia%29,0.89
+http://purl.org/bncf/tid/28987,Deformazioni plastiche,http://it.wikipedia.org/wiki/Plasticit%C3%A0_%28fisica%29,0.761
+http://purl.org/bncf/tid/8159,Delega,http://it.wikipedia.org/wiki/Competenza_%28diritto%29,0.6927
+http://purl.org/bncf/tid/33814,Delta,http://it.wikipedia.org/wiki/Delta_fluviale,0.7244
+http://purl.org/bncf/tid/29278,Densità elettronica,http://it.wikipedia.org/wiki/Densit%C3%A0_elettronica,0.6984
+http://purl.org/bncf/tid/8929,Denuncia di inizio attività,http://it.wikipedia.org/wiki/Denuncia_di_inizio_attivit%C3%A0_in_edilizia,0.8562
+http://purl.org/bncf/tid/20642,Deposito,http://it.wikipedia.org/wiki/Deposito_%28diritto%29,0.6719
+http://purl.org/bncf/tid/7010,Detenzione,http://it.wikipedia.org/wiki/Reclusione,0.7576
+http://purl.org/bncf/tid/18697,Determinazione,http://it.wikipedia.org/wiki/Determinismo,0.6455
+http://purl.org/bncf/tid/22182,Diaframma,http://it.wikipedia.org/wiki/Muscolo_diaframma,0.8772
+http://purl.org/bncf/tid/6112,Diagnostica,http://it.wikipedia.org/wiki/Diagnosi,0.8189
+http://purl.org/bncf/tid/2928,Dialisi,http://it.wikipedia.org/wiki/Emodialisi,0.8059
+http://purl.org/bncf/tid/18576,Diete <Organizzazioni istituzionali>,http://it.wikipedia.org/wiki/Dieta_%28storia%29,0.7192
+http://purl.org/bncf/tid/3722,Dietetica,http://it.wikipedia.org/wiki/Dieta,0.7886
+http://purl.org/bncf/tid/41666,Digiuno <Intestino tenue>,http://it.wikipedia.org/wiki/Digiuno_%28intestino%29,0.7929
+http://purl.org/bncf/tid/23300,Dinamica,http://it.wikipedia.org/wiki/Dinamica_%28fisica%29,0.7591
+http://purl.org/bncf/tid/8921,Direttive comunitarie,http://it.wikipedia.org/wiki/Direttiva_dell%27Unione_europea,0.7755
+http://purl.org/bncf/tid/16778,Direzione,http://it.wikipedia.org/wiki/Direzione_aziendale,0.6128
+http://purl.org/bncf/tid/10360,Diritti,http://it.wikipedia.org/wiki/Diritto,0.7147
+http://purl.org/bncf/tid/26773,Diritti quesiti,http://it.wikipedia.org/wiki/Diritti_acquisiti,0.8609
+http://purl.org/bncf/tid/18508,Diritto di famiglia,http://it.wikipedia.org/wiki/Diritto_di_famiglia_%28ordinamento_italiano%29,0.8565
+http://purl.org/bncf/tid/15256,Diritto di stabilimento,http://it.wikipedia.org/wiki/Libert%C3%A0_di_stabilimento,0.8123
+http://purl.org/bncf/tid/626,Disabili,http://it.wikipedia.org/wiki/Disabilit%C3%A0,0.6861
+http://purl.org/bncf/tid/34366,Disabilità,http://it.wikipedia.org/wiki/Disabilit%C3%A0,0.7649
+http://purl.org/bncf/tid/36538,Disciplina,http://it.wikipedia.org/wiki/Scienza,0.7037
+http://purl.org/bncf/tid/22456,Discrezionalità,http://it.wikipedia.org/wiki/Discrezionalit%C3%A0,0.7599
+http://purl.org/bncf/tid/31892,Discriminazione,http://it.wikipedia.org/wiki/Razzismo,0.7313
+http://purl.org/bncf/tid/28786,Disidratazione,http://it.wikipedia.org/wiki/Essiccamento,0.8228
+http://purl.org/bncf/tid/1045,Dispersioni,http://it.wikipedia.org/wiki/Dispersione_%28chimica%29,0.8042
+http://purl.org/bncf/tid/2550,Dissociazione elettrolitica,http://it.wikipedia.org/wiki/Dissociazione_%28chimica%29,0.853
+http://purl.org/bncf/tid/41619,Distorsione,http://it.wikipedia.org/wiki/Distorsione_%28fisica%29,0.7128
+http://purl.org/bncf/tid/29206,Dittatori,http://it.wikipedia.org/wiki/Dittatura,0.8353
+http://purl.org/bncf/tid/5597,Divinità,http://it.wikipedia.org/wiki/Dio,0.75
+http://purl.org/bncf/tid/28145,Divisionismo,http://it.wikipedia.org/wiki/Divisionismo_%28pittura%29,0.7929
+http://purl.org/bncf/tid/635,Dolci,http://it.wikipedia.org/wiki/Dolce,0.7507
+http://purl.org/bncf/tid/13914,Domanda,http://it.wikipedia.org/wiki/Domanda_e_offerta,0.7463
+http://purl.org/bncf/tid/10160,Domanda riconvenzionale,http://it.wikipedia.org/wiki/Domanda_giudiziale,0.6744
+http://purl.org/bncf/tid/1369,Dono,http://it.wikipedia.org/wiki/Donazione,0.7328
+http://purl.org/bncf/tid/20902,Drammatizzazione,http://it.wikipedia.org/wiki/Pedagogia,0.6484
+http://purl.org/bncf/tid/34288,Durezza dell'acqua,http://it.wikipedia.org/wiki/Durezza_dell%27acqua,0.9143
+http://purl.org/bncf/tid/50222,Eccesso di potere,http://it.wikipedia.org/wiki/Annullabilit%C3%A0_%28amministrativa%29,0.7805
+http://purl.org/bncf/tid/2334,Eclettismo <Arte>,http://it.wikipedia.org/wiki/Eclettismo_%28arte%29,0.7489
+http://purl.org/bncf/tid/32628,Eco,http://it.wikipedia.org/wiki/Eco_%28fisica%29,0.6394
+http://purl.org/bncf/tid/32402,Ectoplasma,http://it.wikipedia.org/wiki/Lingua_francese,0.8642
+http://purl.org/bncf/tid/47176,Effetti collaterali,http://it.wikipedia.org/wiki/Effetto_collaterale_%28medicina%29,0.6689
+http://purl.org/bncf/tid/36721,Elasticità <Economia>,http://it.wikipedia.org/wiki/Elasticit%C3%A0_%28economia%29,0.7134
+http://purl.org/bncf/tid/19727,Elasticità,http://it.wikipedia.org/wiki/Elasticit%C3%A0_%28meccanica%29,0.774
+http://purl.org/bncf/tid/9839,Elettorato,http://it.wikipedia.org/wiki/Elezione,0.7708
+http://purl.org/bncf/tid/1781,Elettricità,http://it.wikipedia.org/wiki/Elettricit%C3%A0,0.7654
+http://purl.org/bncf/tid/23759,Elettrodeposizione,http://it.wikipedia.org/wiki/Galvanostegia,0.7499
+http://purl.org/bncf/tid/7039,Elettrostimolazione,http://it.wikipedia.org/wiki/Elettrostimolazione_erotica,0.7258
+http://purl.org/bncf/tid/25207,Elezioni amministrative,http://it.wikipedia.org/wiki/Elezioni_amministrative_italiane,0.7463
+http://purl.org/bncf/tid/2583,Elusione fiscale,http://it.wikipedia.org/wiki/Evasione_fiscale,0.8966
+http://purl.org/bncf/tid/36709,Emissione,http://it.wikipedia.org/wiki/Radioattivit%C3%A0,0.6944
+http://purl.org/bncf/tid/5194,Energia elettrica,http://it.wikipedia.org/wiki/Elettricit%C3%A0,0.8029
+http://purl.org/bncf/tid/49173,Enti autonomi,http://it.wikipedia.org/wiki/Ente_autonomo,0.7185
+http://purl.org/bncf/tid/2112,Enti pubblici,http://it.wikipedia.org/wiki/Ente_pubblico_%28ordinamento_italiano%29,0.8143
+http://purl.org/bncf/tid/42010,Eosinofilia,http://it.wikipedia.org/wiki/Granulocita_eosinofilo,0.8471
+http://purl.org/bncf/tid/32463,Equazioni di Eulero,http://it.wikipedia.org/wiki/Equazioni_di_Eulero-Lagrange,0.878
+http://purl.org/bncf/tid/28825,Equilibrio,http://it.wikipedia.org/wiki/Principio_zero_della_termodinamica,0.6917
+http://purl.org/bncf/tid/13791,Equità,http://it.wikipedia.org/wiki/Equit%C3%A0,0.7215
+http://purl.org/bncf/tid/12724,Erbe,http://it.wikipedia.org/wiki/Erba_%28botanica%29,0.7412
+http://purl.org/bncf/tid/2427,Eredità,http://it.wikipedia.org/wiki/Eredit%C3%A0,0.7394
+http://purl.org/bncf/tid/13114,Ereditarietà,http://it.wikipedia.org/wiki/Ereditariet%C3%A0_genetica,0.7484
+http://purl.org/bncf/tid/21075,Ermetismo,http://it.wikipedia.org/wiki/Ermetismo_%28filosofia%29,0.9247
+http://purl.org/bncf/tid/30214,Ermetismo <Movimenti letterari>,http://it.wikipedia.org/wiki/Ermetismo_%28letteratura%29,0.8782
+http://purl.org/bncf/tid/20077,Esercizi spirituali,http://it.wikipedia.org/wiki/Esercizi_spirituali,0.7491
+http://purl.org/bncf/tid/43473,Essudazione,http://it.wikipedia.org/wiki/Essudato,0.8361
+http://purl.org/bncf/tid/36247,Esternalità,http://it.wikipedia.org/wiki/Esternalit%C3%A0,0.827
+http://purl.org/bncf/tid/24972,Estrazione,http://it.wikipedia.org/wiki/Estrazione_%28chimica%29,0.7503
+http://purl.org/bncf/tid/16842,Età dell'oro,http://it.wikipedia.org/wiki/Et%C3%A0_dell%27oro,0.769
+http://purl.org/bncf/tid/19722,Eternità,http://it.wikipedia.org/wiki/Eternit%C3%A0,0.7749
+http://purl.org/bncf/tid/18689,Evangelici,http://it.wikipedia.org/wiki/Protestantesimo,0.802
+http://purl.org/bncf/tid/30397,Evangelisti,http://it.wikipedia.org/wiki/Vangelo,0.8235
+http://purl.org/bncf/tid/13851,Evoluzionismo,http://it.wikipedia.org/wiki/Evoluzione,0.9256
+http://purl.org/bncf/tid/39323,Extraterritorialità,http://it.wikipedia.org/wiki/Extraterritorialit%C3%A0,0.8287
+http://purl.org/bncf/tid/16006,Fanali,http://it.wikipedia.org/wiki/Fanale_%28veicoli_stradali%29,0.758
+http://purl.org/bncf/tid/27229,Fanfare,http://it.wikipedia.org/wiki/Banda_musicale,0.7472
+http://purl.org/bncf/tid/29849,Fantasia,http://it.wikipedia.org/wiki/Immaginazione,0.7529
+http://purl.org/bncf/tid/26595,Fato,http://it.wikipedia.org/wiki/Destino,0.7461
+http://purl.org/bncf/tid/21920,Favoreggiamento personale,http://it.wikipedia.org/wiki/Favoreggiamento_personale_%28diritto_italiano%29,0.8207
+http://purl.org/bncf/tid/17023,Fecondazione artificiale,http://it.wikipedia.org/wiki/Fecondazione_artificiale,0.839
+http://purl.org/bncf/tid/12021,Fenice,http://it.wikipedia.org/wiki/Fenici,0.7593
+http://purl.org/bncf/tid/42325,Ferriere,http://it.wikipedia.org/wiki/Ferriere_Fieramosca,0.8055
+http://purl.org/bncf/tid/16007,Ferro battuto,http://it.wikipedia.org/wiki/Ferro_battuto_%28album%29,0.6927
+http://purl.org/bncf/tid/19516,Fertilità,http://it.wikipedia.org/wiki/Fertilit%C3%A0,0.7753
+http://purl.org/bncf/tid/6791,Feste ebraiche,http://it.wikipedia.org/wiki/Festivit%C3%A0_ebraiche,0.8048
+http://purl.org/bncf/tid/30254,Feudi,http://it.wikipedia.org/wiki/Feudo,0.7284
+http://purl.org/bncf/tid/7915,Fibre muscolari,http://it.wikipedia.org/wiki/Tessuto_muscolare,0.7905
+http://purl.org/bncf/tid/18303,Fibule,http://it.wikipedia.org/wiki/Fibula_%28spilla%29,0.8192
+http://purl.org/bncf/tid/48030,Filmati,http://it.wikipedia.org/wiki/Cinema,0.692
 http://purl.org/bncf/tid/23590,Filtri elettrici,http://it.wikipedia.org/wiki/Filtro_%28elettronica%29,0.9154
-http://purl.org/bncf/tid/25848,Fornaci,http://it.wikipedia.org/wiki/Forno,0.7789
-http://purl.org/bncf/tid/43792,Fornaci Hoffmann,http://it.wikipedia.org/wiki/Forno,0.6976
-http://purl.org/bncf/tid/22443,Fuochi d'artificio,http://it.wikipedia.org/wiki/Fuochi_d%27artificio,0.775
-http://purl.org/bncf/tid/13362,Gessi <Sculture>,http://it.wikipedia.org/wiki/Gesso_%28materiale%29,0.761
-http://purl.org/bncf/tid/22616,Grès,http://it.wikipedia.org/wiki/Ceramica,0.7986
-http://purl.org/bncf/tid/22284,Gru <Macchine operatrici>,http://it.wikipedia.org/wiki/Gru_%28trasporto%29,0.8336
-http://purl.org/bncf/tid/13080,Icone,http://it.wikipedia.org/wiki/Icona_%28arte%29,0.7931
-http://purl.org/bncf/tid/40617,Lame,http://it.wikipedia.org/wiki/Lama_%28oggetto%29,0.7185
-http://purl.org/bncf/tid/44606,Lance,http://it.wikipedia.org/wiki/Lancia_%28imbarcazione%29,0.803
-http://purl.org/bncf/tid/48318,Lanterne,http://it.wikipedia.org/wiki/Lanterna,0.6784
-http://purl.org/bncf/tid/28650,Lapidari,http://it.wikipedia.org/wiki/Lapidari,0.7346
-http://purl.org/bncf/tid/4099,Laser <Imbarcazioni>,http://it.wikipedia.org/wiki/Laser_%28natante%29,0.7878
-http://purl.org/bncf/tid/29493,Lire,http://it.wikipedia.org/wiki/Lira_%28strumento_musicale%29,0.8204
-http://purl.org/bncf/tid/46230,Magli,http://it.wikipedia.org/wiki/Maglio,0.7889
-http://purl.org/bncf/tid/46078,Martelli,http://it.wikipedia.org/wiki/Martello_%28tecnologia%29,0.7428
-http://purl.org/bncf/tid/7612,Memorie <Elaboratori>,http://it.wikipedia.org/wiki/Memoria_%28informatica%29,0.7874
-http://purl.org/bncf/tid/20749,Micrometri,http://it.wikipedia.org/wiki/Micrometro,0.8664
-http://purl.org/bncf/tid/43404,Mine,http://it.wikipedia.org/wiki/Mina_navale,0.7096
-http://purl.org/bncf/tid/21903,Mole,http://it.wikipedia.org/wiki/Smerigliatrice,0.6943
-http://purl.org/bncf/tid/28846,Motocicli,http://it.wikipedia.org/wiki/Motoveicolo,0.7823
+http://purl.org/bncf/tid/24329,Fisica moderna,http://it.wikipedia.org/wiki/Storia_della_fisica,0.7639
+http://purl.org/bncf/tid/28902,Fisici,http://it.wikipedia.org/wiki/Fisica,0.8658
+http://purl.org/bncf/tid/20050,Flessibilità,http://it.wikipedia.org/wiki/Flessibilit%C3%A0_lavorativa,0.7048
+http://purl.org/bncf/tid/33349,Flessione,http://it.wikipedia.org/wiki/Flessione_retta,0.742
+http://purl.org/bncf/tid/36809,Foibe,http://it.wikipedia.org/wiki/Foiba,0.8033
+http://purl.org/bncf/tid/35260,Fonderia,http://it.wikipedia.org/wiki/Fusione_%28industria%29,0.7557
+http://purl.org/bncf/tid/35262,Fonderie,http://it.wikipedia.org/wiki/Fonderia,0.7757
+http://purl.org/bncf/tid/6758,Fondi comuni di investimento,http://it.wikipedia.org/wiki/Fondo_comune_di_investimento,0.8272
+http://purl.org/bncf/tid/42630,Fontanelle,http://it.wikipedia.org/wiki/Fontana,0.7045
+http://purl.org/bncf/tid/47885,Formaggio bitto,http://it.wikipedia.org/wiki/Bitto_%28formaggio%29,0.9253
+http://purl.org/bncf/tid/17200,Forma,http://it.wikipedia.org/wiki/Forma_%28filosofia%29,0.7381
+http://purl.org/bncf/tid/43792,Fornaci Hoffmann,http://it.wikipedia.org/wiki/Forno,0.6864
+http://purl.org/bncf/tid/25848,Fornaci,http://it.wikipedia.org/wiki/Forno,0.7777
+http://purl.org/bncf/tid/27266,Forti,http://it.wikipedia.org/wiki/Fortezza,0.6946
+http://purl.org/bncf/tid/18917,Fortuna,http://it.wikipedia.org/wiki/Destino,0.6792
+http://purl.org/bncf/tid/21193,Fosfati,http://it.wikipedia.org/wiki/Acido_fosforico,0.8675
+http://purl.org/bncf/tid/33219,Fotoelasticità,http://it.wikipedia.org/wiki/Fotoelasticit%C3%A0,0.8609
+http://purl.org/bncf/tid/9306,Fotolitografia,http://it.wikipedia.org/wiki/Litografia_%28elettronica%29,0.8631
+http://purl.org/bncf/tid/44321,Francofoni,http://it.wikipedia.org/wiki/Lingua_francese,0.756
+http://purl.org/bncf/tid/5654,Fratture,http://it.wikipedia.org/wiki/Frattura_%28medicina%29,0.7235
+http://purl.org/bncf/tid/29316,Fronda,http://it.wikipedia.org/wiki/Fronda_%28movimento%29,0.8176
+http://purl.org/bncf/tid/36085,Fronte occidentale,http://it.wikipedia.org/wiki/Fronte_occidentale_%281914-1918%29,0.7935
+http://purl.org/bncf/tid/36073,Fronte orientale,http://it.wikipedia.org/wiki/Fronte_orientale_%281941-1945%29,0.8356
+http://purl.org/bncf/tid/6176,Funamboli,http://it.wikipedia.org/wiki/Funamboli,0.8148
+http://purl.org/bncf/tid/22443,Fuochi d'artificio,http://it.wikipedia.org/wiki/Fuochi_d%27artificio,0.7723
+http://purl.org/bncf/tid/23214,Furocumarine,http://it.wikipedia.org/wiki/Furanocumarine,0.8182
+http://purl.org/bncf/tid/26602,Furore,http://it.wikipedia.org/wiki/Furore_%28Italia%29,0.6261
+http://purl.org/bncf/tid/3856,Galeotti,http://it.wikipedia.org/wiki/Galea,0.7752
+http://purl.org/bncf/tid/5851,Galle,http://it.wikipedia.org/wiki/Galla_%28botanica%29,0.8496
+http://purl.org/bncf/tid/17791,Gambe,http://it.wikipedia.org/wiki/Gamba_%28anatomia%29,0.7902
+http://purl.org/bncf/tid/23859,Gelosia,http://it.wikipedia.org/wiki/Gelosia_%28sentimento%29,0.6823
+http://purl.org/bncf/tid/15048,Gemelli,http://it.wikipedia.org/wiki/Gemelli_%28biologia%29,0.7656
+http://purl.org/bncf/tid/20114,Generali,http://it.wikipedia.org/wiki/Generale,0.7198
+http://purl.org/bncf/tid/35142,Generazione spontanea,http://it.wikipedia.org/wiki/Origine_della_vita,0.8621
+http://purl.org/bncf/tid/2174,Generi musicali,http://it.wikipedia.org/wiki/Genere_letterario,0.6592
+http://purl.org/bncf/tid/5189,Genio,http://it.wikipedia.org/wiki/Genio_%28filosofia%29,0.657
+http://purl.org/bncf/tid/19771,Gente di mare,http://it.wikipedia.org/wiki/Corpo_delle_capitanerie_di_porto_-_Guardia_Costiera,0.8353
+http://purl.org/bncf/tid/22142,Geografia fisica,http://it.wikipedia.org/wiki/Geografia,0.7407
+http://purl.org/bncf/tid/33786,Germogli,http://it.wikipedia.org/wiki/Gemma_%28botanica%29,0.7991
+http://purl.org/bncf/tid/50055,Gerusalemme celeste,http://it.wikipedia.org/wiki/Apocalisse_di_Giovanni,0.8816
+http://purl.org/bncf/tid/13362,Gessi <Sculture>,http://it.wikipedia.org/wiki/Gesso_%28materiale%29,0.817
+http://purl.org/bncf/tid/533,Gesso,http://it.wikipedia.org/wiki/Solfato_di_calcio,0.7602
+http://purl.org/bncf/tid/21883,Gesuiti <Religiosi>,http://it.wikipedia.org/wiki/Compagnia_di_Ges%C3%B9,0.8718
+http://purl.org/bncf/tid/5863,Giganti,http://it.wikipedia.org/wiki/Gigante_%28mitologia%29,0.6587
+http://purl.org/bncf/tid/39413,Ginestra <Fibre tessili vegetali>,http://it.wikipedia.org/wiki/Genisteae,0.835
+http://purl.org/bncf/tid/41255,Gioco d'azzardo patologico,http://it.wikipedia.org/wiki/Gioco_d%27azzardo_patologico,0.8965
+http://purl.org/bncf/tid/45693,Giornata dell'Unità Nazionale e delle Forze Armate,http://it.wikipedia.org/wiki/Giornata_dell%27Unit%C3%A0_Nazionale_e_delle_Forze_Armate,0.9111
+http://purl.org/bncf/tid/909,Giovani,http://it.wikipedia.org/wiki/Adolescenza,0.7512
+http://purl.org/bncf/tid/30764,Giubilei,http://it.wikipedia.org/wiki/Giubileo_universale_della_Chiesa_Cattolica,0.7273
+http://purl.org/bncf/tid/31686,Giudici istruttori penali,http://it.wikipedia.org/wiki/Giudice,0.7497
+http://purl.org/bncf/tid/29630,Giudizio finale,http://it.wikipedia.org/wiki/Giudizio_universale,0.7287
+http://purl.org/bncf/tid/5983,Giudizio,http://it.wikipedia.org/wiki/Processo_%28diritto%29,0.7703
+http://purl.org/bncf/tid/48747,Giunte comunali,http://it.wikipedia.org/wiki/Giunta_comunale,0.7493
+http://purl.org/bncf/tid/3370,Go <Giochi>,http://it.wikipedia.org/wiki/Go_%28gioco%29,0.68
+http://purl.org/bncf/tid/16557,Grano <Cereali>,http://it.wikipedia.org/wiki/Triticum,0.7346
+http://purl.org/bncf/tid/16554,Grano,http://it.wikipedia.org/wiki/Triticum,0.7624
+http://purl.org/bncf/tid/41303,Gravità quantistica,http://it.wikipedia.org/wiki/Gravit%C3%A0_quantistica,0.916
+http://purl.org/bncf/tid/23200,Grazia <Atti giuridici>,http://it.wikipedia.org/wiki/Grazia_%28diritto%29,0.6494
+http://purl.org/bncf/tid/22616,Grès,http://it.wikipedia.org/wiki/Ceramica,0.7975
+http://purl.org/bncf/tid/22284,Gru <Macchine operatrici>,http://it.wikipedia.org/wiki/Gru_%28trasporto%29,0.7336
+http://purl.org/bncf/tid/14695,Guardie rosse,http://it.wikipedia.org/wiki/Guardie_Rosse_%28Rivoluzione_Culturale%29,0.867
+http://purl.org/bncf/tid/23266,Guerra di indipendenza <1859>,http://it.wikipedia.org/wiki/Guerra_di_indipendenza_americana,0.786
+http://purl.org/bncf/tid/23278,Guerra di indipendenza <1866>,http://it.wikipedia.org/wiki/Guerra_di_indipendenza_americana,0.786
+http://purl.org/bncf/tid/49142,Guerra di movimento,http://it.wikipedia.org/wiki/Guerra_lampo,0.6633
+http://purl.org/bncf/tid/20645,Guerre di indipendenza <1848-1866>,http://it.wikipedia.org/wiki/Guerre_di_indipendenza_italiane,0.7244
+http://purl.org/bncf/tid/50058,Guerrieri,http://it.wikipedia.org/wiki/Guerra,0.7288
+http://purl.org/bncf/tid/22913,Guglielmiti,http://it.wikipedia.org/wiki/Guglielma_la_Boema,0.8857
+http://purl.org/bncf/tid/30620,Idratazione,http://it.wikipedia.org/wiki/Reazione_di_idratazione,0.7512
+http://purl.org/bncf/tid/38419,Ileo,http://it.wikipedia.org/wiki/Ileo_%28intestino%29,0.9026
+http://purl.org/bncf/tid/9493,Illustrazioni,http://it.wikipedia.org/wiki/Immagine,0.6893
+http://purl.org/bncf/tid/41713,Imene,http://it.wikipedia.org/wiki/Imene_%28anatomia%29,0.905
+http://purl.org/bncf/tid/5996,Immaginario,http://it.wikipedia.org/wiki/Immaginazione,0.7474
+http://purl.org/bncf/tid/14481,Imposta progressiva,http://it.wikipedia.org/wiki/Progressivit%C3%A0,0.9437
+http://purl.org/bncf/tid/5819,Imposta regionale sulle attività produttive,http://it.wikipedia.org/wiki/Imposta_regionale_sulle_attivit%C3%A0_produttive,0.9103
+http://purl.org/bncf/tid/10485,Imposta sul reddito delle società,http://it.wikipedia.org/wiki/Imposta_sul_reddito_delle_societ%C3%A0,0.8869
+http://purl.org/bncf/tid/12104,Imputabilità,http://it.wikipedia.org/wiki/Imputabilit%C3%A0,0.8492
+http://purl.org/bncf/tid/17149,Inadempimento,http://it.wikipedia.org/wiki/Inadempimento_%28ordinamento_italiano%29,0.802
+http://purl.org/bncf/tid/49638,Incapacità naturale,http://it.wikipedia.org/wiki/Incapacit%C3%A0,0.8701
+http://purl.org/bncf/tid/27658,Incompetenza,http://it.wikipedia.org/wiki/Competenza_%28diritto%29,0.8032
+http://purl.org/bncf/tid/30744,Incredulità,http://it.wikipedia.org/wiki/Incredulit%C3%A0,0.6668
+http://purl.org/bncf/tid/15539,Indennità di contingenza,http://it.wikipedia.org/wiki/Scala_mobile_%28economia%29,0.9204
+http://purl.org/bncf/tid/5663,Indennità di malattia,http://it.wikipedia.org/wiki/Indennit%C3%A0_di_malattia,0.8609
+http://purl.org/bncf/tid/9538,Indigeni,http://it.wikipedia.org/wiki/Nativi_americani,0.7737
+http://purl.org/bncf/tid/19397,Infinito <Concetti matematici>,http://it.wikipedia.org/wiki/Infinito_%28matematica%29,0.769
+http://purl.org/bncf/tid/20606,Infinito,http://it.wikipedia.org/wiki/Infinito_%28matematica%29,0.7621
+http://purl.org/bncf/tid/7960,Ingiuria,http://it.wikipedia.org/wiki/Ingiuria_%28ordinamento_italiano%29,0.635
+http://purl.org/bncf/tid/28871,Insolazione,http://it.wikipedia.org/wiki/Sole,0.7849
+http://purl.org/bncf/tid/15743,Installazione,http://it.wikipedia.org/wiki/Installazione_%28informatica%29,0.6825
+http://purl.org/bncf/tid/32870,Integrazione,http://it.wikipedia.org/wiki/Integrale,0.7155
+http://purl.org/bncf/tid/18584,Integrazione sociale,http://it.wikipedia.org/wiki/Integrazione_%28scienze_sociali%29,0.7066
+http://purl.org/bncf/tid/4094,Intelligenza,http://it.wikipedia.org/wiki/Intelletto,0.7442
+http://purl.org/bncf/tid/30700,Interazione,http://it.wikipedia.org/wiki/Forza,0.6997
+http://purl.org/bncf/tid/30806,Interferenza,http://it.wikipedia.org/wiki/Interferenza_%28fisica%29,0.8004
+http://purl.org/bncf/tid/26449,Interlingua,http://it.wikipedia.org/wiki/Interlingua_%28glottodidattica%29,0.8952
+http://purl.org/bncf/tid/30706,Interpolazione,http://it.wikipedia.org/wiki/Fisica,0.855
+http://purl.org/bncf/tid/2968,Interpretazione,http://it.wikipedia.org/wiki/Ermeneutica,0.694
+http://purl.org/bncf/tid/18628,Intersoggettività,http://it.wikipedia.org/wiki/Intersoggettivit%C3%A0,0.8715
+http://purl.org/bncf/tid/1753,Intervalli musicali,http://it.wikipedia.org/wiki/Intervallo_%28musica%29,0.873
+http://purl.org/bncf/tid/4515,Intoccabili,http://it.wikipedia.org/wiki/Paria,0.8942
+http://purl.org/bncf/tid/30720,Intreccio,http://it.wikipedia.org/wiki/Trama_%28narrativa%29,0.7554
+http://purl.org/bncf/tid/26673,Invarianza,http://it.wikipedia.org/wiki/Invarianza_%28fisica%29,0.7406
+http://purl.org/bncf/tid/20088,Ioduri,http://it.wikipedia.org/wiki/Iodio,0.8389
+http://purl.org/bncf/tid/30766,Ipostasi,http://it.wikipedia.org/wiki/Ipostasi_%28filosofia_e_teologia%29,0.9024
+http://purl.org/bncf/tid/51458,Ippocampo,http://it.wikipedia.org/wiki/Ippocampo_%28anatomia%29,0.9072
+http://purl.org/bncf/tid/15919,Isolanti,http://it.wikipedia.org/wiki/Isolante_elettrico,0.7602
+http://purl.org/bncf/tid/17375,Istituti italiani di cultura all'estero,http://it.wikipedia.org/wiki/Istituti_italiani_di_cultura_all%27estero,0.8816
+http://purl.org/bncf/tid/49788,Ius naufragii,http://it.wikipedia.org/wiki/Diritto,0.7275
+http://purl.org/bncf/tid/34912,Laghi alpini,http://it.wikipedia.org/wiki/Lago,0.6422
+http://purl.org/bncf/tid/26305,Lagune,http://it.wikipedia.org/wiki/Laguna,0.7832
+http://purl.org/bncf/tid/21057,Laicità,http://it.wikipedia.org/wiki/Laicit%C3%A0,0.8026
+http://purl.org/bncf/tid/40617,Lame,http://it.wikipedia.org/wiki/Lama_%28oggetto%29,0.6885
+http://purl.org/bncf/tid/44606,Lance,http://it.wikipedia.org/wiki/Lancia_%28imbarcazione%29,0.8027
+http://purl.org/bncf/tid/16703,Lancio,http://it.wikipedia.org/wiki/Tiro_del_giavellotto,0.7216
+http://purl.org/bncf/tid/16702,Lapidi,http://it.wikipedia.org/wiki/Epigrafe,0.7241
+http://purl.org/bncf/tid/4099,Laser <Imbarcazioni>,http://it.wikipedia.org/wiki/Laser_%28natante%29,0.8053
+http://purl.org/bncf/tid/16031,Lattato deidrogenasi,http://it.wikipedia.org/wiki/L-lattato_deidrogenasi,0.892
+http://purl.org/bncf/tid/28961,Laudi,http://it.wikipedia.org/wiki/Lauda,0.7203
+http://purl.org/bncf/tid/33714,Lavagna,http://it.wikipedia.org/wiki/Ardesia,0.8256
+http://purl.org/bncf/tid/42816,Lavoro <Grandezze fisiche>,http://it.wikipedia.org/wiki/Lavoro_%28fisica%29,0.7601
+http://purl.org/bncf/tid/44938,Lazzaretti,http://it.wikipedia.org/wiki/Lazzaretto,0.6585
+http://purl.org/bncf/tid/8217,Legatura,http://it.wikipedia.org/wiki/Legatoria,0.6316
+http://purl.org/bncf/tid/34738,Legge naturale,http://it.wikipedia.org/wiki/Legge_morale_naturale,0.6823
+http://purl.org/bncf/tid/28714,Leishmaniosi,http://it.wikipedia.org/wiki/Leishmaniosi_umana,0.8665
+http://purl.org/bncf/tid/41983,Lemmi,http://it.wikipedia.org/wiki/Lemma_%28linguistica%29,0.7394
+http://purl.org/bncf/tid/5382,Letteratura dell'orrore,http://it.wikipedia.org/wiki/Letteratura_dell%27orrore,0.9155
+http://purl.org/bncf/tid/219,Letteratura romani,http://it.wikipedia.org/wiki/Letteratura,0.7065
+http://purl.org/bncf/tid/10307,Lettere,http://it.wikipedia.org/wiki/Lettera_%28messaggio%29,0.7201
+http://purl.org/bncf/tid/30780,Letture,http://it.wikipedia.org/wiki/Lettura,0.6882
+http://purl.org/bncf/tid/49352,Leva militare,http://it.wikipedia.org/wiki/Servizio_militare,0.7812
+http://purl.org/bncf/tid/27102,Licei,http://it.wikipedia.org/wiki/Scuola_secondaria_di_secondo_grado_in_Italia,0.7214
+http://purl.org/bncf/tid/9099,Licenza di abitabilità,http://it.wikipedia.org/wiki/Certificato_di_abitabilit%C3%A0,0.8771
+http://purl.org/bncf/tid/29709,Limes,http://it.wikipedia.org/wiki/Limes_romano,0.8293
+http://purl.org/bncf/tid/19410,Limiti,http://it.wikipedia.org/wiki/Limite_%28matematica%29,0.7297
+http://purl.org/bncf/tid/14390,Limoni,http://it.wikipedia.org/wiki/Citrus_%C3%97_limon,0.8262
+http://purl.org/bncf/tid/26872,Linearità,http://it.wikipedia.org/wiki/Linearit%C3%A0_%28matematica%29,0.752
+http://purl.org/bncf/tid/13531,Linee,http://it.wikipedia.org/wiki/Retta,0.6805
+http://purl.org/bncf/tid/110,Lingua ge'ez,http://it.wikipedia.org/wiki/Lingua_ge%27ez,0.9031
+http://purl.org/bncf/tid/17668,Lingua,http://it.wikipedia.org/wiki/Lingua_%28anatomia%29,0.7379
+http://purl.org/bncf/tid/146,Lingua provenzale,http://it.wikipedia.org/wiki/Lingua_occitana,0.8458
+http://purl.org/bncf/tid/223,Lingua romani,http://it.wikipedia.org/wiki/Lingua_roman%C3%AD,0.9484
+http://purl.org/bncf/tid/12040,Lingua soraba,http://it.wikipedia.org/wiki/Lingue_sorabe,0.9497
+http://purl.org/bncf/tid/13395,Linguistica strutturale,http://it.wikipedia.org/wiki/Strutturalismo_%28linguistica%29,0.8441
+http://purl.org/bncf/tid/16437,Lino,http://it.wikipedia.org/wiki/Linum_usitatissimum,0.7198
+http://purl.org/bncf/tid/11949,Lippa,http://it.wikipedia.org/wiki/Lippa_%28gioco%29,0.6987
+http://purl.org/bncf/tid/5952,Liquidità,http://it.wikipedia.org/wiki/Liquidit%C3%A0,0.7304
+http://purl.org/bncf/tid/29493,Lire,http://it.wikipedia.org/wiki/Lira_%28strumento_musicale%29,0.8465
+http://purl.org/bncf/tid/22383,Litis contestatio,http://it.wikipedia.org/wiki/Lege_agere,0.804
+http://purl.org/bncf/tid/13790,Liturgia cattolica,http://it.wikipedia.org/wiki/Liturgia,0.8314
+http://purl.org/bncf/tid/36256,Loricati,http://it.wikipedia.org/wiki/Crocodilia,0.8632
+http://purl.org/bncf/tid/9716,Lotta di classe,http://it.wikipedia.org/wiki/Karl_Marx,0.8299
+http://purl.org/bncf/tid/16551,Lotta libera,http://it.wikipedia.org/wiki/Lotta,0.8706
+http://purl.org/bncf/tid/45686,Lunedì di Pasqua,http://it.wikipedia.org/wiki/Luned%C3%AC_dell%27Angelo,0.7399
+http://purl.org/bncf/tid/35550,Machiavellismo,http://it.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli,0.8936
+http://purl.org/bncf/tid/16403,Macramè,http://it.wikipedia.org/wiki/Macram%C3%A8,0.9001
+http://purl.org/bncf/tid/31909,Mafiosi,http://it.wikipedia.org/wiki/Mafia,0.8607
+http://purl.org/bncf/tid/34770,Maggiolini,http://it.wikipedia.org/wiki/Melolontha_melolontha,0.7571
+http://purl.org/bncf/tid/1638,Magistratura,http://it.wikipedia.org/wiki/Magistratura_%28diritto%29,0.721
+http://purl.org/bncf/tid/46586,Maglie,http://it.wikipedia.org/wiki/Maglia_%28abbigliamento%29,0.6972
+http://purl.org/bncf/tid/46230,Magli,http://it.wikipedia.org/wiki/Maglio,0.7877
+http://purl.org/bncf/tid/21285,Malattia di Addison,http://it.wikipedia.org/wiki/Malattia_di_Addison,0.9113
+http://purl.org/bncf/tid/21136,Malattia di Bowen,http://it.wikipedia.org/wiki/Malattia_di_Bowen,0.9155
+http://purl.org/bncf/tid/6355,Malva <Colori>,http://it.wikipedia.org/wiki/Malva_%28botanica%29,0.7921
+http://purl.org/bncf/tid/3396,Mandarini,http://it.wikipedia.org/wiki/Citrus_reticulata,0.8089
+http://purl.org/bncf/tid/46645,Mania,http://it.wikipedia.org/wiki/Mania_%28disturbi_psichici%29,0.775
+http://purl.org/bncf/tid/4243,Manodopera,http://it.wikipedia.org/wiki/Lavoro,0.7634
+http://purl.org/bncf/tid/22779,Manutenibilità,http://it.wikipedia.org/wiki/Manutenibilit%C3%A0,0.762
+http://purl.org/bncf/tid/30388,Marchesi,http://it.wikipedia.org/wiki/Marchese,0.7664
+http://purl.org/bncf/tid/8601,Marina <Generi artistici>,http://it.wikipedia.org/wiki/Mare,0.7119
+http://purl.org/bncf/tid/2018,Marina,http://it.wikipedia.org/wiki/Mare,0.7209
+http://purl.org/bncf/tid/12204,Marina militare,http://it.wikipedia.org/wiki/Marina_Militare,0.8441
+http://purl.org/bncf/tid/18847,Marinismo,http://it.wikipedia.org/wiki/Marinismo,0.8838
+http://purl.org/bncf/tid/26998,Marne,http://it.wikipedia.org/wiki/Marna_%28roccia%29,0.7307
+http://purl.org/bncf/tid/46078,Martelli,http://it.wikipedia.org/wiki/Martello_%28tecnologia%29,0.7434
+http://purl.org/bncf/tid/18611,Martirio,http://it.wikipedia.org/wiki/Martirio_%28ebraismo%29,0.7946
+http://purl.org/bncf/tid/6213,Mascheroni,http://it.wikipedia.org/wiki/Mascherone,0.695
+http://purl.org/bncf/tid/21083,Maschiatura,http://it.wikipedia.org/wiki/Maschio_%28meccanica%29,0.8473
+http://purl.org/bncf/tid/8617,Massa <Grandezze fisiche>,http://it.wikipedia.org/wiki/Massa_%28fisica%29,0.7524
+http://purl.org/bncf/tid/4214,Materia,http://it.wikipedia.org/wiki/Materia_%28fisica%29,0.729
+http://purl.org/bncf/tid/9338,Maternità,http://it.wikipedia.org/wiki/Madre,0.7358
+http://purl.org/bncf/tid/14629,Mazzinianesimo,http://it.wikipedia.org/wiki/Giuseppe_Mazzini,0.9001
+http://purl.org/bncf/tid/21490,Mazziniani,http://it.wikipedia.org/wiki/Giuseppe_Mazzini,0.8019
+http://purl.org/bncf/tid/7345,Meccanica,http://it.wikipedia.org/wiki/Meccanica_%28fisica%29,0.7584
+http://purl.org/bncf/tid/17231,Medicina d'urgenza,http://it.wikipedia.org/wiki/Medicina_d%27emergenza-urgenza,0.8005
+http://purl.org/bncf/tid/1057,Medicina riabilitativa,http://it.wikipedia.org/wiki/Medicina_fisica_e_riabilitazione,0.8481
+http://purl.org/bncf/tid/21269,Memoria,http://it.wikipedia.org/wiki/Memoria_%28fisiologia%29,0.656
+http://purl.org/bncf/tid/7612,Memorie <Elaboratori>,http://it.wikipedia.org/wiki/Memoria_%28informatica%29,0.6977
+http://purl.org/bncf/tid/30460,Mensa vescovile,http://it.wikipedia.org/wiki/Curia_diocesana,0.6983
+http://purl.org/bncf/tid/51799,Mercati liberi,http://it.wikipedia.org/wiki/Mercato,0.7487
+http://purl.org/bncf/tid/50612,Mercato nero,http://it.wikipedia.org/wiki/Economia_sommersa,0.7515
+http://purl.org/bncf/tid/45585,Mercato unico,http://it.wikipedia.org/wiki/Mercato_europeo_comune,0.7206
+http://purl.org/bncf/tid/35425,Meridiani,http://it.wikipedia.org/wiki/Meridiano,0.8297
+http://purl.org/bncf/tid/35423,Mesomeria,http://it.wikipedia.org/wiki/Risonanza_%28chimica%29,0.9126
+http://purl.org/bncf/tid/51202,Metamorfosi,http://it.wikipedia.org/wiki/Mutaforma,0.8094
+http://purl.org/bncf/tid/51038,Metodo comparativo,http://it.wikipedia.org/wiki/Linguistica_comparativa,0.807
+http://purl.org/bncf/tid/13281,Metodologia,http://it.wikipedia.org/wiki/Metodo_scientifico,0.739
+http://purl.org/bncf/tid/8459,Metodo Montessori,http://it.wikipedia.org/wiki/Maria_Montessori,0.8953
+http://purl.org/bncf/tid/20749,Micrometri,http://it.wikipedia.org/wiki/Micrometro,0.8674
+http://purl.org/bncf/tid/919,Minori,http://it.wikipedia.org/wiki/Maggiore_et%C3%A0,0.7184
+http://purl.org/bncf/tid/19049,Mitteleuropa,http://it.wikipedia.org/wiki/Europa_centrale,0.7909
+http://purl.org/bncf/tid/8703,Modernismo,http://it.wikipedia.org/wiki/Modernismo_teologico,0.7728
+http://purl.org/bncf/tid/6665,Modernità,http://it.wikipedia.org/wiki/Modernit%C3%A0,0.7203
+http://purl.org/bncf/tid/27344,Modi,http://it.wikipedia.org/wiki/Modo_musicale,0.7136
+http://purl.org/bncf/tid/27309,Modulazione <Musica>,http://it.wikipedia.org/wiki/Modulazione,0.7422
+http://purl.org/bncf/tid/21903,Mole,http://it.wikipedia.org/wiki/Smerigliatrice,0.6938
+http://purl.org/bncf/tid/5336,Molestie sessuali,http://it.wikipedia.org/wiki/Abuso_sessuale,0.6901
+http://purl.org/bncf/tid/4600,Monache,http://it.wikipedia.org/wiki/Monachesimo,0.7511
+http://purl.org/bncf/tid/13269,Monopoli,http://it.wikipedia.org/wiki/Monopolio,0.8443
+http://purl.org/bncf/tid/9426,Montagne,http://it.wikipedia.org/wiki/Montagna,0.6326
+http://purl.org/bncf/tid/37216,Montante,http://it.wikipedia.org/wiki/Montante_%28economia%29,0.7195
+http://purl.org/bncf/tid/24324,Mora,http://it.wikipedia.org/wiki/Mora_%28diritto%29,0.7582
+http://purl.org/bncf/tid/29724,Moralisti,http://it.wikipedia.org/wiki/Morale,0.8004
+http://purl.org/bncf/tid/33617,Morbilità,http://it.wikipedia.org/wiki/Morbilit%C3%A0,0.7573
+http://purl.org/bncf/tid/41984,Morfologia,http://it.wikipedia.org/wiki/Morfologia_%28linguistica%29,0.7143
+http://purl.org/bncf/tid/28846,Motocicli,http://it.wikipedia.org/wiki/Motoveicolo,0.769
+http://purl.org/bncf/tid/19138,Motore immobile,http://it.wikipedia.org/wiki/Dio,0.8573
+http://purl.org/bncf/tid/20652,Movimenti,http://it.wikipedia.org/wiki/Moto_%28fisica%29,0.7715
 http://purl.org/bncf/tid/7257,Moxa,http://it.wikipedia.org/wiki/Moxa,0.6662
-http://purl.org/bncf/tid/16863,Nodi,http://it.wikipedia.org/wiki/Nodo_%28unit%C3%A0_di_misura%29,0.6903
-http://purl.org/bncf/tid/553,Oggetti,http://it.wikipedia.org/wiki/Oggetto_%28filosofia%29,0.7348
-http://purl.org/bncf/tid/2229,Organi <Strumenti musicali>,http://it.wikipedia.org/wiki/Organo_%28strumento_musicale%29,0.6645
-http://purl.org/bncf/tid/15755,Pale d'altare,http://it.wikipedia.org/wiki/Pala_d%27altare,0.7377
-http://purl.org/bncf/tid/26252,Palle,http://it.wikipedia.org/wiki/Palla_%28sport%29,0.6833
-http://purl.org/bncf/tid/41274,Pedalò,http://it.wikipedia.org/wiki/Pedal%C3%B2,0.7585
-http://purl.org/bncf/tid/17076,Penne <Strumenti scrittori>,http://it.wikipedia.org/wiki/Penna_a_sfera,0.7239
-http://purl.org/bncf/tid/30255,Pianete,http://it.wikipedia.org/wiki/Pianeta_%28liturgia%29,0.8136
-http://purl.org/bncf/tid/41363,Pistoni,http://it.wikipedia.org/wiki/Pistone_%28meccanica%29,0.7393
+http://purl.org/bncf/tid/21758,Multiproprietà,http://it.wikipedia.org/wiki/Multipropriet%C3%A0,0.7058
+http://purl.org/bncf/tid/17994,Mura,http://it.wikipedia.org/wiki/Mura_%28architettura%29,0.8084
+http://purl.org/bncf/tid/24831,Muse,http://it.wikipedia.org/wiki/Muse_%28divinit%C3%A0%29,0.8095
+http://purl.org/bncf/tid/28561,Musica atonale,http://it.wikipedia.org/wiki/Atonalit%C3%A0,0.7804
+http://purl.org/bncf/tid/28105,Musica sinfonica,http://it.wikipedia.org/wiki/Sinfonia,0.7671
+http://purl.org/bncf/tid/68,Musicisti,http://it.wikipedia.org/wiki/Musica,0.8275
+http://purl.org/bncf/tid/37867,Muta,http://it.wikipedia.org/wiki/Muta_%28biologia%29,0.7495
+http://purl.org/bncf/tid/9885,Mutamento sociale,http://it.wikipedia.org/wiki/Mutamento_%28sociologia%29,0.6927
+http://purl.org/bncf/tid/36350,Nani,http://it.wikipedia.org/wiki/Tilio_Nani,0.6637
+http://purl.org/bncf/tid/36411,Naos,http://it.wikipedia.org/wiki/Cella_%28architettura%29,0.8904
+http://purl.org/bncf/tid/41095,Naselli,http://it.wikipedia.org/wiki/Merluccius_merluccius,0.8427
+http://purl.org/bncf/tid/6510,Natale,http://it.wikipedia.org/wiki/Natale_nel_mondo,0.7135
+http://purl.org/bncf/tid/6516,Natività,http://it.wikipedia.org/wiki/Nascita_di_Ges%C3%B9,0.7297
+http://purl.org/bncf/tid/19972,Naturalismo,http://it.wikipedia.org/wiki/Scienza,0.8261
+http://purl.org/bncf/tid/21268,Naturalisti,http://it.wikipedia.org/wiki/Scienze_naturali,0.8208
+http://purl.org/bncf/tid/29725,Navigatori,http://it.wikipedia.org/wiki/Navigazione,0.7264
+http://purl.org/bncf/tid/44109,Nefrite,http://it.wikipedia.org/wiki/Glomerulonefrite,0.7451
+http://purl.org/bncf/tid/49430,Negazionismo,http://it.wikipedia.org/wiki/Negazionismo_dell%27Olocausto,0.7984
+http://purl.org/bncf/tid/27637,Nervi,http://it.wikipedia.org/wiki/Nervo,0.7389
+http://purl.org/bncf/tid/43542,Nesti,http://it.wikipedia.org/wiki/Fulvio_Nesti,0.6132
+http://purl.org/bncf/tid/19147,Neue Sachlichkeit,http://it.wikipedia.org/wiki/Nuova_oggettivit%C3%A0,0.7716
+http://purl.org/bncf/tid/24316,Neurobiologia,http://it.wikipedia.org/wiki/Neuroscienze,0.8489
+http://purl.org/bncf/tid/37366,Nitriti,http://it.wikipedia.org/wiki/Nitrito,0.91
+http://purl.org/bncf/tid/2911,Nobili,http://it.wikipedia.org/wiki/Nobilt%C3%A0,0.6745
+http://purl.org/bncf/tid/20009,Nobiltà,http://it.wikipedia.org/wiki/Nobilt%C3%A0,0.6747
+http://purl.org/bncf/tid/30697,Noci <Frutta>,http://it.wikipedia.org/wiki/Noce_%28botanica%29,0.7869
+http://purl.org/bncf/tid/46422,Noci,http://it.wikipedia.org/wiki/Noce_%28botanica%29,0.7988
+http://purl.org/bncf/tid/16863,Nodi,http://it.wikipedia.org/wiki/Nodo_%28unit%C3%A0_di_misura%29,0.6946
+http://purl.org/bncf/tid/30314,Noviziato,http://it.wikipedia.org/wiki/Noviziato_%28religione%29,0.757
+http://purl.org/bncf/tid/1015,Nozze,http://it.wikipedia.org/wiki/Matrimonio,0.7731
+http://purl.org/bncf/tid/4421,Nudità,http://it.wikipedia.org/wiki/Nudit%C3%A0,0.66
+http://purl.org/bncf/tid/14120,Nullità,http://it.wikipedia.org/wiki/Nullit%C3%A0_%28diritto%29,0.7888
+http://purl.org/bncf/tid/25440,Numismatici,http://it.wikipedia.org/wiki/Numismatica,0.8904
+http://purl.org/bncf/tid/6123,Obbligazioni,http://it.wikipedia.org/wiki/Obbligazione_%28diritto%29,0.7957
+http://purl.org/bncf/tid/19502,Occupazione d'urgenza,http://it.wikipedia.org/wiki/Occupazione_d%27urgenza,0.881
+http://purl.org/bncf/tid/5583,Odori,http://it.wikipedia.org/wiki/Olfatto,0.7664
+http://purl.org/bncf/tid/553,Oggetti,http://it.wikipedia.org/wiki/Oggetto_%28filosofia%29,0.7129
+http://purl.org/bncf/tid/21226,Oggettività,http://it.wikipedia.org/wiki/Oggetto_%28filosofia%29,0.7425
+http://purl.org/bncf/tid/24861,Oggetti volanti non identificati  ,http://it.wikipedia.org/wiki/UFO,0.7977
+http://purl.org/bncf/tid/24829,Oli,http://it.wikipedia.org/wiki/Olio_vegetale,0.6569
+http://purl.org/bncf/tid/14499,Olimpiadi,http://it.wikipedia.org/wiki/Giochi_olimpici_antichi,0.6684
+http://purl.org/bncf/tid/29614,Omofonia,http://it.wikipedia.org/wiki/Omofonia_%28musica%29,0.8905
+http://purl.org/bncf/tid/25853,Onde d'urto,http://it.wikipedia.org/wiki/Onda_d%27urto_%28fluidodinamica%29,0.6706
+http://purl.org/bncf/tid/5359,Onde,http://it.wikipedia.org/wiki/Radiazione_elettromagnetica,0.7316
+http://purl.org/bncf/tid/5390,Ondine,http://it.wikipedia.org/wiki/Ondina_%28mitologia%29,0.6221
+http://purl.org/bncf/tid/10618,Opere,http://it.wikipedia.org/wiki/Arte,0.7629
+http://purl.org/bncf/tid/10280,Oratoria,http://it.wikipedia.org/wiki/Retorica,0.7324
+http://purl.org/bncf/tid/30543,Oratoriani,http://it.wikipedia.org/wiki/Confederazione_dell%27oratorio_di_San_Filippo_Neri,0.8831
+http://purl.org/bncf/tid/30324,Oratori <Edifici di culto cattolico>,http://it.wikipedia.org/wiki/Oratorio_%28architettura%29,0.7135
+http://purl.org/bncf/tid/6995,Oratori <Forme musicali>,http://it.wikipedia.org/wiki/Retorica,0.7512
+http://purl.org/bncf/tid/10283,Orazioni,http://it.wikipedia.org/wiki/Retorica,0.6794
+http://purl.org/bncf/tid/21105,Orbitali molecolari,http://it.wikipedia.org/wiki/Orbitale_atomico,0.8233
+http://purl.org/bncf/tid/27569,Ordinamento <Attività>,http://it.wikipedia.org/wiki/Diritto,0.6027
+http://purl.org/bncf/tid/26186,Ordinamento,http://it.wikipedia.org/wiki/Ordinamento_giuridico,0.6219
+http://purl.org/bncf/tid/7291,Organi genitali,http://it.wikipedia.org/wiki/Apparato_genitale_maschile,0.71
+http://purl.org/bncf/tid/2229,Organi <Strumenti musicali>,http://it.wikipedia.org/wiki/Organo_%28strumento_musicale%29,0.6996
+http://purl.org/bncf/tid/7138,Oriente,http://it.wikipedia.org/wiki/Asia,0.6828
+http://purl.org/bncf/tid/17179,Origini,http://it.wikipedia.org/wiki/Big_Bang,0.6674
+http://purl.org/bncf/tid/23066,Orologeria,http://it.wikipedia.org/wiki/Orologio,0.8062
+http://purl.org/bncf/tid/47051,Ortolani,http://it.wikipedia.org/wiki/Orticoltura,0.7802
+http://purl.org/bncf/tid/47054,Orzo,http://it.wikipedia.org/wiki/Orzo_%28alimento%29,0.9028
+http://purl.org/bncf/tid/25495,Oscillatori,http://it.wikipedia.org/wiki/Oscillazione,0.8046
+http://purl.org/bncf/tid/24279,Ossessione,http://it.wikipedia.org/wiki/Disturbo_ossessivo-compulsivo,0.6898
+http://purl.org/bncf/tid/3131,Osteite deformante,http://it.wikipedia.org/wiki/Malattia_ossea_di_Paget,0.8769
+http://purl.org/bncf/tid/31831,Ostilità,http://it.wikipedia.org/wiki/Ostilit%C3%A0,0.6679
+http://purl.org/bncf/tid/23430,Pagani,http://it.wikipedia.org/wiki/Paganesimo,0.7671
+http://purl.org/bncf/tid/15755,Pale d'altare,http://it.wikipedia.org/wiki/Pala_d%27altare,0.7397
+http://purl.org/bncf/tid/40630,Pali,http://it.wikipedia.org/wiki/Palo_di_fondazione,0.6435
+http://purl.org/bncf/tid/26252,Palle,http://it.wikipedia.org/wiki/Palla_%28sport%29,0.6842
+http://purl.org/bncf/tid/3152,Palme,http://it.wikipedia.org/wiki/Arecaceae,0.7676
+http://purl.org/bncf/tid/20481,Panico,http://it.wikipedia.org/wiki/Paura,0.7036
+http://purl.org/bncf/tid/31118,Parabole,http://it.wikipedia.org/wiki/Parabole_di_Ges%C3%B9,0.694
+http://purl.org/bncf/tid/30557,Paradiso terrestre,http://it.wikipedia.org/wiki/Giardino_dell%27Eden,0.8211
+http://purl.org/bncf/tid/11792,Paralleli,http://it.wikipedia.org/wiki/Parallelo_%28geografia%29,0.7059
+http://purl.org/bncf/tid/23905,Paramorfismi,http://it.wikipedia.org/wiki/Paramorfismo,0.8044
+http://purl.org/bncf/tid/3126,Parchi,http://it.wikipedia.org/wiki/Giardino,0.637
+http://purl.org/bncf/tid/9806,Pareti,http://it.wikipedia.org/wiki/Parete_%28architettura%29,0.7127
+http://purl.org/bncf/tid/18720,Pari opportunità,http://it.wikipedia.org/wiki/Pari_opportunit%C3%A0,0.7037
+http://purl.org/bncf/tid/21298,Parola di Dio,http://it.wikipedia.org/wiki/Bibbia,0.772
+http://purl.org/bncf/tid/18879,Pasque veronesi <1797>,http://it.wikipedia.org/wiki/Pasque_veronesi,0.8859
+http://purl.org/bncf/tid/31893,Passione,http://it.wikipedia.org/wiki/Passione_di_Ges%C3%B9,0.7345
+http://purl.org/bncf/tid/8319,Passioni,http://it.wikipedia.org/wiki/Passione_%28psicologia%29,0.6584
+http://purl.org/bncf/tid/6994,Passioni <Oratorî>,http://it.wikipedia.org/wiki/Passione_di_Ges%C3%B9,0.7277
+http://purl.org/bncf/tid/18880,Passionisti,http://it.wikipedia.org/wiki/Congregazione_della_Passione_di_Ges%C3%B9_Cristo,0.827
+http://purl.org/bncf/tid/9745,Paternità,http://it.wikipedia.org/wiki/Paternit%C3%A0,0.6236
+http://purl.org/bncf/tid/36974,Patria potestà,http://it.wikipedia.org/wiki/Patria_potest%C3%A0,0.7991
+http://purl.org/bncf/tid/21101,Patriarchi,http://it.wikipedia.org/wiki/Patriarca_%28cristianesimo%29,0.749
+http://purl.org/bncf/tid/1328,Patrioti,http://it.wikipedia.org/wiki/Patriottismo,0.7045
+http://purl.org/bncf/tid/8329,Pazzia,http://it.wikipedia.org/wiki/Follia,0.6818
+http://purl.org/bncf/tid/41274,Pedalò,http://it.wikipedia.org/wiki/Pedal%C3%B2,0.7542
+http://purl.org/bncf/tid/295,Pelli,http://it.wikipedia.org/wiki/Pelliccia,0.6688
+http://purl.org/bncf/tid/26036,Pelvi,http://it.wikipedia.org/wiki/Bacino_%28anatomia%29,0.8604
+http://purl.org/bncf/tid/6828,Pene accessorie,http://it.wikipedia.org/wiki/Pena_accessoria,0.753
+http://purl.org/bncf/tid/38172,Penne,http://it.wikipedia.org/wiki/Piumaggio,0.7753
+http://purl.org/bncf/tid/17076,Penne <Strumenti scrittori>,http://it.wikipedia.org/wiki/Penna_a_sfera,0.7462
+http://purl.org/bncf/tid/30343,Pentimento,http://it.wikipedia.org/wiki/Pentimento_%28sentimento%29,0.6974
+http://purl.org/bncf/tid/46607,Pepe,http://it.wikipedia.org/wiki/Piper_nigrum,0.7905
+http://purl.org/bncf/tid/47702,Pepe <Piperacee>,http://it.wikipedia.org/wiki/Piper_nigrum,0.7925
+http://purl.org/bncf/tid/24148,Peri,http://it.wikipedia.org/wiki/Pyrus,0.714
+http://purl.org/bncf/tid/34384,Periodicità,http://it.wikipedia.org/wiki/Funzione_periodica,0.7003
+http://purl.org/bncf/tid/5130,Perle,http://it.wikipedia.org/wiki/Perla,0.7105
+http://purl.org/bncf/tid/46954,Perlite,http://it.wikipedia.org/wiki/Perlite_%28metallurgia%29,0.9104
+http://purl.org/bncf/tid/20127,Persona,http://it.wikipedia.org/wiki/Persona_%28filosofia%29,0.6663
+http://purl.org/bncf/tid/13152,Personale,http://it.wikipedia.org/wiki/Risorse_umane,0.6913
+http://purl.org/bncf/tid/6707,Personalità,http://it.wikipedia.org/wiki/Personalit%C3%A0,0.6904
+http://purl.org/bncf/tid/6792,Persuasione,http://it.wikipedia.org/wiki/Persuasione_%28comunicazione%29,0.692
+http://purl.org/bncf/tid/16265,Peso,http://it.wikipedia.org/wiki/Forza_peso,0.7515
+http://purl.org/bncf/tid/8392,Petrarchismo,http://it.wikipedia.org/wiki/Francesco_Petrarca,0.8853
+http://purl.org/bncf/tid/30255,Pianete,http://it.wikipedia.org/wiki/Pianeta_%28liturgia%29,0.8247
+http://purl.org/bncf/tid/23216,Piano,http://it.wikipedia.org/wiki/Piano_%28geometria%29,0.6931
+http://purl.org/bncf/tid/47705,Pidocchi,http://it.wikipedia.org/wiki/Anoplura,0.6906
+http://purl.org/bncf/tid/17787,Piedi,http://it.wikipedia.org/wiki/Piede_%28anatomia%29,0.6894
+http://purl.org/bncf/tid/8387,Pietà,http://it.wikipedia.org/wiki/Piet%C3%A0_%28sentimento%29,0.7068
+http://purl.org/bncf/tid/22042,Pietra d'Istria,http://it.wikipedia.org/wiki/Pietra_d%27Istria,0.8585
+http://purl.org/bncf/tid/5926,Pietre,http://it.wikipedia.org/wiki/Roccia,0.7143
+http://purl.org/bncf/tid/40334,Piovosità,http://it.wikipedia.org/wiki/Pioggia,0.7721
+http://purl.org/bncf/tid/41363,Pistoni,http://it.wikipedia.org/wiki/Pistone_%28meccanica%29,0.7441
+http://purl.org/bncf/tid/19636,Plagio <Delitti contro la persona>,http://it.wikipedia.org/wiki/Plagio_%28psicologia%29,0.7469
+http://purl.org/bncf/tid/17653,Plagio,http://it.wikipedia.org/wiki/Plagio_%28diritto_d%27autore%29,0.7321
+http://purl.org/bncf/tid/5918,Plasma <Gas ionizzati>,http://it.wikipedia.org/wiki/Fisica_del_plasma,0.8223
+http://purl.org/bncf/tid/28988,Plasticità,http://it.wikipedia.org/wiki/Plasticit%C3%A0_%28fisica%29,0.8456
+http://purl.org/bncf/tid/19148,Pluralismo,http://it.wikipedia.org/wiki/Pluralismo_%28filosofia%29,0.7033
+http://purl.org/bncf/tid/22170,Pluralità dei mondi,http://it.wikipedia.org/wiki/Pluralit%C3%A0_dei_mondi,0.8874
+http://purl.org/bncf/tid/34974,Polarizzazione,http://it.wikipedia.org/wiki/Polarizzazione_della_radiazione_elettromagnetica,0.7092
+http://purl.org/bncf/tid/13030,Poli,http://it.wikipedia.org/wiki/Polo_geografico,0.7455
+http://purl.org/bncf/tid/2728,Polipeptidi,http://it.wikipedia.org/wiki/Peptide,0.8511
+http://purl.org/bncf/tid/24052,Poliposi,http://it.wikipedia.org/wiki/Polipo_%28medicina%29,0.791
+http://purl.org/bncf/tid/16784,Polli,http://it.wikipedia.org/wiki/Gallus_gallus_domesticus,0.768
+http://purl.org/bncf/tid/28350,Polo,http://it.wikipedia.org/wiki/Polo_%28sport%29,0.686
+http://purl.org/bncf/tid/20932,Polveri,http://it.wikipedia.org/wiki/Particolato,0.7434
+http://purl.org/bncf/tid/33600,Polverizzazione,http://it.wikipedia.org/wiki/Polvere,0.7637
+http://purl.org/bncf/tid/12846,Popolazione,http://it.wikipedia.org/wiki/Popolo,0.6298
+http://purl.org/bncf/tid/6206,Popoli germanici,http://it.wikipedia.org/wiki/Germani,0.7661
+http://purl.org/bncf/tid/13734,Postulati,http://it.wikipedia.org/wiki/Assioma,0.8012
+http://purl.org/bncf/tid/29182,Potabilizzazione,http://it.wikipedia.org/wiki/Potabilizzazione_dell%27acqua,0.7908
+http://purl.org/bncf/tid/22345,Potenziale,http://it.wikipedia.org/wiki/Potenziale_elettrico,0.7632
+http://purl.org/bncf/tid/48844,Potere amministrativo,http://it.wikipedia.org/wiki/Amministrazione_pubblica,0.786
+http://purl.org/bncf/tid/38314,Potestà,http://it.wikipedia.org/wiki/Potest%C3%A0,0.8189
+http://purl.org/bncf/tid/8430,Povertà <Pratiche religiose>,http://it.wikipedia.org/wiki/Povert%C3%A0,0.7124
+http://purl.org/bncf/tid/18155,Predicatori,http://it.wikipedia.org/wiki/Omiletica,0.8271
+http://purl.org/bncf/tid/30333,Presagi,http://it.wikipedia.org/wiki/Presagio,0.6206
+http://purl.org/bncf/tid/7997,Presupposizione,http://it.wikipedia.org/wiki/Presupposizione_%28diritto%29,0.7757
+http://purl.org/bncf/tid/47222,Prima comunione,http://it.wikipedia.org/wiki/Eucaristia,0.893
+http://purl.org/bncf/tid/30379,Principati,http://it.wikipedia.org/wiki/Principato_%28diritto%29,0.6812
+http://purl.org/bncf/tid/30391,Principato,http://it.wikipedia.org/wiki/Principato_%28storia_romana%29,0.7506
+http://purl.org/bncf/tid/8468,Principi,http://it.wikipedia.org/wiki/Principe,0.7201
+http://purl.org/bncf/tid/19424,Principio di autorità,http://it.wikipedia.org/wiki/Principio_di_autorit%C3%A0,0.7884
+http://purl.org/bncf/tid/38836,Principio di causalità,http://it.wikipedia.org/wiki/Causa_%28filosofia%29,0.7798
+http://purl.org/bncf/tid/15631,Principio di offensività,http://it.wikipedia.org/wiki/Principio_di_offensivit%C3%A0,0.8305
+http://purl.org/bncf/tid/9353,Principio di reciprocità,http://it.wikipedia.org/wiki/Principio_di_reciprocit%C3%A0_%28diritto%29,0.8351
+http://purl.org/bncf/tid/12339,Probabilità,http://it.wikipedia.org/wiki/Probabilit%C3%A0,0.6643
+http://purl.org/bncf/tid/19804,Procedura,http://it.wikipedia.org/wiki/Funzione_%28informatica%29,0.6841
+http://purl.org/bncf/tid/18756,Processo amministrativo,http://it.wikipedia.org/wiki/Processo_amministrativo_%28diritto_italiano%29,0.827
+http://purl.org/bncf/tid/6472,Processo,http://it.wikipedia.org/wiki/Processo_%28diritto%29,0.6284
+http://purl.org/bncf/tid/12020,Prodotti,http://it.wikipedia.org/wiki/Produzione,0.7146
+http://purl.org/bncf/tid/38081,Prodotto,http://it.wikipedia.org/wiki/Moltiplicazione,0.7729
+http://purl.org/bncf/tid/7541,Programmazione,http://it.wikipedia.org/wiki/Programmazione_%28informatica%29,0.802
+http://purl.org/bncf/tid/7807,Progresso,http://it.wikipedia.org/wiki/Progresso_%28filosofia%29,0.711
 http://purl.org/bncf/tid/3293,Proiettori,http://it.wikipedia.org/wiki/Proiettore_cinematografico,0.761
-http://purl.org/bncf/tid/41957,Pullman,http://it.wikipedia.org/wiki/Autobus,0.7402
-http://purl.org/bncf/tid/29568,Relè,http://it.wikipedia.org/wiki/Rel%C3%A8,0.8797
-http://purl.org/bncf/tid/18597,Risciò,http://it.wikipedia.org/wiki/Risci%C3%B2,0.7687
-http://purl.org/bncf/tid/3803,Scanner,http://it.wikipedia.org/wiki/Informatica,0.7986
-http://purl.org/bncf/tid/9535,Selle,http://it.wikipedia.org/wiki/Finimenti,0.6855
-http://purl.org/bncf/tid/7191,Sigilli,http://it.wikipedia.org/wiki/Sigillo_%28oggetto%29,0.6469
-http://purl.org/bncf/tid/21812,Spettrometri di massa,http://it.wikipedia.org/wiki/Spettrometria_di_massa,0.884
-http://purl.org/bncf/tid/23134,Stucchi,http://it.wikipedia.org/wiki/Stucco,0.8112
-http://purl.org/bncf/tid/46669,Tastiere,http://it.wikipedia.org/wiki/Tastiera_%28informatica%29,0.8815
-http://purl.org/bncf/tid/23392,Trattori,http://it.wikipedia.org/wiki/Trattore_agricolo,0.7645
-http://purl.org/bncf/tid/5807,Uova <Oggetti d'arte>,http://it.wikipedia.org/wiki/Uovo_%28alimento%29,0.6838
-http://purl.org/bncf/tid/26232,Valvole,http://it.wikipedia.org/wiki/Valvola_%28idraulica%29,0.767
-http://purl.org/bncf/tid/51756,Vele,http://it.wikipedia.org/wiki/Vela_%28sistema_di_propulsione%29,0.8081
-http://purl.org/bncf/tid/20464,Viti <Meccanismi>,http://it.wikipedia.org/wiki/Vite_%28meccanica%29,0.761
+http://purl.org/bncf/tid/8772,Proporzioni,http://it.wikipedia.org/wiki/Proporzionalit%C3%A0_%28matematica%29,0.7621
+http://purl.org/bncf/tid/25214,Proprietà industriale,http://it.wikipedia.org/wiki/Propriet%C3%A0_intellettuale,0.7854
+http://purl.org/bncf/tid/8543,Proprietà intellettuale,http://it.wikipedia.org/wiki/Propriet%C3%A0_intellettuale,0.798
+http://purl.org/bncf/tid/6999,Provider,http://it.wikipedia.org/wiki/Internet_Service_Provider,0.7426
+http://purl.org/bncf/tid/18444,Psicomotricità,http://it.wikipedia.org/wiki/Psicomotricit%C3%A0,0.6639
+http://purl.org/bncf/tid/36731,Pubblicità sociale,http://it.wikipedia.org/wiki/Pubblicit%C3%A0_sociale,0.869
+http://purl.org/bncf/tid/23885,Pubblicità televisiva,http://it.wikipedia.org/wiki/Pubblicit%C3%A0_televisiva,0.8066
+http://purl.org/bncf/tid/41957,Pullman,http://it.wikipedia.org/wiki/Autobus,0.7446
+http://purl.org/bncf/tid/16855,Punk,http://it.wikipedia.org/wiki/Punk_%28cultura%29,0.6955
+http://purl.org/bncf/tid/29025,Purismo,http://it.wikipedia.org/wiki/Purismo_%28letteratura%29,0.8394
+http://purl.org/bncf/tid/29573,Quadraturismo,http://it.wikipedia.org/wiki/Pittura_illusionistica,0.8311
+http://purl.org/bncf/tid/7975,Qualità della vita,http://it.wikipedia.org/wiki/Qualit%C3%A0_di_vita,0.6577
+http://purl.org/bncf/tid/13644,Qualità,http://it.wikipedia.org/wiki/Qualit%C3%A0,0.6499
+http://purl.org/bncf/tid/32824,Quantità,http://it.wikipedia.org/wiki/Quantit%C3%A0_%28filosofia%29,0.6611
+http://purl.org/bncf/tid/29449,Questione d'Oriente,http://it.wikipedia.org/wiki/Questione_d%27oriente,0.8313
+http://purl.org/bncf/tid/38289,Quoziente,http://it.wikipedia.org/wiki/Gruppo_quoziente,0.6613
+http://purl.org/bncf/tid/5543,Radiazioni,http://it.wikipedia.org/wiki/Radiazione_elettromagnetica,0.78
+http://purl.org/bncf/tid/38000,Radicali,http://it.wikipedia.org/wiki/Radicale_%28matematica%29,0.7685
+http://purl.org/bncf/tid/3261,Radicchio,http://it.wikipedia.org/wiki/Cichorium_intybus,0.812
+http://purl.org/bncf/tid/41248,Radici <Lessico>,http://it.wikipedia.org/wiki/Radice_%28linguistica%29,0.7754
+http://purl.org/bncf/tid/21671,Radiolariti,http://it.wikipedia.org/wiki/Radiolarite,0.7851
+http://purl.org/bncf/tid/10079,Raffinazione,http://it.wikipedia.org/wiki/Raffineria_di_petrolio,0.6447
+http://purl.org/bncf/tid/720,Ragionamento,http://it.wikipedia.org/wiki/Ragione,0.6796
+http://purl.org/bncf/tid/5099,Rappresentazioni,http://it.wikipedia.org/wiki/Rappresentazione_teatrale,0.761
+http://purl.org/bncf/tid/27055,Raso,http://it.wikipedia.org/wiki/Raso_%28tessuto%29,0.7026
+http://purl.org/bncf/tid/23924,Ratafià,http://it.wikipedia.org/wiki/Ratafi%C3%A0,0.8581
+http://purl.org/bncf/tid/19471,Realismo,http://it.wikipedia.org/wiki/Realt%C3%A0,0.7438
+http://purl.org/bncf/tid/7789,Realtà,http://it.wikipedia.org/wiki/Realt%C3%A0,0.7346
+http://purl.org/bncf/tid/25009,Reazioni termonucleari,http://it.wikipedia.org/wiki/Reazione_nucleare,0.8773
+http://purl.org/bncf/tid/27742,Rebus,http://it.wikipedia.org/wiki/Rebus_%28enigmistica%29,0.7558
+http://purl.org/bncf/tid/4771,Recettori,http://it.wikipedia.org/wiki/Recettore_%28biochimica%29,0.749
+http://purl.org/bncf/tid/16313,Reclutamento,http://it.wikipedia.org/wiki/Servizio_militare,0.6724
+http://purl.org/bncf/tid/37533,Record,http://it.wikipedia.org/wiki/Pugilato,0.6811
+http://purl.org/bncf/tid/30635,Redenzione,http://it.wikipedia.org/wiki/Redenzione_%28religione%29,0.7813
+http://purl.org/bncf/tid/30905,Regionalismo,http://it.wikipedia.org/wiki/Regionalismo_%28Italia%29,0.7667
+http://purl.org/bncf/tid/8223,Registro delle imprese,http://it.wikipedia.org/wiki/Registro_delle_imprese_%28diritto_italiano%29,0.8307
+http://purl.org/bncf/tid/27918,Regni,http://it.wikipedia.org/wiki/Monarchia,0.7535
+http://purl.org/bncf/tid/49560,Regolamento di competenza,http://it.wikipedia.org/wiki/Regolamento_di_competenza_%28ordinamento_civile_italiano%29,0.8609
+http://purl.org/bncf/tid/21439,Relatività,http://it.wikipedia.org/wiki/Teoria_della_relativit%C3%A0,0.759
+http://purl.org/bncf/tid/29568,Relè,http://it.wikipedia.org/wiki/Rel%C3%A8,0.8761
+http://purl.org/bncf/tid/51761,Res <Diritto romano>,http://it.wikipedia.org/wiki/Res_cogitans_e_res_extensa,0.7005
+http://purl.org/bncf/tid/45075,Resilienza,http://it.wikipedia.org/wiki/Resilienza_%28ingegneria%29,0.8714
+http://purl.org/bncf/tid/45072,Resilienza <Psicologia>,http://it.wikipedia.org/wiki/Resilienza_%28psicologia%29,0.8286
+http://purl.org/bncf/tid/24651,Resine acriliche,http://it.wikipedia.org/wiki/Acrilico_%28fibra%29,0.8553
+http://purl.org/bncf/tid/9241,Resistenza,http://it.wikipedia.org/wiki/Resistenza_italiana,0.7061
+http://purl.org/bncf/tid/6914,Responsabilità civile,http://it.wikipedia.org/wiki/Responsabilit%C3%A0_civile,0.8289
+http://purl.org/bncf/tid/6915,Responsabilità,http://it.wikipedia.org/wiki/Responsabilit%C3%A0,0.75
+http://purl.org/bncf/tid/6917,Responsabilità oggettiva,http://it.wikipedia.org/wiki/Responsabilit%C3%A0_oggettiva,0.7196
+http://purl.org/bncf/tid/12679,Responsabilità penale,http://it.wikipedia.org/wiki/Responsabilit%C3%A0_penale,0.7367
+http://purl.org/bncf/tid/6916,Responsabilità precontrattuale,http://it.wikipedia.org/wiki/Responsabilit%C3%A0_precontrattuale,0.7796
+http://purl.org/bncf/tid/36086,Rettori <Dirigenti>,http://it.wikipedia.org/wiki/Rettore_%28universit%C3%A0%29,0.6602
+http://purl.org/bncf/tid/7373,Ricerca scientifica,http://it.wikipedia.org/wiki/Scienza,0.8382
+http://purl.org/bncf/tid/8171,Riciclaggio,http://it.wikipedia.org/wiki/Riciclaggio_di_denaro,0.6902
+http://purl.org/bncf/tid/17012,Riduzione,http://it.wikipedia.org/wiki/Riduzione_%28chimica%29,0.6393
+http://purl.org/bncf/tid/37696,Riflessione,http://it.wikipedia.org/wiki/Riflessione_%28fisica%29,0.7315
+http://purl.org/bncf/tid/17267,Riforma,http://it.wikipedia.org/wiki/Riforma_protestante,0.729
+http://purl.org/bncf/tid/7235,Rilievo architettonico,http://it.wikipedia.org/wiki/Rilievo_dell%27architettura,0.6248
+http://purl.org/bncf/tid/29953,Rimorso,http://it.wikipedia.org/wiki/Penitenza_%28sacramento%29,0.6525
+http://purl.org/bncf/tid/11198,Riscaldamento,http://it.wikipedia.org/wiki/Riscaldamento_globale,0.6761
+http://purl.org/bncf/tid/18597,Risciò,http://it.wikipedia.org/wiki/Risci%C3%B2,0.7752
+http://purl.org/bncf/tid/14298,Riserve valutarie,http://it.wikipedia.org/wiki/Riserva_valutaria,0.7841
+http://purl.org/bncf/tid/4940,Risonanza,http://it.wikipedia.org/wiki/Risonanza_%28fisica%29,0.7039
+http://purl.org/bncf/tid/43986,Risorse comuni,http://it.wikipedia.org/wiki/Bene_comune,0.8039
+http://purl.org/bncf/tid/10545,Ritratti,http://it.wikipedia.org/wiki/Ritratto,0.6846
+http://purl.org/bncf/tid/18875,Rivoluzione cinese,http://it.wikipedia.org/wiki/Guerra_civile_cinese,0.79
+http://purl.org/bncf/tid/16731,Rivoluzione russa,http://it.wikipedia.org/wiki/Rivoluzione_russa_di_febbraio,0.8412
+http://purl.org/bncf/tid/19954,Romanzi d'appendice,http://it.wikipedia.org/wiki/Romanzo_d%27appendice,0.8063
+http://purl.org/bncf/tid/22227,Rose,http://it.wikipedia.org/wiki/Rosa_%28botanica%29,0.6456
+http://purl.org/bncf/tid/36901,Rotaie,http://it.wikipedia.org/wiki/Binario_ferroviario,0.7411
+http://purl.org/bncf/tid/5483,Rumore,http://it.wikipedia.org/wiki/Rumore_%28elettronica%29,0.766
+http://purl.org/bncf/tid/30807,Rumore <Segnali elettrici>,http://it.wikipedia.org/wiki/Rumore_%28elettronica%29,0.6953
+http://purl.org/bncf/tid/17456,Rune,http://it.wikipedia.org/wiki/Alfabeto_runico,0.7362
+http://purl.org/bncf/tid/30508,Sacramento della penitenza,http://it.wikipedia.org/wiki/Penitenza_%28sacramento%29,0.8179
+http://purl.org/bncf/tid/2981,Sali <Composti chimici>,http://it.wikipedia.org/wiki/Sale,0.7436
+http://purl.org/bncf/tid/31786,Saline,http://it.wikipedia.org/wiki/Sale,0.7788
+http://purl.org/bncf/tid/5938,Salinità,http://it.wikipedia.org/wiki/Sale,0.784
+http://purl.org/bncf/tid/30488,Salmi,http://it.wikipedia.org/wiki/Salmi,0.8208
+http://purl.org/bncf/tid/46674,Salsa,http://it.wikipedia.org/wiki/Salsa_%28musica%29,0.7095
+http://purl.org/bncf/tid/50598,Salse,http://it.wikipedia.org/wiki/Salsa_%28gastronomia%29,0.763
+http://purl.org/bncf/tid/9149,Salteri,http://it.wikipedia.org/wiki/Salterio_%28liturgia%29,0.8737
+http://purl.org/bncf/tid/10905,Salvezza,http://it.wikipedia.org/wiki/Salvezza_%28Bibbia%29,0.7263
+http://purl.org/bncf/tid/3186,Salvia,http://it.wikipedia.org/wiki/Salvia_officinalis,0.8545
+http://purl.org/bncf/tid/8237,Sanità pubblica,http://it.wikipedia.org/wiki/Salute,0.7197
+http://purl.org/bncf/tid/46490,Sansa,http://it.wikipedia.org/wiki/Sansa_di_olive,0.7323
+http://purl.org/bncf/tid/17399,Santità,http://it.wikipedia.org/wiki/Santit%C3%A0,0.6656
+http://purl.org/bncf/tid/17095,Sapere,http://it.wikipedia.org/wiki/Conoscenza,0.7446
+http://purl.org/bncf/tid/10808,Sarti,http://it.wikipedia.org/wiki/Sartoria,0.7482
+http://purl.org/bncf/tid/9293,Satelliti,http://it.wikipedia.org/wiki/Satellite_naturale,0.79
+http://purl.org/bncf/tid/39032,Saturazione,http://it.wikipedia.org/wiki/Idrocarburi,0.7278
+http://purl.org/bncf/tid/3298,Scale,http://it.wikipedia.org/wiki/Scala_%28architettura%29,0.6854
+http://purl.org/bncf/tid/3803,Scanner,http://it.wikipedia.org/wiki/Scanner_per_immagini,0.7729
+http://purl.org/bncf/tid/2072,Scavi archeologici,http://it.wikipedia.org/wiki/Scavi_archeologici_di_Pompei,0.7253
+http://purl.org/bncf/tid/5125,Scheletro,http://it.wikipedia.org/wiki/Scheletro_%28anatomia%29,0.7299
+http://purl.org/bncf/tid/3799,Sci di fondo,http://it.wikipedia.org/wiki/Sci_nordico,0.8233
+http://purl.org/bncf/tid/3509,Scienziati,http://it.wikipedia.org/wiki/Scienza,0.7972
+http://purl.org/bncf/tid/29623,Scolastica,http://it.wikipedia.org/wiki/Scolastica_%28filosofia%29,0.7385
+http://purl.org/bncf/tid/27564,Scopa,http://it.wikipedia.org/wiki/Scopa_%28gioco%29,0.7803
+http://purl.org/bncf/tid/4563,Scritture,http://it.wikipedia.org/wiki/Scrittura,0.7679
+http://purl.org/bncf/tid/49287,Segnalazione certificata di inizio attività,http://it.wikipedia.org/wiki/Segnalazione_certificata_di_inizio_attivit%C3%A0,0.8737
+http://purl.org/bncf/tid/44918,Segregazione razziale,http://it.wikipedia.org/wiki/Razzismo,0.8199
+http://purl.org/bncf/tid/9535,Selle,http://it.wikipedia.org/wiki/Finimenti,0.6625
+http://purl.org/bncf/tid/4030,Senatori a vita,http://it.wikipedia.org/wiki/Senatore_a_vita_%28diritto_italiano%29,0.8501
+http://purl.org/bncf/tid/25863,Senilità,http://it.wikipedia.org/wiki/Senilit%C3%A0,0.8574
+http://purl.org/bncf/tid/25180,Senna,http://it.wikipedia.org/wiki/Senna_%28botanica%29,0.7798
+http://purl.org/bncf/tid/26287,Seno,http://it.wikipedia.org/wiki/Mammella,0.7618
+http://purl.org/bncf/tid/5567,Sensi,http://it.wikipedia.org/wiki/Organi_di_senso,0.7379
+http://purl.org/bncf/tid/21330,Senso di colpa,http://it.wikipedia.org/wiki/Senso_di_colpa,0.7244
+http://purl.org/bncf/tid/36454,Serial ,http://it.wikipedia.org/wiki/Fiction_televisiva,0.6358
+http://purl.org/bncf/tid/22097,Seriazione,http://it.wikipedia.org/wiki/Distribuzione_%28statistica%29,0.8163
+http://purl.org/bncf/tid/38750,Servitù della gleba,http://it.wikipedia.org/wiki/Servit%C3%B9_della_gleba,0.8668
+http://purl.org/bncf/tid/31441,Servitù <Diritti reali di godimento>,http://it.wikipedia.org/wiki/Servit%C3%B9,0.7846
+http://purl.org/bncf/tid/13089,Servizio sanitario nazionale,http://it.wikipedia.org/wiki/Servizio_Sanitario_Nazionale_%28Italia%29,0.8577
+http://purl.org/bncf/tid/2891,Sesso,http://it.wikipedia.org/wiki/Sessualit%C3%A0,0.7834
+http://purl.org/bncf/tid/45256,Siero,http://it.wikipedia.org/wiki/Siero_sanguigno,0.7825
+http://purl.org/bncf/tid/24066,Sigma,http://it.wikipedia.org/wiki/Sigma_%28anatomia%29,0.7252
+http://purl.org/bncf/tid/30378,Signorie,http://it.wikipedia.org/wiki/Feudalesimo,0.7117
+http://purl.org/bncf/tid/5708,Silicati,http://it.wikipedia.org/wiki/Silicio,0.8925
+http://purl.org/bncf/tid/10311,Simbolismo,http://it.wikipedia.org/wiki/Simbolo,0.8081
+http://purl.org/bncf/tid/10316,Simbolismo <Movimenti letterari>,http://it.wikipedia.org/wiki/Simbolo,0.7169
+http://purl.org/bncf/tid/30127,Simulazione <Accordi>,http://it.wikipedia.org/wiki/Modello_matematico,0.6724
+http://purl.org/bncf/tid/34820,Sincope,http://it.wikipedia.org/wiki/Sincope_%28medicina%29,0.8892
+http://purl.org/bncf/tid/12066,Sindrome di Münchausen,http://it.wikipedia.org/wiki/Sindrome_di_M%C3%BCnchhausen,0.8609
+http://purl.org/bncf/tid/12065,Sindrome di Münchausen per procura,http://it.wikipedia.org/wiki/Sindrome_di_M%C3%BCnchhausen_per_procura,0.8609
+http://purl.org/bncf/tid/24593,Sindrome di Stein-Leventhal,http://it.wikipedia.org/wiki/Sindrome_dell%27ovaio_policistico,0.9377
+http://purl.org/bncf/tid/5684,Sintomi,http://it.wikipedia.org/wiki/Sintomo,0.6724
+http://purl.org/bncf/tid/48602,Sitcom,http://it.wikipedia.org/wiki/Situation_comedy,0.8483
+http://purl.org/bncf/tid/6246,Smorfia,http://it.wikipedia.org/wiki/La_Smorfia,0.826
+http://purl.org/bncf/tid/50913,Socializzazione,http://it.wikipedia.org/wiki/Socializzazione_%28sociologia%29,0.7111
+http://purl.org/bncf/tid/50942,Socializzazione <Interazione sociale>,http://it.wikipedia.org/wiki/Socializzazione_%28sociologia%29,0.7666
+http://purl.org/bncf/tid/6415,Società di capitali,http://it.wikipedia.org/wiki/Societ%C3%A0_di_capitali,0.8895
+http://purl.org/bncf/tid/6487,Società di intermediazione mobiliare,http://it.wikipedia.org/wiki/Societ%C3%A0_di_Intermediazione_Mobiliare,0.8947
+http://purl.org/bncf/tid/10030,Società di vita apostolica,http://it.wikipedia.org/wiki/Societ%C3%A0_di_vita_apostolica,0.7945
+http://purl.org/bncf/tid/5667,Società,http://it.wikipedia.org/wiki/Societ%C3%A0_%28sociologia%29,0.7348
+http://purl.org/bncf/tid/6424,Società in accomandita semplice,http://it.wikipedia.org/wiki/Societ%C3%A0_in_accomandita_semplice,0.8828
+http://purl.org/bncf/tid/13100,Società in nome collettivo,http://it.wikipedia.org/wiki/Societ%C3%A0_in_nome_collettivo,0.8464
+http://purl.org/bncf/tid/1441,Società <Organizzazioni>,http://it.wikipedia.org/wiki/Societ%C3%A0_%28sociologia%29,0.7207
+http://purl.org/bncf/tid/6434,Società per azioni,http://it.wikipedia.org/wiki/Societ%C3%A0_per_azioni,0.846
+http://purl.org/bncf/tid/21561,Soggetto,http://it.wikipedia.org/wiki/Soggetto_%28filosofia%29,0.7294
+http://purl.org/bncf/tid/8089,Soggetto <Sintassi>,http://it.wikipedia.org/wiki/Soggetto_%28linguistica%29,0.6954
+http://purl.org/bncf/tid/34333,Solidarietà,http://it.wikipedia.org/wiki/Solidariet%C3%A0,0.7124
+http://purl.org/bncf/tid/21436,Soma,http://it.wikipedia.org/wiki/Soma_%28Vedismo%29,0.7767
+http://purl.org/bncf/tid/32266,Somministrazione,http://it.wikipedia.org/wiki/Somministrazione_di_lavoro,0.7235
+http://purl.org/bncf/tid/20000,Sonetti,http://it.wikipedia.org/wiki/Sonetto,0.8359
+http://purl.org/bncf/tid/8149,Sordità,http://it.wikipedia.org/wiki/Sordit%C3%A0,0.7997
+http://purl.org/bncf/tid/17072,Sospensione,http://it.wikipedia.org/wiki/Sospensione_%28finanza%29,0.6093
+http://purl.org/bncf/tid/14742,Sostituto d'imposta,http://it.wikipedia.org/wiki/Sostituto_d%27imposta,0.8668
+http://purl.org/bncf/tid/5557,Sottosuolo,http://it.wikipedia.org/wiki/Suolo,0.7583
+http://purl.org/bncf/tid/31704,Spalle,http://it.wikipedia.org/wiki/Spalla_%28anatomia%29,0.7819
+http://purl.org/bncf/tid/5602,Spasticità,http://it.wikipedia.org/wiki/Spasticit%C3%A0,0.8258
+http://purl.org/bncf/tid/18563,Specchie,http://it.wikipedia.org/wiki/Specchia,0.8775
+http://purl.org/bncf/tid/17198,Sperma,http://it.wikipedia.org/wiki/Spermatozoo,0.813
+http://purl.org/bncf/tid/1618,Spettacoli,http://it.wikipedia.org/wiki/Rappresentazione_teatrale,0.7115
+http://purl.org/bncf/tid/38503,Spettri,http://it.wikipedia.org/wiki/Spettro_elettromagnetico,0.6532
+http://purl.org/bncf/tid/21812,Spettrometri di massa,http://it.wikipedia.org/wiki/Spettrometria_di_massa,0.8839
+http://purl.org/bncf/tid/21452,Spezie,http://it.wikipedia.org/wiki/Spezia_%28alimento%29,0.8289
+http://purl.org/bncf/tid/10259,Spirito,http://it.wikipedia.org/wiki/Spirito_%28filosofia%29,0.8021
+http://purl.org/bncf/tid/13793,Spiritualità,http://it.wikipedia.org/wiki/Spiritualit%C3%A0,0.7199
+http://purl.org/bncf/tid/6082,Spoliazioni napoleoniche,http://it.wikipedia.org/wiki/Furti_napoleonici,0.8288
+http://purl.org/bncf/tid/22270,Spondilosi cervicale,http://it.wikipedia.org/wiki/Artrosi_cervicale,0.8166
+http://purl.org/bncf/tid/7634,Stabilità,http://it.wikipedia.org/wiki/Statica,0.6865
+http://purl.org/bncf/tid/6192,Stampa,http://it.wikipedia.org/wiki/Giornalismo,0.7323
+http://purl.org/bncf/tid/36075,Stato d'assedio,http://it.wikipedia.org/wiki/Stato_d%27assedio,0.6868
+http://purl.org/bncf/tid/21686,Stato di necessità,http://it.wikipedia.org/wiki/Stato_di_necessit%C3%A0,0.7973
+http://purl.org/bncf/tid/10901,Statuti,http://it.wikipedia.org/wiki/Statuto_%28diritto%29,0.7081
+http://purl.org/bncf/tid/25080,Sterilità,http://it.wikipedia.org/wiki/Sterilit%C3%A0,0.7385
+http://purl.org/bncf/tid/30636,Sterilizzazione <Chirurgia>,http://it.wikipedia.org/wiki/Sterilizzazione_%28medicina%29,0.791
+http://purl.org/bncf/tid/30568,Sterilizzazione,http://it.wikipedia.org/wiki/Sterilizzazione_%28igiene%29,0.8055
+http://purl.org/bncf/tid/19282,Stile impero,http://it.wikipedia.org/wiki/Architettura_neoclassica,0.8684
+http://purl.org/bncf/tid/10610,Stilistica,http://it.wikipedia.org/wiki/Stile,0.7479
+http://purl.org/bncf/tid/5964,Strateghi,http://it.wikipedia.org/wiki/Stratego,0.6972
+http://purl.org/bncf/tid/37053,Stress,http://it.wikipedia.org/wiki/Stress_%28medicina%29,0.7577
+http://purl.org/bncf/tid/18361,Strumentazione,http://it.wikipedia.org/wiki/Strumento_musicale,0.6771
+http://purl.org/bncf/tid/23285,Struttura,http://it.wikipedia.org/wiki/Cristallo,0.6708
+http://purl.org/bncf/tid/14178,Strutturalismo,http://it.wikipedia.org/wiki/Strutturalismo_%28filosofia%29,0.8223
+http://purl.org/bncf/tid/23134,Stucchi,http://it.wikipedia.org/wiki/Stucco,0.811
+http://purl.org/bncf/tid/15516,Studio,http://it.wikipedia.org/wiki/Ricerca_scientifica,0.6827
+http://purl.org/bncf/tid/27203,Sublimazione <Psicanalisi>,http://it.wikipedia.org/wiki/Sublimazione_%28psicologia%29,0.7985
+http://purl.org/bncf/tid/3102,Suini,http://it.wikipedia.org/wiki/Sus_%28zoologia%29,0.8174
+http://purl.org/bncf/tid/44283,Suite,http://it.wikipedia.org/wiki/Suite_%28musica%29,0.7581
+http://purl.org/bncf/tid/19220,Sukkot,http://it.wikipedia.org/wiki/Sukkot,0.8931
+http://purl.org/bncf/tid/24840,Superconduttori,http://it.wikipedia.org/wiki/Superconduttivit%C3%A0,0.8732
+http://purl.org/bncf/tid/25913,Superconduzione,http://it.wikipedia.org/wiki/Superconduttivit%C3%A0,0.9106
+http://purl.org/bncf/tid/41869,Sutura,http://it.wikipedia.org/wiki/Sutura_chirurgica,0.6981
+http://purl.org/bncf/tid/30885,Tabù,http://it.wikipedia.org/wiki/Tab%C3%B9,0.8035
+http://purl.org/bncf/tid/18061,Tamburello,http://it.wikipedia.org/wiki/Tamburello_%28sport%29,0.8454
+http://purl.org/bncf/tid/46669,Tastiere,http://it.wikipedia.org/wiki/Tastiera_%28informatica%29,0.881
+http://purl.org/bncf/tid/9836,Teatri,http://it.wikipedia.org/wiki/Teatro_%28architettura%29,0.6771
+http://purl.org/bncf/tid/19669,Teatro delle ombre,http://it.wikipedia.org/wiki/Teatro_d%27ombre,0.8225
+http://purl.org/bncf/tid/1794,Telecomunicazioni,http://it.wikipedia.org/wiki/Telecomunicazione,0.8361
+http://purl.org/bncf/tid/4987,Telefilm,http://it.wikipedia.org/wiki/Serie_televisiva,0.7312
+http://purl.org/bncf/tid/1749,Temperamento,http://it.wikipedia.org/wiki/Temperamento_%28musica%29,0.7419
+http://purl.org/bncf/tid/41461,Tenia,http://it.wikipedia.org/wiki/Tenia_%28zoologia%29,0.8795
+http://purl.org/bncf/tid/21832,Teorema di Carnot,http://it.wikipedia.org/wiki/Teorema_del_coseno,0.9021
+http://purl.org/bncf/tid/22111,Teorema fondamentale dell'algebra,http://it.wikipedia.org/wiki/Teorema_fondamentale_dell%27algebra,0.9591
+http://purl.org/bncf/tid/22174,Teoria della relatività,http://it.wikipedia.org/wiki/Teoria_della_relativit%C3%A0,0.9032
+http://purl.org/bncf/tid/22088,Teoria dell'informazione,http://it.wikipedia.org/wiki/Teoria_dell%27informazione,0.9024
+http://purl.org/bncf/tid/48103,Terapia di biofeedback,http://it.wikipedia.org/wiki/Terapia,0.6284
+http://purl.org/bncf/tid/31635,Termini,http://it.wikipedia.org/wiki/Termine_%28diritto%29,0.6846
+http://purl.org/bncf/tid/26274,Terra promessa,http://it.wikipedia.org/wiki/Terra_di_Israele,0.8086
+http://purl.org/bncf/tid/18192,Terrazze,http://it.wikipedia.org/wiki/Terrazzamento,0.7214
+http://purl.org/bncf/tid/10516,Testimoni,http://it.wikipedia.org/wiki/Testimonianza,0.6902
+http://purl.org/bncf/tid/33687,Tigri,http://it.wikipedia.org/wiki/Panthera_tigris,0.8125
+http://purl.org/bncf/tid/47472,Tipi etnici,http://it.wikipedia.org/wiki/Tipo_di_carattere,0.6793
+http://purl.org/bncf/tid/38066,Tiro,http://it.wikipedia.org/wiki/Tiro_%28balistica%29,0.7174
+http://purl.org/bncf/tid/4566,Topica,http://it.wikipedia.org/wiki/T%C3%B2pos,0.6753
+http://purl.org/bncf/tid/32793,Topografia storica,http://it.wikipedia.org/wiki/Topografia,0.7449
+http://purl.org/bncf/tid/46334,Tornado,http://it.wikipedia.org/wiki/Tromba_d%27aria,0.746
+http://purl.org/bncf/tid/42783,Torpedini,http://it.wikipedia.org/wiki/Torpediniformes,0.7531
+http://purl.org/bncf/tid/9661,Transessualismo,http://it.wikipedia.org/wiki/Transessualit%C3%A0,0.8596
+http://purl.org/bncf/tid/30054,Trascendentalismo,http://it.wikipedia.org/wiki/Trascendentale,0.9224
+http://purl.org/bncf/tid/38875,Trasformismo,http://it.wikipedia.org/wiki/Trasformismo_%28politica%29,0.8119
+http://purl.org/bncf/tid/26148,Tratta degli schiavi,http://it.wikipedia.org/wiki/Schiavismo,0.8304
+http://purl.org/bncf/tid/23392,Trattori,http://it.wikipedia.org/wiki/Trattore_agricolo,0.7639
+http://purl.org/bncf/tid/25793,Traversine,http://it.wikipedia.org/wiki/Traversa_%28ferrovia%29,0.7777
+http://purl.org/bncf/tid/35101,Tregua,http://it.wikipedia.org/wiki/Cessate_il_fuoco,0.6802
+http://purl.org/bncf/tid/36041,Triade,http://it.wikipedia.org/wiki/Triade_%28organizzazione_criminale%29,0.7146
+http://purl.org/bncf/tid/17459,Tribù,http://it.wikipedia.org/wiki/Trib%C3%B9,0.7203
+http://purl.org/bncf/tid/30177,Trinità,http://it.wikipedia.org/wiki/Trinit%C3%A0_%28cristianesimo%29,0.8121
+http://purl.org/bncf/tid/17765,Trionfi,http://it.wikipedia.org/wiki/Trionfo,0.6901
+http://purl.org/bncf/tid/30841,Trionfi <Poesia>,http://it.wikipedia.org/wiki/I_Trionfi,0.7305
+http://purl.org/bncf/tid/27799,Trionfo della morte,http://it.wikipedia.org/wiki/Trionfo_della_Morte,0.8808
+http://purl.org/bncf/tid/37850,Tritoni,http://it.wikipedia.org/wiki/Triturus,0.7887
+http://purl.org/bncf/tid/1865,Tropi,http://it.wikipedia.org/wiki/Tropo_%28liturgia%29,0.8199
+http://purl.org/bncf/tid/28815,Tutor,http://it.wikipedia.org/wiki/Tutor_di_formazione,0.6775
+http://purl.org/bncf/tid/20543,Umidità atmosferica,http://it.wikipedia.org/wiki/Umidit%C3%A0,0.8097
+http://purl.org/bncf/tid/21652,Umidità,http://it.wikipedia.org/wiki/Umidit%C3%A0,0.7904
+http://purl.org/bncf/tid/51755,Umiltà,http://it.wikipedia.org/wiki/Umilt%C3%A0,0.7346
+http://purl.org/bncf/tid/35173,Unità,http://it.wikipedia.org/wiki/Uno_%28filosofia%29,0.6723
+http://purl.org/bncf/tid/5809,Uova,http://it.wikipedia.org/wiki/Uovo_%28biologia%29,0.7427
+http://purl.org/bncf/tid/5807,Uova <Oggetti d'arte>,http://it.wikipedia.org/wiki/Uovo_%28alimento%29,0.7014
+http://purl.org/bncf/tid/14519,Utilità marginale,http://it.wikipedia.org/wiki/Utilit%C3%A0_marginale,0.8777
+http://purl.org/bncf/tid/23961,Uvea,http://it.wikipedia.org/wiki/Uvea_%28medicina%29,0.9093
+http://purl.org/bncf/tid/20108,Validità,http://it.wikipedia.org/wiki/Logica,0.744
+http://purl.org/bncf/tid/37944,Vallombrosani <Religiosi>,http://it.wikipedia.org/wiki/Congregazione_vallombrosana,0.8944
+http://purl.org/bncf/tid/21385,Valore <Filosofia>,http://it.wikipedia.org/wiki/Bene_%28etica%29,0.7384
+http://purl.org/bncf/tid/26232,Valvole,http://it.wikipedia.org/wiki/Valvola_%28idraulica%29,0.7949
+http://purl.org/bncf/tid/7066,Variabili,http://it.wikipedia.org/wiki/Informatica,0.6442
+http://purl.org/bncf/tid/19174,Variabilità,http://it.wikipedia.org/wiki/Variabilit%C3%A0,0.6454
+http://purl.org/bncf/tid/22208,Variazioni <Forme musicali>,http://it.wikipedia.org/wiki/Variazione_%28musica%29,0.7288
+http://purl.org/bncf/tid/21502,Variazioni,http://it.wikipedia.org/wiki/Variazione_%28musica%29,0.6347
+http://purl.org/bncf/tid/27889,Varietà algebriche,http://it.wikipedia.org/wiki/Variet%C3%A0_algebrica,0.9012
+http://purl.org/bncf/tid/36737,Varietà,http://it.wikipedia.org/wiki/Diversit%C3%A0_genetica,0.7575
+http://purl.org/bncf/tid/18400,Varo,http://it.wikipedia.org/wiki/Varo_%28nautica%29,0.8002
+http://purl.org/bncf/tid/29846,Vassalli,http://it.wikipedia.org/wiki/Feudalesimo,0.7836
+http://purl.org/bncf/tid/47755,Velisti,http://it.wikipedia.org/wiki/Vela_%28sport%29,0.7535
+http://purl.org/bncf/tid/39084,Venere <Pianeti>,http://it.wikipedia.org/wiki/Venere_%28astronomia%29,0.8346
+http://purl.org/bncf/tid/37732,Ventricolografia,http://it.wikipedia.org/wiki/Ventricolografia_cerebrale,0.7649
+http://purl.org/bncf/tid/20240,Verginità,http://it.wikipedia.org/wiki/Verginit%C3%A0,0.7484
+http://purl.org/bncf/tid/25012,Verità,http://it.wikipedia.org/wiki/Verit%C3%A0,0.7317
+http://purl.org/bncf/tid/26267,Vertigini,http://it.wikipedia.org/wiki/Vertigine_%28medicina%29,0.8207
+http://purl.org/bncf/tid/834,Veterinaria,http://it.wikipedia.org/wiki/Medicina_veterinaria,0.7603
+http://purl.org/bncf/tid/47310,Vetrerie,http://it.wikipedia.org/wiki/Vetro,0.7827
+http://purl.org/bncf/tid/8106,Vettori,http://it.wikipedia.org/wiki/Vettore_%28fisica%29,0.8019
+http://purl.org/bncf/tid/28067,Villotte <Forme musicali>,http://it.wikipedia.org/wiki/Villotta_%28forma_musicale%29,0.7257
+http://purl.org/bncf/tid/28886,Villotte,http://it.wikipedia.org/wiki/Villotta_%28forma_musicale%29,0.7134
+http://purl.org/bncf/tid/18692,Virtù cardinali,http://it.wikipedia.org/wiki/Virt%C3%B9_cardinali,0.8711
+http://purl.org/bncf/tid/12776,Virtù teologali,http://it.wikipedia.org/wiki/Virt%C3%B9_teologali,0.8341
+http://purl.org/bncf/tid/7098,Virus <Programmi per elaboratori>,http://it.wikipedia.org/wiki/Virus_%28informatica%29,0.7909
+http://purl.org/bncf/tid/29647,Viscosa,http://it.wikipedia.org/wiki/Viscosit%C3%A0,0.7728
+http://purl.org/bncf/tid/20852,Viscosità,http://it.wikipedia.org/wiki/Viscosit%C3%A0,0.856
+http://purl.org/bncf/tid/19709,Vita eterna,http://it.wikipedia.org/wiki/Immortalit%C3%A0,0.7616
+http://purl.org/bncf/tid/6417,Viti,http://it.wikipedia.org/wiki/Vitis,0.6769
+http://purl.org/bncf/tid/20464,Viti <Meccanismi>,http://it.wikipedia.org/wiki/Vite_%28meccanica%29,0.7075
+http://purl.org/bncf/tid/46333,Vivai,http://it.wikipedia.org/wiki/Vivaismo,0.651
+http://purl.org/bncf/tid/50220,Vizi di legittimità,http://it.wikipedia.org/wiki/Vizio_di_legittimit%C3%A0,0.8097
+http://purl.org/bncf/tid/22933,Volontà,http://it.wikipedia.org/wiki/Volont%C3%A0,0.651
+http://purl.org/bncf/tid/27832,Volte a vela,http://it.wikipedia.org/wiki/Volta_%28architettura%29,0.8753
+http://purl.org/bncf/tid/19891,Vudù,http://it.wikipedia.org/wiki/Vud%C3%B9,0.8827
+http://purl.org/bncf/tid/6090,Vuoto,http://it.wikipedia.org/wiki/Vuoto_%28fisica%29,0.7322
+http://purl.org/bncf/tid/50090,Zappatori,http://it.wikipedia.org/wiki/Genio_militare,0.798
