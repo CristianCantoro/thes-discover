@@ -30,3 +30,38 @@ Il file contenenti le annotazioni (`.map`) sono stati applicati a:
 * NS-SKOS-Cose-Strutture.xml
 * NS-SKOS-Tempo.xml
 * NS-Thes.xml
+
+Installazione
+-------------
+È possibile installare tutti i pacchetti necessari tramite pip.
+
+```
+(sudo) pip install -r requirements.txt
+```
+
+`sudo` è necessario qualora si vogliano installare i pacchetti in modo globale
+in tutto il sistema. È consigliabile comunque utilizzare un _virtualenv_.
+
+Comandi utili
+-------------
+
+Riunire tutti i risultati in un unico file:
+```bash
+cat new_annotations-* > new_annotations_all.map
+cat different_annotations-* > different_annotations_all.map
+```
+
+Per ordinare i risultati per termine (THES) e quindi per punteggio:
+```bash
+sort --field-separator=',' --key=2,4 annotations.map > sorted_annotations.map
+```
+
+Grafico
+-------
+Nella cartella `utils` il file `graph.py` permette di reallizzare un grafico
+interattivo che mostra le varie associazioni con i punteggi.
+
+Si può lanciare, ad esempio con il comando:
+```bash
+:thes-discover/utils$ python graph.py ../new_annotations.map 
+````

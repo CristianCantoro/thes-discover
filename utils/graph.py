@@ -1,16 +1,42 @@
 #!/usr/bin/env python
 # -*- coding: utf-8  -*-
+#########################################################################
+# Copyright (C) 2012 Cristian Consonni <cristian.consonni@gmail.com>.
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program (see COPYING).
+# If not, see <http://www.gnu.org/licenses/>.
+#########################################################################
+"""Usage:
+  graph.py <csv>
 
-import matplotlib
+Options:
+  -h --help                                     Show this screen.
+  --version                                     Show version.
+"""
+
+from docopt import docopt
 import matplotlib.pyplot as plt
+
+import sys
+sys.path.append('..')
+
 from unicodecsv import UnicodeReader
 
-NEW_ANNOTATIONS = 'new_annotations.map'
 
-
-def graph():
+def graph(infile_name):
     readlist = []
-    with open(NEW_ANNOTATIONS, 'r') as infile:
+    with open(infile_name, 'r') as infile:
         reader = UnicodeReader(infile)
         readlist += [re for re in reader]
 
@@ -61,4 +87,7 @@ def graph():
     plt.show()
 
 if __name__ == '__main__':
-    graph()
+    arguments = docopt(__doc__, version='0.2.0')
+
+    infile_name = arguments['<csv>']
+    graph(infile_name)
