@@ -2,14 +2,14 @@ thes-discover
 =============
 
 (English)
-Script using [DataTXT](https://dandelion.eu/products/datatxt/) by 
+Script using [Dandelion API](https://dandelion.eu/) by
 [Spaziodati](http://spaziodati.eu/) to link terms in the 
 [Italian Thesarus](http://thes.bncf.firenze.sbn.it/) of the 
 [Central National Library of Florence](http://www.bncf.firenze.sbn.it/)
 to [Italian Wikipedia](http://it.wikipedia.org)
 
 (Italian)
-Script che usa [DataTXT](https://dandelion.eu/products/datatxt/) di
+Script che usa le [API Dandelion](https://dandelion.eu/) di
 [Spaziodati](http://spaziodati.eu/) per linkare i termini del
 [Thesaruso del Nuovo Soggettario](http://thes.bncf.firenze.sbn.it/) della
 [Biblioteca Nazionale Centrale di Firenze](http://www.bncf.firenze.sbn.it/)
